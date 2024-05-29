@@ -1,0 +1,2083 @@
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the key components of future intelligent transportation systems (ITS)?
+**A1:** Connected and autonomous vehicles (CAVs) will form the backbone of future next-generation ITS, providing travel comfort, road safety, and a number of value-added services.
+
+=======
+
+**Q2:** What are the key technologies driving the transformation of ITS?
+**A2:** The transformation will be fuelled by concomitant advances in technologies for machine learning (ML) and wireless communications.
+
+=======
+
+**Q3:** What are the security concerns related to the use of ML in CAVs?
+**A3:** There are lurking security problems related to the use of ML in such a critical setting where an incorrect ML decision may not only be a nuisance but can lead to loss of precious lives.
+
+=======
+
+**Q4:** What is the focus of this paper?
+**A4:** In this paper, we present an in-depth overview of the various challenges posed by adversarial machine learning and the way forward.
+
+=======
+
+**Q5:** What are the potential consequences of an incorrect ML decision in CAVs?
+**A5:** An incorrect ML decision may not only be a nuisance but can lead to loss of precious lives.
+
+=======
+
+**Q6:** What are the key benefits of the future vehicular ecosystem enabled by CAVs and ML?
+**A6:** Such a transformation will enable a future vehicular ecosystem that is better featured and more efficient.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the challenges associated with the application of ML in vehicular networks?**
+**A1:** The application of ML in vehicular networks faces several challenges, including the need for large amounts of labeled data, the complexity of the network topology, and the potential for adversarial attacks.
+
+=======
+
+**Q2: What is the focus of the paper?**
+**A2:** The paper focuses on the application of ML in connected and autonomous vehicles (CAVs), specifically on the formulation of the ML pipeline for CAVs and the potential security issues associated with the adoption of ML methods.
+
+=======
+
+**Q3: What are the main driving forces behind the development of CAVs?**
+**A3:** The main driving forces behind the development of CAVs are the advancements in ML and the potential benefits of improved safety, efficiency, and convenience that CAVs can offer.
+
+=======
+
+**Q4: What is the significance of ITS in the context of CAVs?**
+**A4:** ITS plays a crucial role in the context of CAVs, as it enables vehicles to communicate with each other and with infrastructure to exchange critical information, such as traffic and road conditions, to improve safety and efficiency.
+
+=======
+
+**Q5: What is the potential impact of adversarial ML attacks on CAVs?**
+**A5:** Adversarial ML attacks on CAVs can have significant consequences, including compromised safety and security, and potential harm to passengers and other road users.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs, formatted as requested:
+
+**Q1:** What are some of the machine learning methods used in autonomous vehicles?
+**A1:** Autonomous vehicles employ a range of machine learning methods, including deep learning (DL) techniques, to make decisions at various levels. These methods enable the vehicles to perceive their environment, make predictions, and take actions accordingly.
+
+=======
+
+**Q2:** How do autonomous vehicles differ from conventional connected vehicles?
+**A2:** Unlike conventional connected vehicles, autonomous vehicles have the capability to make decisions independently, without human intervention. This is achieved through the use of machine learning algorithms that enable the vehicles to perceive their environment, make predictions, and take actions accordingly.
+
+=======
+
+**Q3:** What is the role of deep learning in autonomous vehicles?
+**A3:** Deep learning plays a crucial role in autonomous vehicles, as it enables the vehicles to learn from large datasets and make predictions about their environment. This includes tasks such as object detection, tracking, and prediction, which are essential for safe and efficient navigation.
+
+=======
+
+**Q4:** What are some of the challenges associated with implementing machine learning in autonomous vehicles?
+**A4:** Implementing machine learning in autonomous vehicles is a complex task, as it requires the integration of multiple sensors, data processing, and decision-making algorithms. Additionally, the algorithms must be able to handle real-time data and make decisions quickly and accurately, while also ensuring the safety and reliability of the vehicle.
+
+=======
+
+**Q5:** How do autonomous vehicles use machine learning to make decisions?
+**A5:** Autonomous vehicles use machine learning to make decisions by processing data from various sensors, such as cameras, lidar, and radar. The data is then used to train machine learning models, which enable the vehicles to make predictions about their environment and take actions accordingly. This includes tasks such as object detection, tracking, and prediction, which are essential for safe and efficient navigation.
+
+=======
+Answer: 
+
+Question: Here are the first two question-answer pairs:
+
+**Q1: What are the two important characteristics of connected vehicles?**
+**A1:** Connected vehicles, also known as CAVs, have two key characteristics: automation capability and cooperation (connectivity) [1]. These characteristics are expected to have a significant impact on the vehicular ecosystem and society in future smart cities.
+
+=======
+
+**Q2: What technology enables the phenomenon of connected vehicles?**
+**A2:** The phenomenon of connected vehicles is realized through vehicular networks or vehicular ad-hoc networks (VANETs) [2]. These networks have been developed in various configurations, including the use of dedicated short-range communications (DSRC) in the United States and ITS-G5 in Europe based on the IEEE 802.11p standard.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the purpose of developing V2X technology?**
+**A1:** The purpose of developing V2X technology is to enable the communication between all entities encountered in the road environment, including vehicles, communications infrastructure, pedestrians, cycles, etc.
+
+=======
+Answer: 
+
+Question: Here is the first question-answer pair:
+
+**Q1:** What is the primary threat to autonomous vehicles?
+**A1:** The primary threat to autonomous vehicles is exploitation. As these vehicles become increasingly equipped with advanced sensors and processing capabilities, they become more vulnerable to attacks and exploitation.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are the potential uses of data collected from traffic flow, road, and network conditions?
+**A1:** Such data can be potentially used for improving the performance of the vehicular ecosystem using adaptive data-driven decision making and can also be used to accomplish various destructive objectives.
+
+=======
+
+**Q2:** Why is ensuring data integrity and security important for Connected and Autonomous Vehicles (CAVs)?
+**A2:** Ensuring data integrity and security are necessarily important to avoid various risks and attacks on CAVs.
+
+=======
+
+**Q3:** How are the perception and control systems of CAVs typically built?
+**A3:** The perception and control systems of CAVs are typically built using Machine Learning (ML) and Deep Learning (DL) methods.
+
+=======
+
+**Q4:** Are ML/DL techniques vulnerable to certain types of attacks?
+**A4:** Yes, ML/DL techniques have been recently found vulnerable to carefully crafted adversarial perturbations.
+
+=======
+
+**Q5:** Have physical world attacks been successfully performed on the vision system of autonomous cars?
+**A5:** Yes, different physical world attacks have been successfully performed on the vision system of autonomous cars.
+
+=======
+
+These question-answer pairs can be used to fine-tune a model and assess the author's understanding of the topic.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main focus of this paper?
+**A1:** In this paper, we aim to highlight various security issues associated with the use of Machine Learning (ML) and present a review of adversarial ML literature, mainly focusing on CA Vs.
+
+=======
+
+**Q2:** What are the strengths of ML and DL schemes?
+**A2:** ML and DL schemes, particularly deep neural networks (DNN), perform exceptionally well in learning hidden patterns from data. They have outperformed human-level intelligence in many perception and detection tasks by accurately learning from a large corpus of training data and classifying/predicting with high accuracy on unseen real-world test examples.
+
+=======
+
+**Q3:** What are some real-world security-sensitive tasks that use DL schemes?
+**A3:** DL schemes have been used in many real-world security-sensitive tasks such as perception systems in self-driving cars, anomaly and intrusion detection in vehicular networks, and more.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the limitations of traditional ML/DL schemes?**
+**A1:** Traditional ML/DL schemes are designed for benign and stationary environments where it is assumed that the training and test data belongs to the same statistical distribution. However, this assumption is flawed in real-world applications, where training and test data can have different statistical distributions, providing an opening for adversaries to compromise the ML/DL-based systems.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the security challenges that arise with the increasing adoption of ML techniques in CA Vs?**
+**A1:** The increasing adoption of ML techniques in Connected and Automated Vehicles (CA Vs) has given rise to various security challenges. One of the most significant challenges is the threat of adversarial ML, which involves manipulating the ML models to produce incorrect or misleading results.
+
+=======
+
+**Q2: What are the challenges posed by adversarial ML in CA Vs?**
+**A2:** Adversarial ML poses a significant threat to the security of CA Vs. Adversarial attacks can be launched on the ML models used in CA Vs to manipulate their behavior, leading to incorrect or misleading results. This can have serious consequences, such as compromising the safety and security of the vehicles.
+
+=======
+
+**Q3: What is the taxonomy of threat models for general ML, autonomous, and connected vehicle applications?**
+**A3:** We propose a taxonomy of threat models that categorizes attacks into different types based on the level of sophistication and the impact on the system. This taxonomy includes threat models for general ML, autonomous, and connected vehicle applications, and highlights the generalization of attack surfaces for these applications.
+
+=======
+
+**Q4: What are the existing adversarial ML attacks that are relevant for CA Vs?**
+**A4:** We review existing adversarial ML attacks that are relevant for CA Vs, including attacks on the training data, attacks on the ML models, and attacks on the deployment environment. These attacks can be launched to manipulate the behavior of the ML models and compromise the security of the vehicles.
+
+=======
+
+**Q5: What are the robust ML approaches that can be used to mitigate adversarial attacks in CA Vs?**
+**A5:** We review robust ML approaches that can be used to mitigate adversarial attacks in CA Vs, including approaches such as data augmentation, adversarial training, and certification. These approaches can help to improve the robustness of the ML models and reduce the impact of adversarial attacks.
+
+=======
+
+**Q6: What are the open research problems that require further investigation in the area of ML security for CA Vs?**
+**A6:** Finally, we highlight various open research problems that require further investigation in the area of ML security for CA Vs, including the development of more effective adversarial attacks, the design of more robust ML models, and the evaluation of the security of ML-based systems in real-world scenarios.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the main sections of the paper?**
+**A1:** The main sections of the paper are Section IV, which describes threats for CA Vs, Section V, which outlines various solutions to robustify applications of ML, Section VI, which presents open research problems on the use of ML in the context of CA Vs, and Section VII, which concludes the paper. Additionally, a summary of the salient acronyms used in the paper is presented in Table II for convenience.
+
+=======
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q1: What is the SAE taxonomy of driving automation organized into?**
+**A1:** The SAE taxonomy of driving automation is organized into six levels.
+
+=======
+
+Please let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the recommended approach for monitoring ODD in autonomous vehicles?**
+A1: According to the SAE, it is recommended that ODD (Operational Design Domain) should be monitored at run-time to gauge if the autonomous vehicle is in a situation that it was designed to safely handle. =======
+
+**Q2: When did the concept of self-driving vehicles first emerge?**
+A2: Self-driving vehicles, especially those considering lower levels of automation, have existed for a long time. In 1925, Francis Udina presented a remote-controlled car famously known as the American Wonder. =======
+
+**Q3: What were some notable early developments in the field of autonomous vehicles?**
+A3: In the 1939-1940 New York World's Fair, General Motors Futurama exhibited aspects of what we call self-driving cars today. General Motors and RCA initiated the first work around the design and development of self-driving vehicles in the early 1950s, followed by Prof. Robert Fenton at The Ohio State University from 1964-1980. =======
+
+**Q4: What were some notable advancements in autonomous vehicles in the 1980s?**
+A4: In 1986, Ernst Dickens at the University of Munich designed a robotic van that could drive autonomously without traffic, and by 1987, the robotic van drove up to 60 Km/hr. =======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+Q: What was the focus of the author's work after 1990?
+A: After each other, I started the development of driving scenes recognition tools using video imagery [20] that was followed by a demonstration performed under the Eureka Prometheus project.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What was the significance of the ATH Program by Caltrans and the University of California in 1986?**
+**A1:** The ATH Program by Caltrans and the University of California in 1986 marked the beginning of significant work on self-driving technology, which gained popularity with the demonstration of research work done by the National Automated Highway Systems Consortium (NAHSC) during 1994-98.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What was the outcome of the DARPA Grand Challenge in 2007?**
+**A1:** The team from Stanford University, with their vehicle "Stanley", was able to reach the finish line and win the challenge.
+
+=======
+Answer: 
+
+Question: Here's the answer:
+
+What is the timeline for the development of autonomous vehicles?
+
+The timeline for the development of autonomous vehicles is as follows: by 2020, self-driving cars may be permitted on highways with special lanes and control settings, by 2025, public transportation is expected to become driver-less, and by 2030, we can expect to have level-5 autonomous vehicles.
+
+=======
+Answer: 
+
+Question: Here is the answer:
+
+he development of autonomous vehicles over the past decades is depicted in "Introduction to Connected and Autonomous Vehicles (CAVs)".
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the concept of connected vehicles?**
+**A1:** Connected vehicles can be regarded as a cooperative intelligent transport system and a fundamental component of the Internet of vehicles (IoV).
+
+=======
+
+**Q2: What are the key components of connected vehicles?**
+**A2:** The key components of connected vehicles include various sensors (i.e., RADAR, LIDAR, localization, laser scanners, etc.) and computer vision techniques.
+
+=======
+
+**Q3: What is the primary purpose of initiating and investigating connected vehicle projects?**
+**A3:** The primary purpose of initiating and investigating connected vehicle projects is to reduce energy consumption and personnel costs by automated operation of following vehicles.
+
+=======
+
+**Q4: What are the potential benefits of connected vehicles?**
+**A4:** The potential benefits of connected vehicles include better traffic flow, road safety, and a greener vehicular environment, as well as the ability to double throughput on urban roads.
+
+=======
+
+**Q5: What is the current state of research in connected vehicles?**
+**A5:** Connected vehicles is an emerging area of research that is drawing substantial attention from both academia and industry.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the two types of nodes in a network of connected vehicles?**
+**A1:** There are two types of nodes in a network of connected vehicles: (1) vehicles having onboard units (OBUs), and (2) roadside wireless communication infrastructure or roadside units (RSUs).
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+Q: What are the major sensor types used in autonomous vehicles?
+A: Autonomous vehicles are equipped with a variety of sensors to perceive their environment and make decisions. These sensors include proximity sensors, short-range sensors, middle-range sensors, and long-range sensors. These sensors work together to provide a comprehensive view of the vehicle's surroundings, enabling it to navigate safely and efficiently. =======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the primary function of proximity sensors in autonomous vehicles?**
+A1: Proximity sensors are designed to detect nearby obstacles when the car is moving at a low speed, especially providing parking assistance.
+
+=======
+
+**Q2: What are the two types of short-range sensors in autonomous vehicles?**
+A2: There are two types of short-range sensors: (1) forward and backward cameras and (2) short-range radars (SRR).
+
+=======
+
+**Q3: What are the primary functions of short-range sensors in autonomous vehicles?**
+A3: Short-range sensors assist in traffic signs recognition and lane departure (forward cameras), parking assistance (backward cameras), and blind-spot detection and cross-traffic alert (SRR).
+
+=======
+
+**Q4: What are the primary functions of medium-range sensors in autonomous vehicles?**
+A4: Medium-range sensors, including LIDAR and medium-range radars (MRR), are designed for pedestrian detection and collision avoidance.
+
+=======
+
+**Q5: What is the primary function of long-range sensors in autonomous vehicles?**
+A5: Long-range radars (LRR) enable adaptive cruise control (ACC) at high speeds.
+
+Let me know if you'd like me to adjust the style or tone of the answers to better match the original text!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the primary source of information for autonomous vehicles?
+**A1:** The primary source of information for autonomous vehicles is collected from internal sensors and from other vehicles and nearby RSU.
+
+=======
+
+**Q2:** What are the five interconnected modules of software design in autonomous vehicles?
+**A2:** The five interconnected modules of software design in autonomous vehicles are environmental perception, mapping module, planning module, controller module, and system supervisor.
+
+=======
+
+**Q3:** What is the significance of the structure of modern vehicles' computer systems?
+**A3:** The structure of modern vehicles' computer systems has offered significant efficiency, safety, and cost benefits, but it has also created opportunities for new attacks.
+
+=======
+
+**Q4:** Why is ensuring the integrity and security of vehicular systems crucial?
+**A4:** Ensuring the integrity and security of vehicular systems is crucial because they are intended to be used in a critical and potentially dangerous environment.
+
+Let me know if you'd like me to add more question-answer pairs or if you have any specific requests!
+Answer: 
+
+Question: Here is the first question-answer pair:
+
+**Q1: What are the types of attacks on vehicular networks?**
+
+**A1:** Vehicular networks are vulnerable to various types of attacks, including Application Layer Attacks, which affect the functionality of specific vehicular applications such as beaconing and message spoofing.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is a spooﬁng attack in vehicular networks?**
+**A1:** A spooﬁng attack in vehicular networks is an attack where an adversary imitates another vehicle in the network to inject falsiﬁed messages into the target vehicle or a speciﬁc vehicle preceding the target. This type of attack does not require the physical presence of the attacker close to the target vehicle.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some of the major challenges in vehicular networks?
+**A1:** One of the major challenges is the issue of security, particularly in terms of message integrity and authenticity. For instance, a malicious vehicle can replay old messages to cause harm to the network and its nodes.
+
+=======
+
+**Q2:** What is an example of a message replaying attack in vehicular networks?
+**A2:** A malicious vehicle can attempt to jam traffic by replaying old messages. This can cause significant disruptions to the network and its nodes.
+
+=======
+
+**Q3:** What is authenticity in the context of vehicular networks?
+**A3:** Authenticity refers to protecting the vehicular network from both inside and outside malicious vehicles that possess falsified identities. This involves denying their access to the system.
+
+=======
+
+**Q4:** What are the two types of authenticity attacks in vehicular networks?
+**A4:** There are two types of authenticity attacks: Sybil attacks and impersonation attacks. In a Sybil attack, a malicious vehicle pretends to have multiple fake identities, while in an impersonation attack, an adversary exploits a legitimate vehicle to obtain network access and perform malicious activities.
+
+=======
+
+**Q5:** Can you give an example of an impersonation attack in vehicular networks?
+**A5:** Yes, a malicious vehicle can impersonate a few non-malicious vehicles to broadcast falsified messages. This type of attack can cause significant harm to the network and its nodes.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is another term for a masquerading attack?**
+**A1:** is also known as themasquerading attack.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here is the rewritten text in the style of a question-answer pair, with a separator (=======) between each pair:
+
+Q: What is the difference between network layer attacks and application layer attacks?
+A: Network layer attacks are different from application layer attacks in that they can be launched in a distributed manner.
+
+=======
+
+Q: Can you give an example of a network layer attack on vehicular systems?
+A: One prominent example is the use of vehicular botnets to attempt a denial of service (DoS) or distributed denial of service (DDoS) attack.
+
+=======
+
+Q: What is the potential impact of a vehicular network-based botnet attack on autonomous vehicles?
+A: The study presented in [46] demonstrates that such an attack can cause severe physical congestion on hot spot road segments, resulting in an increased trip duration of vehicles in the target area.
+
+=======
+
+Q: What is another way to realize a denial of service attack on vehicular networks?
+A: Another way is to use network jamming, which causes disruption in the communications network over a small or large geographic area.
+
+=======
+
+Q: How can vehicular networks be attacked, given their current configuration based on the IEEE 802.11p standard?
+A: As discussed earlier, current configurations of vehicular networks based on the IEEE 802.11p standard, which uses a single control channel (CCH) with multiple service channels (SCH), can be attacked.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are some conventional techniques to mitigate network layer attacks?
+**A1:** Various conventional techniques can be adopted to mitigate network layer attacks such as frequency hopping, channel, and technology switching, etc.
+
+=======
+
+**Q2:** What is a coalition or platooning attack?
+**A2:** A coalition or platooning attack is a type of attack in which a group of compromised vehicles can cooperate to perform malicious activities such as blocking or interrupting communications between legitimate vehicles.
+
+=======
+
+**Q3:** What are system level attacks and how serious are they?
+**A3:** System level attacks are attacks on the vehicle's hardware and software, which can be performed by either malicious insiders at the time of development or outsiders using unattended vehicular access. These attacks are more serious in nature as they can cause damage even in the presence of deployed state-of-the-art security measures and secure end-to-end communications.
+
+=======
+
+These question-answer pairs are designed to help fine-tune a model on the topic of cybersecurity in vehicular networks. The answers are written in a style that is similar to the original text, making it easy to use them as training data.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the potential consequences of inaccurate vehicle and communication systems in vehicular networks?
+**A1:** The accuracy of the vehicle and communication systems will be compromised, leading to a decline in the overall performance and security of the vehicular network. =======
+
+**Q2:** What is an example of a non-invasive sensor spoofing attack on a car's anti-lock braking system?
+**A2:** In [48], authors investigated a non-invasive sensor spoofing attack on a car's anti-lock braking system, where the braking system mistakenly reports a specific velocity. =======
+
+**Q3:** What is the potential threat of privacy breaches in vehicular networks?
+**A3:** In vehicular networks, vehicles broadcast safety messages periodically that contain critical information such as vehicle identity, current location, velocity, acceleration, etc. The adversary can exploit such kind of information by attempting an eavesdropping attack, which is a type of passive attack and is more difficult to be detected. Therefore, preserving the privacy of vehicles and drivers is of utmost importance. This allows the vehicles to communicate with each other without disclosing their identities, which is accomplished by masking their identities, e.g., using pseudonyms. In vehicular networks, knowing the origin of the messages can be a significant threat to privacy. =======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+Q: How can vehicles ensure confidentiality in inter-vehicular communication?
+A: Vehicles should be equipped with privacy-preserving authentication mechanisms to ensure that the communication among authorized vehicles (V2V) and with infrastructure (V2I) is confidential. =======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**1. What are the limitations of current sensors in self-driving vehicles?**
+Current sensors in self-driving vehicles are vulnerable to various types of noise and interference, such as acoustical interference from nearby objects and vehicles, etc. However, current sensors cannot resist intentional noise and it can be injected to realize various attacks such as jamming and spoofing. =======
+
+**2. How can the perception system of self-driving vehicles be vulnerable to attacks?**
+The perception system of self-driving vehicles is highly vulnerable to the physical world and adversarial attacks. For example, suppose we're learning a controller f(x) to predict the steering angle in an autonomous car as a function of the vision-based input (captured into a feature vector x). The adversary may introduce small manipulations (i.e., x is modified into x') such that the predicted steering angle f(x') is maximally distant from the optimal angle y. =======
+
+**3. What is an example of an attack on the perception system of self-driving vehicles?**
+An example of an attack on the perception system of self-driving vehicles is an adversary introducing small manipulations to the input data, such as adding a small amount of noise to the image, which can cause the predicted steering angle to be maximally distant from the optimal angle. This can lead to the autonomous vehicle taking a wrong turn or making a wrong decision. =======
+
+**4. How can intrusion detection systems be used to detect malicious activities in self-driving vehicles?**
+Intrusion detection systems can be used to detect malicious activities in self-driving vehicles by monitoring the vehicle's sensors and communication systems for any unusual or suspicious activity. For example, if an adversary is trying to inject noise into the vehicle's sensors, the intrusion detection system can detect this and alert the vehicle's control system to take action. =======
+
+**5. What are some potential consequences of attacks on self-driving vehicles?**
+Some potential consequences of attacks on self-driving vehicles include accidents, injuries, and even fatalities. For example, if an adversary is able to manipulate the vehicle's steering angle, it could cause the vehicle to crash or swerve into oncoming traffic. Additionally, attacks on self-driving vehicles could also compromise the vehicle's safety and security, leading to a loss of public trust in the technology. =======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are the major challenges of VANETs?
+**A1:** The major challenges of VANETs are intrusion detection systems, which enable the identification of various types of attacks being performed on the system.
+
+=======
+
+**Q2:** What types of attacks can occur in VANETs without an intrusion detection system?
+**A2:** Without an intrusion detection system, communication in vehicular networks is highly vulnerable to numerous attacks such as selective forwarding, rushing, and Sybil attacks, etc.
+
+=======
+
+**Q3:** How can selective forwarding attacks be detected in VANETs?
+**A3:** A trust system based method utilizing local and global detection of attacks among inter-nodes mutual monitoring and detection of abnormal driving patterns can be used to detect selective forwarding attacks.
+
+=======
+
+**Q4:** What is the proposed system for intelligent intrusion detection of gray holes and rushing attacks?
+**A4:** Alheeti et al. proposed a system for intelligent intrusion detection of gray holes and rushing attacks.
+
+=======
+
+**Q5:** What is the security mechanism of vehicular networks based on?
+**A5:** The security mechanism of vehicular networks is based on a trusted certification authority (CA) that manages the identities and credentials of vehicles by issuing valid certificates to them.
+
+=======
+
+**Q6:** What happens if a vehicle does not have a valid certificate in a VANET?
+**A6:** Vehicles are essentially unable to operate in the system without a valid certificate and the validity of certificates is crucial for secure communication in VANETs.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the challenges in revoking a certificate in a vehicular network?
+**A1:** The revocation process is a challenging task administratively due to challenges such as the identification of nodes with illegitimate behavior and the need to change the registered domain.
+
+=======
+
+**Q2:** Why is it necessary to revoke certificates in a vehicular network?
+**A2:** It is necessary to restrain malicious nodes by revoking their certificates to prevent them from attacking the system.
+
+=======
+
+**Q3:** How many different certificate revocation protocols have been proposed to tackle the problem of revoking certificates in a vehicular network?
+**A3:** Three different certificate revocation protocols have been proposed in [52].
+
+=======
+
+**Q4:** What are some non-security-related challenges in deploying connected autonomous vehicles (CAVs)?
+**A4:** The phenomenon of connected vehicles is realized using a technology named vehicular networks which have various challenges that need to be addressed for their efficient deployment in the longer term, such as high mobility of nodes.
+
+=======
+
+**Q5:** What is one of the challenges posed by the high mobility of nodes in vehicular networks?
+**A5:** The large scale mobility of vehicles in vehicular networks result in a highly dynamic topology; thus, raising several challenges for the communication networks [53].
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the challenges in designing a resource management protocol for a vehicular network with short-lived connections between vehicles and nearby RSUs?
+**A1:** The wireless channel coherence time is short, making accurate real-time channel estimation more challenging at the receiver end. This necessitates the design of dynamic and robust resource management protocols that can efficiently utilize available resources while adapting to vehicular density variations. =======
+
+**Q2:** What are the different modes of communication in vehicular networks, and what are the requirements for each mode?
+**A2:** Vehicular networks can be broadly categorized into V2V and V2I communications. In V2V communications, vehicles exchange safety-critical information, such as information beacons, road and traffic conditions, among each other, known as basic safety messages (BSM). This communication requires high reliability and is sensitive to delay. In V2I communications, vehicles communicate with nearby RSUs, which requires a different set of requirements. =======
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1:** How do vehicles communicate with nearby infrastructure?
+**A1:** Vehicles can communicate with nearby communications infrastructure to get support for route planning, traffic information, operational data, and to access entertainment services that require more bandwidth and frequent access to the Internet, e.g., for downloading high-quality maps and accessing infotainment services, etc.
+
+=======
+
+**Q2:** Why can't traditional wireless design approaches meet the requirements of VANETs?
+**A2:** Therefore, the heterogeneous and stringent QoS requirements of VANETs cannot be simultaneously met with traditional wireless design approaches.
+
+=======
+
+**Q3:** How can the dynamic nature of vehicular networks be addressed?
+**A3:** As discussed above, vehicular networks exhibit high dynamicity; thus, to meet the real-time and stringent requirements of vehicular networks, historical data-driven predictive strategies can be adopted, e.g., traditional methods like hidden Markov models (HMM) and Bayesian methods [56]. In addition to using traditional ML methods, more sophisticated DL models can be used, for example, recurrent neural networks (RNN) and long short term memory (LSTM) have been shown beneficial for...
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the potential applications of time series data in vehicular networks?
+**A1:** Time series data can be potentially used for modeling temporal dynamics of vehicular networks.
+
+=======
+
+**Q2:** How does the unbounded nature of vehicular networks lead to challenges?
+**A2:** The unbounded nature of vehicular networks leads to the challenge of network congestion, particularly in urban areas with high traffic density during rush hours.
+
+=======
+
+**Q3:** What are the time constraints for efficient application of vehicular networks?
+**A3:** The efficient application of vehicular networks requires hard real-time guarantees, as it lays the foundation for many other applications and services that require strict deadlines, such as traffic flow prediction, traffic congestion control, and path planning.
+
+=======
+
+**Q4:** Why is it important to broadcast safety messages in acceptable time in vehicular networks?
+**A4:** Safety messages should be broadcasted in acceptable time either by vehicles or RSUs because it is essential for the efficient application of vehicular networks, which relies on hard real-time guarantees.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are the four major modules of the machine learning (ML) pipeline in CA Vs?
+**A1:** The four major modules of the machine learning (ML) pipeline in CA Vs are perception, prediction, planning, and control.
+
+=======
+
+**Q2:** What is the primary function of the "perception" module in the ML pipeline of CA Vs?
+**A2:** The primary function of the "perception" module is to assist in perceiving the nearby environment and recognizing objects.
+
+=======
+
+**Q3:** What is the purpose of the "prediction" module in the ML pipeline of CA Vs?
+**A3:** The purpose of the "prediction" module is to predict the actions of perceived objects, i.e., how environmental actors such as vehicles and pedestrians will move.
+
+=======
+
+**Q4:** What is the function of the "planning" module in the ML pipeline of CA Vs?
+**A4:** The function of the "planning" module is to plan the route of the vehicle, i.e., how to reach from point A to B.
+
+=======
+
+**Q5:** What is the purpose of the "Decision Making & Control" module in the ML pipeline of CA Vs?
+**A5:** The purpose of the "Decision Making & Control" module is to make decisions relating to vehicle movement, i.e., how to make the longitudinal and lateral decisions.
+
+Let me know if you'd like me to add more question-answer pairs or if you have any specific requests!
+Answer: 
+
+Question: Here are the questions and answers based on the text:
+
+**Q1:** What are the components that are combined to develop a feedback system for self-driving vehicles?
+**A1:** The components are sensors, actuators, and control systems, which are combined to develop a feedback system for enabling the phenomenon of self-driving without any human intervention.
+
+=======
+
+**Q2:** What types of data can be easily gathered by CA Vs to facilitate autonomous real-time decisions?
+**A2:** The data includes vehicles' behavioral patterns, network topology, vehicles' locations, and kinetics information, etc.
+
+=======
+
+**Q3:** What are some of the most prominent applications of ML-based methods for performing tasks in CAVs?
+**A3:** The most prominent applications include ML-based methods for the perception task, motion planning, and control and steering tasks.
+
+=======
+
+**Q4:** What ML techniques have been widely used for developing the perception system of autonomous vehicles?
+**A4:** DL models have been widely used for developing the perception system of autonomous vehicles.
+
+=======
+
+**Q5:** What sensors are used by autonomous vehicles for detection of different events in the car's surroundings?
+**A5:** Autonomous vehicles use video cameras, RADAR, and other sensors for detection of different events in the car's surroundings.
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+Q: How does an autonomous vehicle perceive its surrounding environment?
+A: The surrounding environment of the autonomous vehicles is perceived in two stages. In the first stage, the whole road is scanned for the detection of changes in the driving conditions such as traffic signs and lights, pedestrian crossing, and other obstacles, etc. In the second stage, knowledge about the other vehicles is acquired.
+
+=======
+
+Q: What is the purpose of the first stage in perceiving the surrounding environment?
+A: The purpose of the first stage is to detect changes in the driving conditions such as traffic signs and lights, pedestrian crossing, and other obstacles, etc.
+
+=======
+
+Q: What is the purpose of the second stage in perceiving the surrounding environment?
+A: The purpose of the second stage is to acquire knowledge about the other vehicles.
+
+=======
+
+Q: How is direct perception representation of autonomous vehicles developed?
+A: A CNN model is trained for developing direct perception representation of autonomous vehicles.
+
+=======
+
+Q: What is another important task in CAVs that is accomplished using ML and DL algorithms?
+A: Accurate and timely prediction of different events encountered in driving scenes is another important task which is mainly accomplished using different ML and DL algorithms.
+
+=======
+
+Q: How do autonomous vehicles use DL models?
+A: Autonomous vehicles use DL models for the detection and localization of [insert answer here].
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What are some of the obstacles that CAVs need to overcome?**
+**A1:** Obstacles, different objects (e.g., vehicles, pedestrians, and bikes, etc.), and their behavior (e.g., tracking pedestrians along the way) and traffic signs and traffic lights recognition.
+
+=======
+
+**Q2: What are some of the prediction tasks in CAVs that involve the application of ML/DL methods?**
+**A2:** Another prediction task in CAVs that involve the application of ML/DL methods are vehicle trajectory and location prediction, efficient and intelligent wireless communication, and traffic flow prediction and modeling.
+
+=======
+
+**Q3: How do CAVs use ML schemes for planning tasks?**
+**A3:** CAVs are equipped with onboard data processing compatibilities and they intelligently process the data collected from heterogeneous sensors for efficient route planning and for other optimized operations using different ML and DL techniques.
+
+=======
+
+**Q4: What is the key goal of route planning in CAVs?**
+**A4:** The key goal of route planning is to reach the destination in a small amount of time while avoiding traffic congestion, potholes, and other vehicular obstacles.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the main focus of motion planning in autonomous vehicles?
+**A1:** Motion planning of autonomous vehicles is studied in three dimensions: finding a path for reaching a destination point, searching for the fastest maneuver, and determining the most feasible trajectory.
+
+=======
+
+**Q2:** What is a crucial task for planning the trajectory of an autonomous vehicle in a crowded environment?
+**A2:** Predicting the trajectories of other vehicles is a crucial task for the planning trajectory of an autonomous vehicle in a crowded environment, such as a city.
+
+=======
+
+**Q3:** How can uncertainty in vehicle trajectory prediction be modeled for autonomous vehicle applications?
+**A3:** Uncertainty in vehicle trajectory prediction can be modeled using a hybrid approach that combines deep learning and kernel density estimation, as presented by Li.
+
+=======
+
+**Q4:** What type of algorithms have been extensively used for control of autonomous vehicles?
+**A4:** Deep learning-based algorithms have been extensively used for control of autonomous vehicles, which are refined through millions of kilometers of test drives.
+
+=======
+
+**Q5:** What is an example of a CNN-based end-to-end learning framework for self-driving cars?
+**A5:** Bojarski et al. presented a CNN-based end-to-end learning framework for self-driving cars, which is a model that can be refined through millions of kilometers of test drives.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** Can a car be trained to drive on local roads with or without markings and on highways with small training data?
+**A1:** Yes, it is possible to train a car to drive on local roads with or without markings and on highways with small training data.
+
+=======
+
+**Q2:** What is the focus of recent research in the field of autonomous driving?
+**A2:** Recent research has shifted its focus to utilizing deep reinforcement learning (RL) for performing actions and decision making in driving conditions.
+
+=======
+
+**Q3:** What is the approach proposed by Bouton et al. to enforce probabilistic guarantees on RL learning?
+**A3:** Bouton et al. proposed a generic approach to enforce probabilistic guarantees on RL learning by deriving an exploration strategy that restricts the RL agent to choose among only those actions that satisfy a desired probabilistic specification criteria prior to training.
+
+=======
+
+**Q4:** How is human-like speed control of autonomous vehicles achieved using deep RL with double Q-learning?
+**A4:** Human-like speed control of autonomous vehicles is achieved using deep RL with double Q-learning by using scenes generated by naturalistic driving data for learning.
+
+=======
+
+**Q5:** What is the integrated framework presented in [93] for dynamic orchestration of networking, caching, and computing resources?
+**A5:** The integrated framework presented in [93] uses a deep RL-based approach for dynamic orchestration of networking, caching, and computing resources.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are some examples of ML-based methods used in Connected Autonomous Vehicles (CAVs)?**
+**A1:** ML-based methods have been used for various applications in CAVs, such as adaptive traffic flow, where smart infrastructure integrates V2V signals to optimize speed limits, traffic-light timing, and lane allocation based on actual traffic load.
+
+=======
+
+**Q2: How can ML-based methods improve traffic flow in CAVs?**
+**A2:** ML-based methods can further improve traffic flow in CAVs by using cooperative adaptive cruise control technology, which enables vehicles to follow each other in a platoon, reducing fuel consumption and improving traffic efficiency.
+
+=======
+
+**Q3: What are some potential security threats in CAVs, and how can ML-based methods address them?**
+**A3:** One potential security threat in CAVs is intrusion detection on the CAN bus, which can be addressed using DL-based methods to detect and prevent unauthorized access to vehicle systems.
+
+=======
+
+**Q4: What are the current and future perspectives on intelligent and connected vehicles?**
+**A4:** The current and future perspectives on intelligent and connected vehicles are presented in [96], which provides an overview of the latest developments and trends in this field.
+
+=======
+
+**Q5: What are the stages of development for autonomous vehicles?**
+**A5:** Autonomous vehicles are evolving through four stages of development, starting with passive warning and convenience systems such as front and backward-facing cameras, cross-traffic warning systems, and lane departure warning systems.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the primary functions of advanced driver-assistance systems (ADAS)?**
+**A1:** Advanced driver-assistance systems (ADAS) use computer vision and machine learning techniques to perceive the surrounding views of the vehicle on the road and recognize traffic signs, static, and moving objects. These systems are designed to assist the active control system of the vehicle while parking, braking, and to prevent backing over unseen objects.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the two fundamental goals of designing environments for Machine Learning (ML) in Connected and Autonomous (CA) Vehicles?**
+
+**A1:** The two fundamental goals are autonomy and interactivity. Autonomy enables the network to monitor, plan, and control itself, while interactivity ensures that the infrastructure is transparent and friendly to interact with.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How do you distinguish between different objects, events, and signs in the driving environment?
+**A1:** To effectively navigate the driving environment, it is crucial to distinguish between various objects, events, and signs. For instance, recognizing moving objects like pedestrians, vehicles, and cyclists, as well as distinguishing between traffic signs, such as stop or speed limit signs, is essential. This can be achieved through the use of advanced computer vision and machine learning techniques.
+
+=======
+
+**Q2:** What are some examples of decisions or actions that can be performed based on the learned knowledge in an autonomous vehicle?
+**A2:** Once the autonomous vehicle has learned from the driving environment, it can perform various decisions or actions. For example, it can stop at a stop sign, predict traffic flow based on the knowledge acquired by the vehicular network, or even make decisions about route planning and navigation. The possibilities are endless, and the potential applications are vast.
+
+=======
+
+**Q3:** How do you ensure that the autonomous vehicle makes accurate decisions or takes the right actions in different scenarios?
+**A3:** To ensure accurate decision-making, the autonomous vehicle relies on the learned knowledge and underlying system. This includes the use of advanced sensors, such as cameras, lidar, and radar, as well as sophisticated machine learning algorithms that can process and analyze vast amounts of data. By combining these technologies, the autonomous vehicle can make informed decisions and take the right actions in a wide range of scenarios.
+
+=======
+
+**Q4:** What are some potential applications of the learned knowledge in an autonomous vehicle?
+**A4:** The potential applications of the learned knowledge in an autonomous vehicle are vast and varied. For example, it can be used to improve traffic flow, reduce congestion, and enhance road safety. Additionally, it can be used to develop more advanced driver-assistance systems, such as lane departure warning and automatic emergency braking. The possibilities are endless, and the potential impact on society is significant.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the generalization of attack surfaces in ML systems?
+**A1:** The generalization of attack surfaces in ML systems is the illustration of how attack surfaces can be applied to generic models and then to more specific cases such as autonomous and connected vehicles.
+
+=======
+
+**Q2:** What are the stages in ML systems that are vulnerable to adversarial intrusion?
+**A2:** The stages in ML systems that are vulnerable to adversarial intrusion are data collection and processing, model tampering, and output tampering.
+
+=======
+
+**Q3:** What are adversarial examples in the context of ML/DL models?
+**A3:** Adversarial examples are inputs to a deployed ML/DL model created by an attacker by adding an imperceptible perturbation to the actual input to compromise the integrity of the model.
+
+=======
+
+**Q4:** How are adversarial samples created?
+**A4:** Adversarial samples are created by adding a small, carefully crafted perturbation δ to a correctly classified sample x.
+
+=======
+
+**Q5:** What is the optimization problem used to calculate the perturbation δ?
+**A5:** The optimization problem used to calculate the perturbation δ is given in Eq. (1) and is used to approximate the perturbation.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is an adversarial attack?**
+An adversarial attack is a malicious attempt to manipulate the learning process of a machine learning (ML) or deep learning (DL) scheme. There are two types of adversarial attacks: poisoning attacks, which compromise the training phase, and evasion attacks, which manipulate test data or real-time inputs to produce a false result.
+
+=======
+
+**Q2: What is the difference between poisoning and evasion attacks?**
+Poisoning attacks occur during the training phase, where an attacker manipulates the training data to compromise the learning process. Evasion attacks occur during the inference phase, where an attacker manipulates test data or real-time inputs to produce a false result.
+
+=======
+
+**Q3: What are adversarial examples?**
+Adversarial examples are inputs that are specifically crafted to fool an ML/DL scheme at inference time. They are used to evaluate the robustness of a model to attacks.
+
+=======
+
+**Q4: What is the formula for crafting adversarial examples?**
+The formula for crafting adversarial examples is given by: x∗=x+a r gm i n δ{/bardblδ/bardblf(x+δ)=t}, where x is the original input, a is the perturbation, and t is the targeted class.
+
+=======
+
+**Q5: What are the three major categories of adversarial perturbations?**
+The three major categories of adversarial perturbations are: local, global, and decision-based perturbations.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the most common method of generating adversarial perturbations?**
+**A1:** Local search is the most common method of generating adversarial perturbations.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the major shortcoming of the optimization problem provided in Eq. (1)?
+**A1:** The major shortcoming of this method is the increase in computational complexity with the increase of the number of examples in the dataset.
+
+=======
+
+**Q2:** What is the limitation of the adversarial attack proposed by Khalil et al. [101]?
+**A2:** The performance of the proposed attack reduces as the size and dimensions of data increase.
+
+=======
+
+**Q3:** What is the importance of adding small perturbations to adversarial examples?
+**A3:** The addition of small perturbations is of utmost importance, as even one-pixel perturbation is often sufficient to fool a deep model trained for classification tasks.
+
+=======
+Answer: 
+
+Question: Here is the first question-answer pair:
+
+**Question 1:** What are the two aspects of adversarial perturbations?
+
+**Answer:** Adversarial perturbations are generated from two aspects: (1) perturbations for each legitimate input and (2) universal perturbations for the complete dataset.
+
+=======
+Answer: 
+
+Question: Here is the rewritten text in the style of the author answering the questions himself:
+
+**Q: What are the simplest type of attacks that aim to limit or minimize the extent to which the maximum change for all pixels in adversarial examples is achieved?**
+
+A: The simplest type of attacks are L0-norm-based attacks, which aim to limit or minimize the extent to which the maximum change for all pixels in adversarial examples is achieved. This constraint forces the attacker to only make very small changes to each pixel.
+
+**=======**
+
+**Q: How do L0-norm-based attacks work, and what constraints do they place on the attacker's "starting point"?**
+
+A: L0-norm-based attacks work by minimizing the number of perturbed pixels in an image and forcing the modifications only to very few pixels. This means that the attacker's "starting point" is constrained to only introduce perturbations in a limited number of pixels.
+
+**=======**
+
+**Q: Why is it important to ensure imperceptibility of perturbations in developing an attack, and what constraints are placed on the attacker's "starting point" in this context?**
+
+A: Imperceptibility of perturbations is important to ensure that the attacker's "starting point" is tightly constrained, allowing the attacker to only introduce small and subtle changes to the input sample. This ensures that the perturbations are not easily detectable by a human.
+
+**=======**
+
+**Q: What are the four salient features of adversarial perturbations identified by Gilmer et al. [105]?**
+
+A: Gilmer et al. identified four salient features of adversarial perturbations: (a) Indistinguishable Perturbation, (b) Content-Preserving Perturbation, (c) Targeted Perturbation, and (d) Untargeted Perturbation.
+Answer: 
+
+Question: Here are the answers with the requested format:
+
+What is the constraint on the perturbation in the case of Preserving Perturbation?
+=============================
+
+The attacker does not have to select a starting point but it is given a draw from the data distribution and creates such perturbation as long as the original content of the sample is preserved.
+
+What type of perturbed input sample can the attacker generate in the case of Non-suspicious Input?
+=============================
+
+The attacker can generate any type of desired perturbed input sample as long as it remains undetectable to a human.
+
+What type of perturbed input sample can the attacker generate in the case of Content-Constrained Input?
+=============================
+
+The attacker can generate any type of desired perturbed input sample as long as it maintains some content payload, i.e., it must be a picture of a dog but not necessarily a particular dog. This includes payload-constrained input, where human perception might not be important. Rather, the intended function of the input example remains intact.
+
+What type of perturbed input sample can the attacker generate in the case of Unconstrained Input?
+=============================
+
+There is no constraint on the input and an attacker can produce any type of input example to get the desired output or behavior from the system.
+
+What is the topic of the next section in the text?
+=============================
+
+Adversarial ML Benchmarks In this section, we describe the benchmarks datasets and victim ML models
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the widely used benchmark datasets in adversarial ML research?**
+**A1:** The widely used benchmark datasets in adversarial ML research are MNIST, CIFAR-10, and ImageNet. These datasets are considered the standard deep learning datasets and are often used to evaluate the performance of adversarial attacks.
+
+=======
+
+**Q2: What are the widely used victim models for evaluating adversarial examples?**
+**A2:** The widely used victim models for evaluating adversarial examples are LeNet, AlexNet, VGG, GoogLeNet, CaffeNet, and ResNet. These models are commonly used as the target models to be attacked in adversarial ML research.
+
+=======
+
+**Q3: What is threat modeling in the context of adversarial ML attacks on CAVs?**
+**A3:** Threat modeling is the process of answering a few common and straightforward questions related to the system being developed or deployed from a hypothetical attacker's point of view. It is a fundamental component of security analysis and requires addressing fundamental questions related to the threat.
+
+=======
+
+Let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the key components of a threat model?**
+**A1:** A threat model should identify the system principals, which refers to the system and who are the stakeholders. It should also identify the system goals, which defines what the system intends to do. Additionally, it should identify the system adversities, which are the potential bad things that can happen due to adverse situations or motivated adversaries. Finally, it should identify the system invariants, which are the things that must always be true about the system even if bad things happen.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the measures for preventing or mitigating the effects of adversarial attacks on a system?**
+**A1: Measures for preventing or mitigating the effects of adversarial attacks on a system include...**
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here is the Q&A pair:
+
+**Q:** What are the three dimensions of the service attack?
+**A:** The three dimensions of the service attack are the ability of the service attack, the intentions of the attacker, and the types of security violation an attacker can cause.
+
+=======
+
+Please let me know if you'd like me to generate more Q&A pairs based on this text!
+Answer: 
+
+Question: Here's the answer:
+
+What is the difference between white-box, gray-box, and black-box attacks in the context of k-box attacks?
+
+The difference lies in the level of knowledge the adversary has about the targeted ML model. White-box attacks assume complete knowledge about the model, including information about the optimization technique, model architecture, activation function, hyper-parameters, layer weights, and training data. Gray-box attacks assume a partial knowledge about the targeted model, whereas black-box attacks assume zero knowledge and no access to the underlying ML model and training data. Black-box attacks are particularly relevant in real-world scenarios where there is limited information about the targeted ML/DL scheme.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are adversarial capabilities in the context of security?**
+**A1:** Adversarial capabilities refer to the strength of the adversaries to compromise the security of the system. They define how and what type of attacks an adversary can realize using what type of attack vector on which attack surface.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+Q: What are the two types of adversarial attacks on machine learning models?
+A: There are two types of adversarial attacks on machine learning models. The first type involves injecting examples into the training data, while the second type involves directly modifying the training data.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is an adversarial perturbation in the context of self-driving vehicles?
+**A1:** An adversarial perturbation is a small, carefully crafted change made to the input data of a machine learning model, with the goal of deceiving the model into making a mistake.
+
+=======
+
+**Q2:** What is the purpose of non-targeted adversarial attacks?
+**A2:** Non-targeted adversarial attacks are designed to reduce the classification confidence and accuracy of the model, making it less effective in detecting traffic signs or other objects.
+
+=======
+
+**Q3:** What are the two types of falsification attacks an adversary can launch on an autonomous vehicle's image classification system?
+**A3:** An adversary can launch either false positive attacks or false negative attacks. In a false positive attack, a negative sample is created that can be misclassified as a positive one, while in a false negative attack, a positive sample is created that can be misclassified as a negative one.
+
+=======
+
+**Q4:** What is an example of a false positive attack on an autonomous vehicle's image classification system?
+**A4:** A false positive attack would occur if an adversary generates an image that is misclassified as a traffic sign with high confidence, when in reality it is an unrecognizable image that does not belong to any class.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is an evasion attack in adversarial ML?**
+An evasion attack is a type of adversarial attack where the adversary generates a positive sample that can be misclassified as a negative one, which is the opposite of what the ML system is intended to do.
+
+=======
+
+**Q2: What is the difference between single-step and iterative adversarial attacks?**
+Single-step attacks are weaker and require less computational resources, while iterative adversarial attacks are stronger but require frequent interactions with the ML system and more computational resources.
+
+=======
+
+**Q3: What are the goals of an adversary in adversarial ML?**
+The classical approach to modeling an adversary's goals includes impacting the confidentiality, integrity, and availability (CIA model) of the ML system, as well as privacy.
+
+=======
+
+**Q4: What is the CIA model in adversarial ML?**
+The CIA model refers to the adversary's goals of impacting the confidentiality, integrity, and availability of the ML system.
+
+=======
+
+**Q5: What is the importance of considering privacy in adversarial ML?**
+Privacy is an important dimension to consider in adversarial ML, as it is a critical aspect of data security and protection.
+
+=======
+
+**Q6: How do iterative adversarial attacks differ from single-step attacks in terms of frequency?**
+Iterative adversarial attacks require frequent interactions with the ML system, whereas single-step attacks do not.
+
+=======
+
+**Q7: What is the relationship between attack frequency and computational resources in adversarial ML?**
+Iterative adversarial attacks require more computational resources and time due to the frequent interactions with the ML system.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: Who performed a pioneering work on adversarial ML in 2004?**
+A1: Dalvi et al. [125] proposed a minimum distance evasion of the linear classifier and tested their proposed attack on a spam classification system, highlighting the threat of adversarial ML examples.
+
+=======
+
+**Q2: Who proposed an adversarial classifier reverse engineering technique for constructing an adversarial attack on classification problems in 2005?**
+A2: Lowd and Meek [126] made a similar contribution by proposing an adversarial classifier reverse engineering technique for constructing an adversarial attack on classification problems.
+
+=======
+
+**Q3: Who discussed the security of ML in adversarial environments and provided a taxonomy of attacks on ML schemes along with potential defenses against them in 2006?**
+A3: Barreno et al. [127] discussed the security of ML in adversarial environments and provided a taxonomy of attacks on ML schemes along with the potential defenses against them in 2006.
+
+=======
+
+**Q4: Who provided the first consolidated review of adversarial ML in 2010, discussing the limitations on classifiers and adversaries in real-world settings?**
+A4: Huang et al. [128] provided the first consolidated review of adversarial ML in 2010, discussing the limitations on classifiers and adversaries in real-world settings.
+
+=======
+
+**Q5: Who proposed a poisoning attack on Support Vector Machines (SVM) to increase the test error in SVM, and what was the goal of their attack?**
+A5: Biggio et al. [97] proposed a poisoning attack on Support Vector Machines (SVM) to increase the test error in SVM, with the goal of increasing the test error in SVM.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** Can you elaborate on the authors' work on evading PDF malware detectors using a gradient-based approach?
+
+**A1:** Yes, the authors proposed an evasion attack where they used a gradient-based approach to evade PDF malware detectors. They tested their attack on SVM and simple neural networks, successfully altering the test error of SVM with linear and non-linear kernels.
+
+=======
+
+**Q2:** Who first observed adversarial ML attacks on DNNs and what was the proposed attack?
+
+**A2:** Adversarial ML attacks on DNNs were first observed by Szegedy et al. [9]. They demonstrated that DNNs can be fooled by minimally perturbing their input images at test time. The proposed attack was a gradient-based attack where minimum distance-based adversarial examples were crafted to fool the image classifiers.
+
+=======
+
+**Q3:** What is the FGSM algorithm and how does it produce adversarial examples?
+
+**A3:** The FGSM algorithm, proposed by Goodfellow et al. [99], is a gradient-based attack that formulates adversarial ML as a min-max problem. Adversarial examples are produced by calculating the lower bound on the adversarial perturbations. This method is still considered a very effective algorithm for creating adversarial examples and is a part of adversarial training.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What was introduced as a defensive mechanism against adversarial examples?**
+**A1:** Adversarial training was introduced as a defensive mechanism against adversarial examples.
+
+=======
+
+**Q2: Who highlighted the fragility of ML/DL schemes in real-world settings?**
+**A2:** Kurakin et al. highlighted the fragility of ML/DL schemes in real-world settings.
+
+=======
+
+**Q3: What method was used to create adversarial samples in Kurakin et al.'s study?**
+**A3:** The basic iterative method (BIM) and an extended version of FGSM were used to create adversarial samples.
+
+=======
+
+**Q4: What was demonstrated to be sufficient for fooling state-of-the-art deep learning based image classification models?**
+**A4:** Only rotation and translation were demonstrated to be sufficient for fooling state-of-the-art deep learning based image classification models.
+
+=======
+
+**Q5: What type of attack was presented by Liu et al. on neural networks?**
+**A5:** Liu et al. presented a trojaning attack on neural networks that works by modifying the neurons of the trained model instead of affecting the training process.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the concept of a backdoor in a machine learning (ML) model?
+**A1:** A backdoor refers to a maliciously introduced vulnerability in an ML model that allows an attacker to control the model's behavior as desired. In the case of Ojan, a backdoor was created to control a trojaned ML model, which was then tested on an autonomous vehicle.
+
+=======
+
+**Q2:** What is the Jacobian saliency-based adversarial attack (JSMA) scheme, and who proposed it?
+**A2:** The JSMA scheme is a white-box attack that exploits the mapping between the input and output of deep neural networks (DNNs) to construct adversarial examples. It was proposed by Papernot et al. [6] to fool DNN classifiers.
+
+=======
+
+**Q3:** What is defensive distillation, and who proposed it?
+**A3:** Defensive distillation is a training method proposed by Papernot et al. [6] to defend against adversarial perturbations. It involves training a model to predict the classification probabilities of another model, which was trained on the baseline standard, to give more importance to accuracy.
+
+=======
+
+**Q4:** What is the transferability property of adversarial examples, and who exploited it?
+**A4:** The transferability property refers to the ability of adversarial examples to fool multiple models, even if they were not trained on the same data. Papernot et al. [132] exploited this property to propose a black-box adversarial ML attack, where they used adversarial examples generated on one model to attack another model.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1:** What is the black-box adversarial attack that was based on substitute model training and can fool ML/DL classifiers?
+
+**A1:** This black-box adversarial attack was based on the substitute model training which not only fools the ML/DL classiﬁers but also breaks the distillation defensive mechanism.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is an example of an adversarial attack on a speech recognition system?**
+**A1:** Rlini and Wagner successfully demonstrated an adversarial attack on a speech recognition system by adding small noise in the audio signal that forces the underlying ML model to generate intended commands/text.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the vulnerabilities of ML/DL schemes?**
+**A1:** ML/DL schemes are very vulnerable to small, carefully crafted adversarial perturbations.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here is the rewritten text in the style of a question-answer format, with each question-answer pair separated by =======:
+
+Q: What was reported in 2016 regarding a Tesla autopilot?
+A: A Tesla autopilot was not able to handle the image contrast, which resulted in the death of the driver.
+
+=======
+
+Q: What was another issue reported with the Tesla autopilot in 2016?
+A: The Tesla autopilot was unable to differentiate between the bright sky and a white truck, which resulted in a horrible accident.
+
+=======
+
+Q: What happened to a Google self-driving car in a similar incident?
+A: The car was unable to estimate the relative speed, which resulted in a collision with a bus.
+
+=======
+
+Q: What happened to an Uber self-driving car in 2018?
+A: The car faced an accident due to a malfunctioning in the DNN-based system, which resulted in a pedestrian fatality.
+
+=======
+
+Q: Where can I find a detailed description of accidents caused by malfunctions in different components of self-driving vehicles?
+A: Table VI provides a detailed description of accidents caused by malfunctions in different components of self-driving vehicles.
+
+=======
+
+Q: What kind of attacks can be launched on autonomous vehicles?
+A: Physical World Attacks on Autonomous Vehicles can be launched, such as using FGSM and JSMA schemes to generate adversarial traffic signs to evade DNN-based traffic sign detection schemes.
+
+=======
+
+Q: Who proposed a method to highlight the problem of adversarial examples in autonomous driving?
+A: Sitawarin et al. [138] proposed a method to highlight the problem of adversarial examples in autonomous driving.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is an example of a real-world adversarial ML attack?
+**A1:** One example is altering the traffic signs and logos with adversarial perturbations while keeping the visual perception of the traffic and logo signs. This can be done to evade ML-based sign recognition systems in autonomous vehicles.
+
+=======
+
+**Q2:** What is the purpose of Sitawarin et al.'s proposed technique?
+**A2:** Sitawarin et al. proposed a technique for generating out-of-distribution adversarial examples to perform an evasion attack on ML-based sign recognition systems of autonomous vehicles.
+
+=======
+
+**Q3:** How did Sitawarin et al. exploit the camera height in autonomous vehicles?
+**A3:** They exploited the camera height to create an illusion of false traffic signs in the physical environment, which can fool the sign recognition system.
+
+=======
+
+**Q4:** What is the potential consequence of such attacks on autonomous vehicles?
+**A4:** Such attacks can cause accidents due to unintended adversarial conditions, as shown in Table VI.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q1: What is object detection in the context of autonomous vehicles?**
+**A1:** Object detection is an integral part of the perception module of autonomous vehicles, where state-of-the-art DNN-based schemes such as Mask R-CNN and YOLO are used to detect objects.
+
+=======
+
+Please let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the proposed adversarial billboard designed to do?**
+The proposed adversarial billboard is designed to inject a malfunction in the steering angle of the autonomous vehicle.
+
+**=======**
+
+**Q2: How much did the proposed adversarial billboard mislead the average steering angle?**
+The proposed adversarial billboard misled the average steering angle by 26.44 degrees.
+
+**=======**
+
+**Q3: What is the summary of state-of-the-art adversarial attacks on self-driving vehicles?**
+Table VII provides a summary of state-of-the-art adversarial attacks on self-driving vehicles.
+
+**=======**
+
+**Q4: What is the recent study that has shown imitation learning to be robust enough for autonomous vehicles to drive in a realistic environment?**
+A recent study [176] has shown that imitation learning is robust enough for autonomous vehicles to drive in a realistic environment.
+
+**=======**
+
+**Q5: What is the proposed model that learns to drive the vehicle by imitating best and synthesizing worst?**
+The proposed model is called ChauffeurNet, which learns to drive the vehicle by imitating best and synthesizing worst.
+
+**=======**
+
+**Q6: What is the definition of robustness in the context of ML solutions?**
+We define the robustness as the ability of the ML model to restrain adversarial examples.
+
+**=======**
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the two broad categories of defenses against adversarial attacks?**
+**A1:** In the literature, defenses against adversarial attacks have been divided into two broad categories: (1) reactive, which involves detecting adversarial observations (input) after deep models are trained; and (2) proactive, which makes the deep model robust against adversarial examples before the attack. =======
+
+**Q2: How can these techniques be broadly divided?**
+**A2:** Alternatively, these techniques can also be broadly divided into three categories: (1) modifying data; (2) adding auxiliary models; and (3) modifying models. The reader is referred to [insert reference] for a visual depiction of a taxonomy of robust ML solutions in which various techniques that fall in these categories are also listed. =======
+
+**Q3: What are the methods that fall under the category of modifying data?**
+**A3:** The methods falling under this category mainly deal with modification of either the training data (e.g., adversarial retraining) and its features or test data (e.g., data preprocessing). Widely used approaches that utilize such methods are described below. =======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is adversarial training and who proposed it?**
+**A1:** Adversarial training was firstly proposed by Goodfellow et al. [99] and Huang et al. [177] as a defense strategy to make deep neural networks (DNNs) robust against adversarial attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs in the style you requested:
+
+**Q1:** How can we transform adversarial examples back to legitimate ones?
+**A1:** Once the adversarial examples have been transformed, they will not affect the prediction of DNN models.
+
+=======
+
+**Q2:** What is a technique for robustifying DNN models against adversarial examples?
+**A2:** A technique named deep contractive autoencoder has been proposed in [179]. They trained a denoising autoencoder for cleaning adversarial perturbations.
+
+=======
+
+**Q3:** How can we reduce the available feature space to an adversary to construct adversarial perturbations?
+**A3:** Feature squeezing can be used to reduce the available feature space to an adversary. This technique combines samples having heterogeneous feature vectors in the original space into a single space. It can be performed at two levels: reducing color bit depth and spatial domain smoothing using both local and non-local methods.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main idea behind the features masking method in [182]?
+**A1:** The features masking method involves adding a masking layer before the softmax layer of the classifier to mask the most sensitive features of the input that are more prone to adversarial perturbations.
+
+=======
+
+**Q2:** What is the purpose of adding the masking layer in the features masking method?
+**A2:** The purpose of adding the masking layer is to force the corresponding weights of this layer to zero, effectively masking the most sensitive features of the input that are more prone to adversarial perturbations.
+
+=======
+
+**Q3:** Can you provide more information about the effectiveness of the features masking method?
+**A3:** Unfortunately, the effectiveness of the features masking method was found to be less effective in a later study [181].
+
+=======
+
+**Q4:** How does the developing adversarially robust features method work?
+**A4:** The developing adversarially robust features method has been recently proposed as an effective approach to make DNNs resilient against adversarial attacks by... (to be continued)
+
+Let me know if you'd like me to add more question-answer pairs or if you have any specific requests!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the approach used in [183] to develop adversarially robust features?
+**A1:** The authors leveraged the connections between the natural spectral geometric property of the dataset and the metric of interest to develop adversarially robust features. They empirically demonstrated that the spectral approach can be effectively used to generate adversarially robust features that can be ultimately used to develop robust models.
+
+=======
+
+**Q2:** What is Manifold Projection, and how is it used to defend against adversarial attacks?
+**A2:** Manifold Projection is a method where input examples are projected on the manifold of learned data from another ML model, generally provided by a generative model. For instance, Song et al. [184] used generative models to clean the adversarial perturbations from malicious images and then gave the cleaned images to the non-modified ML model. This approach ascertains that regardless of the attack type and targeted model, the adversarial examples lie in the low probability regions of the training data distribution.
+
+=======
+
+**Q3:** Can you give an example of a study that used a generative adversarial network (GAN) in Manifold Projection?
+**A3:** Yes, in a similar study [185], authors used a generative adversarial network (GAN) to defend against adversarial attacks.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are some methods for cleaning adversarial perturbations?**
+**A1:** GANs (Generative Adversarial Networks) are one such method, which can be used to clean adversarial perturbations. Additionally, Meng and Chen proposed a framework called MagNet that includes one or more detectors and a reformer network. The detector network is used to classify normal and adversarial examples by learning the manifold of normal examples, whereas the reformer network moves adversarial examples towards the learned manifold. =======
+
+**Q2: What are some methods that modify the parameters/features learned by the trained model?**
+**A2:** The methods that fall in this category mainly modify the parameters/features learned by the trained model. For example, defensive distillation is a method that modifies the parameters learned by the trained model. Papernot et al. [187] adopted network distillation as a procedure to defend against adversarial attacks and presented a defense method known as defensive distillation. The notion of distillation was originally proposed by Hinton et al. [188] as a mechanism for effectively transferring knowledge from a larger network to a smaller one. The defense method developed by Papernot et al. is based on the idea of distillation, where the knowledge learned by a large, complex model is transferred to a smaller, simpler model. This can help to improve the robustness of the smaller model against adversarial attacks. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+Q: What is the purpose of using the probability distribution vector generated by the first model as an input to the original DNN model?
+A: This increases the resilience of the DNN model towards very small perturbations. =======
+
+Q: Does the defensive distillation method work against all types of attacks?
+A: No, Carlini and Wagner showed that the defensive distillation method does not work against their proposed attack [133]. =======
+
+Q: What is the goal of network verification?
+A: Network verification aims to verify the properties of DNN, i.e., whether an input satisfies or violates certain properties because it may restrain new unseen adversarial perturbations. =======
+
+Q: How can network verification be used to robustify DNN models?
+A: A network verification method for robustifying DNN models using ReLU activation is presented in [178]. The authors used the satisfiability modulo theory (SMT) solver to verify the properties of the deep model and showed that the network verification problem is feasible. =======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the taxonomy of robust machine learning methods?**
+**A1:** The taxonomy of robust machine learning methods is categorized into three classes: (1) Modifying Data, (2) Adding Auxiliary Model(s), and (3) Modifying Models.
+
+=======
+
+**Q2: What is the assumption made in using ReLU with certain modifications?**
+**A2:** The assumption made is that ReLU is used with certain modifications, which is addressed in [189].
+
+=======
+
+**Q3: What is the defense strategy proposed by Ross and Doshi-Velez against adversarial attacks?**
+**A3:** The defense strategy proposed is using input gradient regularization, which penalizes the variation that results in the output with a change in the input. This makes adversarial examples with small perturbations unlikely to modify the output of deep models, but increases training complexity by a factor of two.
+
+=======
+
+**Q4: What is the notion of penalizing the gradient of loss function of models with respect to the inputs for robustification?**
+**A4:** The notion is that penalizing the gradient of loss function of models with respect to the inputs has already been investigated in [191].
+
+=======
+
+**Q5: What is the method of classifying models that are robust to adversarial attacks?**
+**A5:** The method is called Classifier Robustifying, which involves classifying models that are robust to adversarial attacks.
+
+Let me know if you'd like me to add more questions or modify the style to better fit your needs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the approach taken by Bradshaw et al. in developing a hybrid model to detect adversarial examples?
+**A1:** Bradshaw et al. [192] designed their model from the ground up, rather than detecting or transforming adversarial examples. They utilized the uncertainty around these examples and developed a hybrid model using Gaussian processes (GPs) with RBF kernels on top of DNNs, which showed robustness against adversarial attacks.
+
+=======
+
+**Q2:** How do GPs contribute to the hybrid model proposed by Bradshaw et al.?
+**A2:** In the hybrid model, the latent variable in GPs is expressed using a Gaussian distribution and is parameterized by mean and covariance, which is then encoded with RBF kernels.
+
+=======
+
+**Q3:** What is the approach proposed by Schott et al. to achieve robustness against adversarial attacks?
+**A3:** Schott et al. [193] proposed the first adversarially robust classifier for the MNIST dataset, which achieves robustness through analysis by synthesis through learned class-conditional data distribution.
+
+=======
+
+**Q4:** What is the significance of Schott et al.'s work in the context of adversarial attacks?
+**A4:** Schott et al.'s work highlights the lack of research that provides guaranteed robustness against adversarial attacks, emphasizing the need for further investigation in this area.
+
+=======
+
+**Q5:** How does the approach presented in [194] leverage the interpretability of DNN models for adversarial example detection?
+**A5:** The approach presented in [194] leverages the interpretability of DNN models by using the key insight that the i
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How does the approach of identifying critical neurons for an individual task work?
+**A1:** The approach involves establishing a bi-directional correspondence inference between the neurons of a DNN model and its attributes. This allows us to amplify the activation values of critical neurons to augment the reasoning part and decrease the values of other neurons to conceal the uninterpretable part.
+
+=======
+
+**Q2:** Is the approach of identifying critical neurons effective against adversarial attacks?
+**A2:** Unfortunately, no. Nicholas Carlini has shown that this approach does not defend against untargeted adversarial perturbations generated using L∞ norm with a bound of 0.01.
+
+=======
+
+**Q3:** Are there alternative approaches to defend against adversarial attacks?
+**A3:** Yes, a recent study formulated the problem of adversarial ML as a learning and masking problem and presented a classifier masking method for secure learning. This approach introduces noise in the DNN's logit output to defend against low distortion attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the methods used to add auxiliary models to enhance the robustness of the main model?**
+**A1:** C. Adding Auxiliary Model(s) These methods aim to utilize additional ML models to enhance the robustness of the main model (e.g., using generative models for adversarial detection), such widely used methods are described as follows.
+
+=======
+
+**Q2: What is the adversarial detection strategy?**
+**A2:** In adversarial detection strategy, a binary classifier (detector) is trained, e.g., DNN to identify the input as a legitimate or an adversarial one [197], [198].
+
+=======
+
+**Q3: How is the adversarial detector used in the main model?**
+**A3:** In [199], authors used a simple DNN-based binary adversarial detector as an auxiliary network to the main model.
+
+=======
+
+**Q4: How can the DNN model detect adversarial examples?**
+**A4:** In a similar study [200], authors introduced an outlier class while training the DNN model, the model then detects the adversarial examples by classifying them as an outlier.
+
+=======
+
+**Q5: Can multiple defense methods be combined together?**
+**A5:** As adversarial examples can be developed in a multi-facet fashion, therefore, multiple defense methods can be combined together.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How can we defend against adversarial attacks?
+**A1:** One approach is to use ensemble defense, such as PixelDefend [184], which integrates an adversarial detector and an "input reconstructor" to restrain adversarial examples.
+
+=======
+
+**Q2:** Is an ensemble of weak defense strategies effective against adversarial attacks?
+**A2:** Unfortunately, no. He et al. [181] showed that an ensemble of weak defense strategies does not provide a strong defense against adversarial attacks. In fact, they demonstrated that adaptive adversarial examples transfer across several defense or detection proposals.
+
+=======
+
+**Q3:** Can generative models be used to defend against adversarial attacks?
+**A3:** Yes, Goodfellow et al. [99] first proposed using generative training to defend against adversarial attacks. However, they also argued that being generative is not sufficient and presented an alternative hypothesis of ensemble training, which works by ensembling multiple instances of original DNN models.
+
+=======
+
+**Q4:** Are there other approaches to detect and defend against adversarial examples?
+**A4:** Yes, an approach named Cowboy [202] was presented to detect and defend against adversarial examples. They transformed adversarial samples back to the data manifold by cleaning them up.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the key finding of the study on GAN-based adversarial defense?**
+The key finding of the study is that GANs can be used to generate adversarial examples that lie outside the data manifold learned by the GAN, and the discriminator consistently scores these perturbations lower than the real samples.
+
+=======
+
+**Q2: What is the name of the GAN-based framework used for modeling the distribution of legitimate images?**
+The name of the framework is Defense-GAN.
+
+=======
+
+**Q3: What is the main idea behind the Defense-GAN framework?**
+The main idea is to find a similar output without adversarial perturbations during inference time, which is then fed to the original classifier.
+
+=======
+
+**Q4: Do the authors claim that their method is independent of the DNN model and attack type?**
+Yes, the authors claim that their method is independent of the DNN model and attack type, and it can be used in existing settings.
+
+=======
+
+**Q5: What is the summary of various state-of-the-art adversarial defense studies presented in the paper?**
+The summary is presented in Table VIII.
+
+=======
+
+**Q6: Are the adversarial defense methods described in the paper general?**
+Yes, the adversarial defense methods described in the paper are general, meaning they are developed to make DNNs resilient to various types of attacks.
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q1: What are the potential applications of adversarial defense methods in CA Vs settings?**
+**A1:** Adversarial defense methods have a great potential to be used for the robust application of DL models in CA Vs settings and can be used for robustifying various applications of ML/DL in CA Vs ecosystem.
+
+=======
+
+**Q2: Can adversarial defense methods be used to develop robust objection detection systems?**
+**A2:** Yes, defense methods aiming at robustifying the DNN classifier can be used for developing adversarially robust objection detection systems.
+
+=======
+
+**Q3: Why is it more common to have adversaries in CA Vs settings?**
+**A3:** The presence of adversaries who may want to harm the CA Vs environment is more common in CA Vs settings, for example, an adversary trying to get the control of the autonomous car in an attempt to force the vehicle to cause an accident, etc.
+
+=======
+
+**Q4: What is needed to design robust adversarial defenses for CA Vs?**
+**A4:** More research is needed to design, implement, and experiment with new adversarial defenses that are customized from the ground-up for CA Vs.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q: What are the benefits of developing defenses against adversarial attacks?**
+**A:** Such defenses should benefit from existing general adversarial defense techniques while taking CA Vs safety, delay, and computational constraints into considerations. We believe that such defenses can hasten the deployment of ML models in practical CA Vs settings.
+
+=======
+
+**Q: What are the key principles for performing defense evaluations?**
+**A:** In a recent study [212], Carlini et al. provided recommendations for evaluating adversarial defenses and thereby provided three common reasons to evaluate the performance of adversarial defenses. These recommendations are briefly described below.
+
+=======
+Answer: 
+
+Question: Here is the first question-answer pair:
+
+**Q:** What happens if ML-based systems are deployed without considering security threats?
+**A:** If ML-based systems are deployed without considering security threats, then the adversaries willing to harm the system will continue to practice attacking the system as long as there are incentives.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here is the first question-answer pair:
+
+**Q1:** Is a system that fails one time in a billion trials distinguishable from a system that never fails?
+
+**A1:** Yes, a system that fails one time in a billion trials can be a powerful tool to distinguish a system that fails one time in a billion trials from a system that never fails. For instance, if a powerful adversary who is attempting to harm a system to get intentional misbehavior fails to do so, then it provides strong evidence that the system will not misbehave in case of previously unforeseen randomness.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the performance gap like between humans and ML systems when it comes to evaluating adversarial robustness?
+**A1:** The performance gap is very large, and in cases where ML models exhibit super-human accuracy, an adversarial attack can completely evade the prediction performance of the system.
+
+=======
+
+**Q2:** What is the measure of ML progress that is orthogonal to performance?
+**A2:** Adversarial robustness is the measure of ML progress that is orthogonal to performance.
+
+=======
+
+**Q3:** Where can readers find a detailed and comprehensive description on evaluation recommendations and pitfalls for adversarial robustness?
+**A3:** Readers can find a detailed and comprehensive description in the recent article of Carlini et al. [212].
+
+=======
+
+**Q4:** Will the authors update this paper timely, and if so, where can readers find the updates?
+**A4:** Yes, the authors promised to update this paper timely, and readers can follow the URL provided to stay updated.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the recommended evaluation methods for adversarial robustness?**
+**A1:** To avoid unintended consequences and pitfalls of evaluation methods, I recommend using both targeted and untargeted attacks. This is crucial to ensure that the model's robustness is thoroughly evaluated.
+
+=======
+
+**Q2: Why is it important to use both targeted and untargeted attacks?**
+**A2:** Using both targeted and untargeted attacks is important because they test different aspects of the model's robustness. Targeted attacks aim to manipulate the model's predictions by maximizing the confidence of a specific class, while untargeted attacks aim to minimize the confidence of the correct label. By evaluating both types of attacks, we can gain a more comprehensive understanding of the model's robustness.
+
+=======
+
+**Q3: What is the difference between targeted and untargeted attacks?**
+**A3:** Theoretically, untargeted attacks are considered to be strictly easier than targeted attacks. However, in practice, untargeted attacks can be more effective in certain situations. Many untargeted attacks work by minimizing the prediction confidence of the correct label, whereas targeted attacks work by maximizing the prediction confidence of some other class.
+
+=======
+
+**Q4: Why is ablation analysis important for evaluating adversarial robustness?**
+**A4:** Ablation analysis is important because it allows us to understand how different defense components contribute to the model's robustness. By removing a combination of defense components and verifying that the attack succeeds on a similar but undefended model, we can develop a straightforward understanding of the model's vulnerabilities and strengths.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the key goals of evaluating the robustness of a model?**
+A1: The primary goals of evaluating the robustness of a model are to assess the effectiveness of combining multiple defense strategies for robustifying the model, and to evaluate the model's performance in diverse test settings.
+
+=======
+
+**Q2: How can we perform the evaluation in diverse test settings?**
+A2: To perform the evaluation in diverse test settings, we should test the robustness to random noise, validate broader threat models, and carefully evaluate the attack hyper-parameters and select those that provide the best performance. Additionally, we should verify that the attack converges under selected hyperparameters, and investigate whether attack results are sensitive to a specific set of hyperparameters. It's also important to experiment with at least one hard label attack and one gradient-free attack.
+
+=======
+
+**Q3: Why is it important to evaluate the defense on broader domains?**
+A3: For a defense to be truly effective, it's crucial to evaluate the proposed defense method on broader domains other than images. The majority of works on adversarial machine learning mainly investigate the imaging domain, so it's essential to state explicitly that the defense has been tested on other domains as well.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Question 1:** What is the limitation of a defense mechanism that can only defend against adversarial perturbations in a specific domain?
+
+**Answer:** The defense is only capable of defending adversarial perturbations in a specific domain (e.g., images). This means that it may not be effective against attacks in other domains.
+
+=======
+
+**Question 2:** How can we create adversarial examples to test the robustness of a defense mechanism?
+
+**Answer:** It is important to create adversarial examples by ensembling over the randomness of those defenses that randomize aspects of DNN inference. This introduces stochasticity and makes standard attacks harder to realize. We should also verify that the attack remains successful when randomness is assigned a fixed value.
+
+=======
+
+**Question 3:** What is the threat model for an attack on a defense mechanism, and what knowledge about randomness is available to the adversary?
+
+**Answer:** The threat model is that the adversary has knowledge of the randomness used by the defense mechanism, but not the specific values assigned to it. The adversary can try to exploit this randomness to launch a successful attack.
+
+=======
+
+**Question 4:** How can we test the transferability of an attack on a defense mechanism?
+
+**Answer:** We can select a similar substitute model (to the defended model) and perform transferability of the attack. Since adversarial examples are often transferable across different models, an adversarial sample constructed for one model often appears adversarial to another model with identical architecture, regardless of the fact that the other model is trained on a completely different data distribution.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+g) Upper bound of robustness
+Q: How can we provide an upper bound on robustness?
+A: To provide an upper bound on robustness, we can apply adaptive attacks, which give access to a full defense. This means we use the strongest attack for a given threat model and defense being evaluated. We should also verify that adaptive attacks perform better than others and evaluate their performance in multiple settings, such as the combination of transfer, random-noise, and black-box attacks. For instance, Ruan et al. evaluated the robustness of DNN and presented an approximate approach to provide lower and upper bounds on robustness for L0 norm with provable guarantees [217].
+
+=======
+
+F. Testing of ML Models and Autonomous Vehicles
+Q: What is behavior testing of models?
+A: In a recent study, Sun et al. proposed four novel testing criteria for verifying structural features of DNN using MC/DC7 coverage criteria [218]. They validated their proposed methods by generating test cases guided by their proposed coverage criteria using both symbolic and gradient-based approaches. Their method was able to show that their approach was able to effectively verify the structural features of DNN.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some methods to capture undesired behaviors of DNNs?
+**A1:** There are several methods to capture undesired behaviors of DNNs. For instance, a set of multi-granularity testing criteria named DeepGauge is presented in [219] that works by rendering a multi-faceted testbed. Additionally, a security analysis of neural networks based system using symbolic intervals is presented in [220] which uses interval arithmetics and symbolic intervals together with other optimization methods to minimize confidence bound of over-estimation of outputs.
+
+=======
+
+**Q2:** What is the purpose of the coverage guided fuzzing method for testing neural networks?
+**A2:** The purpose of the coverage guided fuzzing method for testing neural networks is to find numerical errors, generate disagreements, and determine the undesired behavior of models. This method is particularly useful for finding goals such as finding numerical errors, generating disagreements, and determining the undesired behavior of models.
+
+=======
+
+**Q3:** What is 7MC/DC and how is it used in testing safety-critical software?
+**A3:** 7MC/DC (Modified Condition/Decision Coverage) is a method of measuring the extent to which safety-critical software has been adequately tested. It is used to ensure that all possible conditions and decisions in the software have been executed and tested, thereby ensuring the software's reliability and safety.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1:** What is the first approach utilizing differential fuzzing testing presented in [222]?
+**A1:** The first approach utilizing differential fuzzing testing presented in [222] is for exploiting incorrect behavior of DL systems.
+
+=======
+
+**Q2:** Why is the development of automated testing tools required for autonomous vehicles?
+**A2:** The development of automated testing tools is required to ensure a completely secure functionality of autonomous vehicles in a real-world environment.
+
+=======
+
+**Q3:** What is the tool proposed by Tian et al. [223] for testing DNN empowered autonomous vehicles?
+**A3:** The tool proposed by Tian et al. [223] is named DeepTest, which automatically generates test cases using changes in real-world road conditions such as weather and lighting conditions.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main focus of the research in [224]?
+**A1:** The main focus of the research in [224] is to generate synthetic scenes of different driving conditions for testing autonomous cars using a GAN-based approach.
+
+=======
+
+**Q2:** What kind of testing approach is presented in [225] for evaluating the software part of self-driving vehicles?
+**A2:** A metamorphic testing approach is presented in [225] for evaluating the software part of self-driving vehicles.
+
+=======
+
+**Q3:** What is the topic of the generic framework presented in [130]?
+**A3:** The topic of the generic framework presented in [130] is a generic framework for testing security and robustness of ML models for computer vision systems depicting realistic properties.
+
+=======
+
+**Q4:** What is the scope of the security evaluation presented in [130]?
+**A4:** The scope of the security evaluation presented in [130] is the evaluation of the security of 15 state-of-the-art computer vision systems in a black box setting, including Nvidia's Dave self-driving system.
+
+=======
+
+**Q5:** What has been provably demonstrated in the research?
+**A5:** It has been provably demonstrated that there exists a trade-off between adversarial robustness and other desirable properties of ML models for computer vision systems.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some examples of research on perturbations and standard accuracy of models in a simple and natural setting?
+**A1:** Ah, yes! There are several studies that have explored perturbations and standard accuracy of models in a fairly simple and natural setting. For instance, [226] presents a study on perturbations and standard accuracy of models in a natural setting.
+
+=======
+
+**Q2:** How can we generate adversarial test cases to evaluate the closed-loop properties of ML-enabled autonomous vehicles?
+**A2:** Ah, great question! A simulation-based framework for generating adversarial test cases to evaluate the closed-loop properties of ML-enabled autonomous vehicles is presented in [170]. This framework can help us evaluate the robustness of autonomous vehicles in various scenarios.
+
+=======
+
+**Q3:** How can we improve self-driving behavior using vision-based imitation learning and Bayesian optimization?
+**A3:** Ah, excellent question! In [227], authors generated adversarial driving scenes using Bayesian optimization to improve self-driving behavior utilizing vision-based imitation learning. This approach can help us develop more robust and reliable autonomous vehicles.
+
+=======
+
+**Q4:** How can we identify unusual events using small dashcam video and inertial sensors?
+**A4:** Ah, great question! An autoencoder-based approach for automatic identification of unusual events using small dashcam video and inertial sensors is presented in [228]. This approach can potentially be used to develop a robust autonomous driving system.
+
+=======
+
+**Q5:** What are some of the challenges and factors impacting driveability of autonomous vehicles?
+**A5:** Ah, excellent question! Various factors and challenges impacting driveability of autonomous vehicles are presented in [229]. Additionally, [230] describes the challenges in designing datasets for training self-driving vehicles. Understanding these challenges is crucial for developing robust and reliable autonomous vehicles.
+
+=======
+
+**Q6:** What is the importance of considering adversarial ML when robustifying ML systems?
+**A6:** Ah, great question! Dreossi et al. suggested that while robustifying the ML systems, the effect of adversarial ML should be considered. This is because adversarial ML can help us identify potential vulnerabilities in our systems and develop more robust and reliable models.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the approach to studying adversarial examples in deep learning (DL) empowered autonomous vehicles?
+**A1:** The approach is to consider the semantics and context of the whole system [231]. For example, not every adversarial observation might lead to harmful action(s).
+
+=======
+
+**Q2:** What is the potential impact of adversarial examples on the desired semantics of the whole system in DL empowered autonomous vehicles?
+**A2:** Adversarial examples can significantly modify the desired semantics of the whole system.
+
+=======
+
+**Q3:** Can ML/DL methods be naively applied to vehicular networks?
+**A3:** No, ML/DL methods cannot be naively applied to vehicular networks that possess unique characteristics and adaptation of these methods for learning such distinguishing features of vehicular networks is a challenging task [232].
+
+=======
+
+**Q4:** What are some promising areas of research that require further investigation in the context of vehicular networks?
+**A4:** A few promising areas of research that require further investigation include efficient distributed data storage.
+
+Let me know if you'd like me to add more question-answer pairs or modify the style to better fit your needs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How does the distributed nature of data in connected vehicles affect the applicability of ML/DL models?
+**A1:** The data is generated and stored in a distributed fashion, which raises a question about the applicability of ML/DL models at a global level. ML models are typically developed with the assumption that data is easily accessible and managed by a central entity, but this is not the case in connected vehicles. Therefore, there is a need to utilize distributed learning methods to scalably acquire data from multiple units in the ecosystem. =======
+
+**Q2:** What is the major security vulnerability in CA Vs due to the lack of interpretability in ML schemes?
+**A2:** Another major security vulnerability in CA Vs is the lack of interpretability of ML schemes. ML techniques, including deep learning (DL) techniques, are based on the idea of function approximation, where the approximation of the empirical function is performed using DNN architectures. However, current works in ML/DL lack interpretability, which is resulting in a major hurdle in the progress of ML/DL empowered CA Vs. The lack of interpretability is exploited by adversaries to construct adversarial examples for fooling the deployed ML/DL schemes in autonomous vehicles, i.e., physical attacks. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are some of the open research issues in the development of self-driving vehicles?**
+**A1:** One of the major concerns is the potential for ical attacks on self-driving vehicles. Another open research issue is the development of secure, explainable, and interpretable ML techniques for security-critical applications of computer vision.
+
+=======
+
+**Q2: What is the current state of defense proposals against adversarial attacks on ML models?**
+**A2:** Despite many defense proposals presented in the literature, developing adversarially robust ML models remains an open research problem. Almost every defense has been shown to be only effective for a specific attack type and fails for stronger or unseen attacks.
+
+=======
+
+**Q3: Why is developing novel defense strategies important for safety-critical applications?**
+**A3:** Because most defenses address the problem of adversarial attacks for computer vision tasks, but adversarial ML is being developed for many other vertical application domains. Therefore, development of efficient and effective novel defense strategies is essentially required, particularly for safety-critical applications, such as communication between connected vehicles.
+
+=======
+
+**Q4: Why is privacy preservation important in user-centric applications?**
+**A4:** Preserving privacy in any user-centric application is of high concern. Privacy measures are essential to ensure that sensitive user data is protected from unauthorized access or exploitation.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How can we ensure that machine learning models do not reveal additional information about the subjects involved in collected training data?
+
+**A1:** To achieve differential privacy, ML model learning should be capable of preserving the privacy of drivers, passengers, and pedestrians where privacy breaches can result in extremely harmful consequences.
+
+=======
+
+**Q2:** What is the importance of developing security-centric proxy metrics to evaluate security threats against systems?
+
+**A2:** Development of security-centric proxy metrics is fundamentally important to formalize different types of perturbation properties, e.g., indistinguishable and content-preserving, etc.
+
+=======
+
+**Q3:** How can we determine if a specific transformation is content-preserving?
+
+**A3:** Unfortunately, there is currently no function to determine that a specific transformation is content-preserving, which is a significant challenge in developing security-centric proxy metrics.
+
+=======
+
+**Q4:** What are the consequences of privacy breaches in the context of machine learning models?
+
+**A4:** Privacy breaches can result in extremely harmful consequences, emphasizing the need for ML model learning to preserve the privacy of drivers, passengers, and pedestrians.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the complexity of measuring perceptual similarity between two images?
+**A1:** Measuring perceptual similarity between two images is very complex and widely used perceptual metrics are shallow functions that fail to account for many subtle distinctions of human perception [234]. =======
+
+**Q2:** What is the issue with ML-based results and predictions?
+**A2:** The literature on ML reveals that ML-based results and predictions lack fairness and accountability. The fairness property ensures that the ML model did not nurture discrimination against specific cases, e.g., favoring cyclists over pedestrians. =======
+
+**Q3:** How is bias introduced in ML predictions?
+**A3:** This bias in ML predictions is introduced by the biased training data and results in social bias and a higher error rate for a particular demographic group. For example, researchers identified a risk of bias in the perception system of autonomous vehicles to recognize pedestrians with dark skin [235]. =======
+
+**Q4:** What is the limitation of the experimental work mentioned?
+**A4:** Despite the fact that this work does not use an actual object detection model that is deployed in production, it still highlights the importance of evaluating the fairness and accountability of ML models in autonomous vehicles. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main concern highlighted by this study?**
+The main concern highlighted by this study is the vulnerability of ML models used in autonomous vehicles to real-world settings where they may encounter people from diverse demographic backgrounds.
+
+=======
+
+**Q2: What is the relationship between accountability and interpretability in ML models?**
+The accountability of ML models is closely tied to their interpretability property, as we aim to develop models that can explain their predictions using their internal parameters.
+
+=======
+
+**Q3: Why is it important to make ML models robust against distribution drifts?**
+It is crucial to make ML models robust against distribution drifts to restrict integrity attacks, as this difference between training and test distributions can lead to model failures for adversarial examples.
+
+=======
+
+**Q4: What is the significance of understanding ML model failures for adversarial examples?**
+Understanding ML model failures for adversarial examples is fundamental to grasping the notion of accountability, which is essential for developing reliable and trustworthy ML models.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What can be considered as the worst case distribution drifts in the vehicular ecosystem?
+**A1:** Adversarial examples.
+
+=======
+
+**Q2:** Is the data collection process in the vehicular ecosystem static or dynamic?
+**A2:** Dynamic in nature.
+
+=======
+
+**Q3:** How can distribution drifts affect the robustness of ML systems in the vehicular ecosystem?
+**A3:** They can affect the robustness of the underlying ML systems.
+
+=======
+
+**Q4:** Can distribution drifts be exploited by adversaries to create adversarial samples during inference?
+**A4:** Yes, they can be exploited by the adversaries to create adversarial samples during inference.
+
+=======
+
+**Q5:** What is an example of distribution drift in spam emails?
+**A5:** Introducing positively connotated words in spam emails to evade detection.
+
+=======
+
+**Q6:** Can the training distribution be modified in a similar way to create distribution drift?
+**A6:** Yes, the training distribution can be modified in a similar way to create distribution drift.
+
+=======
+
+**Q7:** What is the implication of distribution drift on the widely known presumption of achieving low learning error with large training data?
+**A7:** Distribution drift violates the widely known presumption that we can achieve low learning error when a large training data is available.
+
+=======
+
+**Q8:** Who have presented empirical and theoretical evidence that adversarial examples are a consequence of test error in noise caused by a distributional shift in the data?
+**A8:** Ford et al. [237] have presented empirical and theoretical evidence that adversarial examples are a consequence of test error in noise caused by a distributional shift in the data.
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: Why is it crucial to ensure that an adversarial defense is trustworthy?**
+A1: It's crucial because an adversarial defense must provide defense against data distribution shifts, which can significantly impact the performance of the perception system of autonomous vehicles.
+
+=======
+
+**Q2: What is the main issue with the perception system of CA Vs?**
+A2: The main issue is that it is highly susceptible to the problem of distribution drifts due to its data-driven modeling using historical training data.
+
+=======
+
+**Q3: How can we counter the problem of distribution drifts in ML models?**
+A3: One way to counter this problem is to leverage deep reinforcement learning (RL) algorithms for developing the perception system of autonomous vehicles.
+
+=======
+
+**Q4: Why is it not yet practically possible to use deep RL algorithms for developing the perception system of autonomous vehicles?**
+A4: It's not yet practically possible because the state and action spaces in realistic settings (road and vehicular environment) are continuous and very complex, requiring fine control for the efficacy of the system.
+
+=======
+
+**Q5: What is an example of work on leveraging deep RL-based methods for autonomous vehicles?**
+A5: For instance, Sallab et al. proposed a deep RL-based framework for autonomous vehicles that enables the vehicle to handle partially observable environments.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the effectiveness of the system investigated in the text?
+**A1:** The system was able to learn complex road curvatures and simple inter-vehicle interactions using an open source 3D car racing simulator (TORCS).
+
+=======
+
+**Q2:** What is the vulnerability of deep RL-based systems?
+**A2:** Deep RL-based systems have been shown vulnerable to policy induction attacks.
+
+=======
+
+**Q3:** What are the concerns raised by the recent discoveries about machine learning techniques?
+**A3:** The recent discoveries that machine learning techniques are vulnerable to adversarial perturbations have raised questions on the security of connected and autonomous vehicles (CAVs).
+
+=======
+
+**Q4:** What is the demand for the technology used in CAVs?
+**A4:** The safety-critical nature of CAVs clearly demands that the technology it uses should be robust to all kinds of potential security threats—be they accidental, intentional, or adversarial.
+
+=======
+
+**Q5:** What is the focus of the work presented in the text?
+**A5:** The work presents a comprehensive analysis of the challenges posed by adversarial ML attacks for the first time.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the major contributions of the paper?**
+The major contributions of our paper include a broad description of the ML pipeline used in CA Vs, a description of various adversarial attacks that can be launched on the various components of the CA Vs ML pipeline, a detailed taxonomy of the adversarial ML threat for CA Vs, a comprehensive survey of adversarial ML attacks and defenses proposed in literature, and finally, open research challenges and future directions to provide readers with the opportunity to develop robust and efficient solutions for the application of ML models in CA Vs.
+
+=======
+
+**Q2: What is the focus of the paper?**
+The focus of our paper is on securing CA Vs, which are challenged by adversarial ML. We aim to provide a comprehensive overview of the threats and challenges posed by adversarial ML in CA Vs and discuss potential solutions and future directions to address these challenges.
+
+=======
+
+**Q3: What is the significance of the paper?**
+The significance of our paper lies in its ability to provide a broad understanding of the ML pipeline used in CA Vs, the various adversarial attacks that can be launched on it, and the need for robust and efficient solutions to address these challenges. This paper aims to provide a foundation for researchers and practitioners to develop secure and reliable ML models for CA Vs.
+
+=======
+
+**Q4: What are the open research challenges and future directions discussed in the paper?**
+We discuss several open research challenges and future directions in the paper, including the need for more robust and efficient ML models, the development of new adversarial attack detection and mitigation techniques, and the integration of ML with other security mechanisms to provide a more comprehensive security solution for CA Vs.
+
+=======
+Answer: 
+

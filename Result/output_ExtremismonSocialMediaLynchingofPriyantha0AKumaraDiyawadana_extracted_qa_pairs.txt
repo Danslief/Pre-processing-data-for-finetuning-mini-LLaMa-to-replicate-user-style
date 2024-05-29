@@ -1,0 +1,125 @@
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main topic of the research paper?**
+The main topic of our research paper is the impact of extremism on social media, specifically the lynching of Priyantha Kumara Diyawadana.
+
+=======
+
+**Q2: What is the significance of the research paper?**
+The significance of our research paper lies in the fact that it highlights the urgent need for a context-aware extremist content framework to detect and prevent tragic acts of violence on social media platforms.
+
+=======
+
+**Q3: Who are the authors of the research paper?**
+The authors of the research paper are Muhammad Musa, Muhammad Usama, and Momin Uppal from Lahore University of Management Sciences (LUMS), Pakistan.
+
+=======
+
+**Q4: What is the purpose of the abstract?**
+The purpose of the abstract is to provide a brief overview of the research paper, highlighting the main topic, significance, and scope of the study.
+
+=======
+
+**Q5: What is the context-aware extremist content framework?**
+The context-aware extremist content framework is a proposed solution to detect and prevent extremist content on social media platforms, taking into account the context in which the content is shared.
+
+=======
+
+**Q6: What is the main challenge addressed by the research paper?**
+The main challenge addressed by our research paper is the need to develop a framework that can effectively detect and prevent extremist content on social media platforms, which has led to tragic acts of violence.
+
+=======
+
+**Q7: What is the expected outcome of the research paper?**
+The expected outcome of our research paper is to provide a comprehensive framework for detecting and preventing extremist content on social media platforms, ultimately reducing the risk of tragic acts of violence.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the main topic of the research paper?**
+**A1:** The main topic of the research paper is the development of a context-aware framework to combat online extremist propaganda on social media platforms.
+
+=======
+Answer: 
+
+Question: Here's a Q&A pair to help fine-tune a model on the topic of extremist ideologies on social media:
+
+**Q:** What are some examples of extremist ideologies on social media that have led to real-world tragedies?
+**A:** One notable example is the Christchurch mosque shootings in 2019, where the perpetrator live-streamed the attack on Facebook and shared a manifesto outlining his white supremacist beliefs. Another example is the Sri Lanka Easter bombings in 2019, which were allegedly planned and coordinated through social media platforms. These incidents highlight the devastating consequences of extremist ideologies spreading online.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the main challenge in identifying and moderating social media content?**
+**A1:** Identifying and moderating social media content while preserving free speech and privacy is a challenging task. This is because it requires a delicate balance between allowing users to express themselves freely and preventing the spread of harmful or offensive content.
+
+=======
+Answer: 
+
+Question: Here's a question-answer pair on the topic:
+
+**Q: What are some of the tactics used by extremists to achieve their goals in third-world democracies?**
+
+**A:** Ah, the tactics of the extreme. Well, they're quite creative, really. They use a mix of online and offline strategies to spread their hate and intolerance. They induce antagonism and social divide, curtail free speech, troll their opponents, deteriorate history, and engage in name-calling, killing and rape threats, and violence to achieve their political, religious, or economic goals. It's a toxic brew, and it's a major challenge for democracies around the world.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q1: What is the main topic of the poster?**
+**A1:** The main topic of the poster is understanding online extremism in the Pakistani context, specifically through a case study of the lynching incident of Priyantha Kumara Diyawadana.
+
+=======
+Answer: 
+
+Question: Here's a question-answer pair on the topic:
+
+**Q: How did you collect data on Pakistani Twitter to study extremist ideas?**
+**A:** We used a Twitter intelligence tool called Twint to scrape Twitter for December 2021 and retrieved 1800 unique tweets. This allowed us to analyze the online discourse and identify patterns and trends related to extremist ideas.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What was the purpose of examining the collected data?**
+A1: The purpose was to examine the polarity and subjectivity of the statements to understand the sentiment towards the lynching of Priyantha Kumara Diyawadana.
+
+=======
+
+**Q2: What does the polarity of a statement indicate?**
+A2: The polarity of a statement indicates how much positive or negative commentary it includes, ranging from -1 (negative sentiment) to +1 (positive sentiment).
+
+=======
+
+**Q3: What is subjectivity in the context of sentiment analysis?**
+A3: Subjectivity in sentiment analysis refers to how much a statement focuses on emotions and ideas rather than facts, ranging from 0 (neutral) to 1 (highly subjective).
+
+=======
+
+**Q4: What percentage of the total population included in the data had a negative sentiment towards the lynching of Priyantha Kumara Diyawadana?**
+A4: Nearly 25% of the total population included in the data had a negative sentiment towards the lynching of Priyantha Kumara Diyawadana.
+
+=======
+
+**Q5: What is the conclusion drawn from the analysis of online extremism?**
+A5: The conclusion is that online extremism is dividing communities and fault lines are becoming more obvious, and that a context-aware framework is needed to identify and mitigate online extremism.
+
+=======
+Answer: 
+
+Question: Here's a question-answer pair to fine-tune your model:
+
+**Q:** What is the primary concern regarding social media usage in urban areas, according to the case study?
+**A:** The primary concern is the propagation of extremist content, which has led to a rise in negative sentiment and decreased urban satisfaction.
+
+=======
+Answer: 
+

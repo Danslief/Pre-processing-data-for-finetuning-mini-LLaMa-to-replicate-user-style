@@ -1,0 +1,832 @@
+Question: Here's the first question-answer pair:
+
+**Q1: What is the main focus of the paper?**
+**A1:** The main focus of the paper is to propose a non-speech-based emotion recognition system that can rely on edge computing to analyze emotions conveyed through non-speech expressions like screaming and crying.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main focus of your research?**
+A1: Our research focuses on developing a highly efficient system that can be deployed on edge devices with limited resources without degrading the performance significantly.
+
+=======
+
+**Q2: What are the key contributions of your proposed framework?**
+A2: Our proposed framework is the first edge-computing-based framework for detecting emotions in non-speech audio, and it offers promising directions for future research.
+
+=======
+
+**Q3: How do you evaluate the effectiveness of your proposed framework?**
+A3: We comprehensively evaluate our proposed framework using two publicly available datasets and compare the results with the well-known MobileNet model.
+
+=======
+
+**Q4: What are the potential applications of your research?**
+A4: Our research can potentially improve applications that rely on emotion detection in communication networks, such as non-speech emotion recognition.
+
+=======
+
+**Q5: What are the key challenges in developing an edge-computing-based framework for non-speech emotion detection?**
+A5: One of the key challenges is to develop a highly efficient system that can be deployed on edge devices with limited resources without degrading the performance significantly.
+
+=======
+
+**Q6: What is the significance of your research in the context of the Internet of Things (IoT)?**
+A6: The age of the Internet of Things (IoT) is upon us, and the raging increase in IoT devices and the race among tech manufacturers to capture the market share has created a need for efficient and effective emotion detection systems that can be deployed on edge devices.
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q1: What has been the outcome of merging Artificial Intelligence (AI) with the Internet of Things (IoT)?**
+**A1:** The merging of AI with IoT has resulted in a plethora of practical applications in recent years, spanning a wide range of fields.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What was the limitation of traditional computing that led to the rise of cloud computing?**
+Cloud computing was designed to fulfill the needs of data and compute-hungry applications, which was not possible with traditional computing.
+
+=======
+
+**Q2: What is the primary goal of edge computing?**
+The primary goal of edge computing is to decrease the data transmission load to the cloud by bringing enterprise applications near the data sources.
+
+=======
+
+**Q3: What are some of the benefits of edge computing?**
+Edge computing has the potential to bring strong business benefits, including better response times, improved bandwidth availability, faster decision-making, and privacy preservation.
+
+=======
+
+**Q4: How does edge computing differ from traditional computing?**
+Edge computing differs from traditional computing in that it brings enterprise applications near the data sources, whereas traditional computing sends data to a centralized location for processing.
+
+=======
+
+**Q5: What kind of computational technologies make edge computing feasible?**
+The development of computational technologies like graphics processing units, tensor processing units, etc., makes it feasible to offload some computational tasks to potent edge servers.
+
+=======
+
+**Q6: What types of applications benefit from edge computing?**
+Real-time services/applications, such as traffic monitoring systems, facial recognition, and control system applications, benefit from edge computing.
+Answer: 
+
+Question: Here are the questions and answers based on the text:
+
+**Q1: What becomes increasingly critical in emotion recognition applications?**
+A1: Latency, quality of service, and experience become increasingly critical.
+
+=======
+
+**Q2: Why is low latency crucial in emotion recognition applications?**
+A2: Low latency is crucial in emotion recognition applications, where the computing device needs to classify the user's emotional state from given input audio or visual data for a particular application.
+
+=======
+
+**Q3: What is the importance of real-time emotion identification in life-threatening serious situations?**
+A3: Real-time emotion identification becomes even more important in a life-threatening serious situation.
+
+=======
+
+**Q4: What potential does edge computing have in meeting latency requirements?**
+A4: Edge computing has the potential to meet the latency requirements.
+
+=======
+
+**Q5: What is the current trend in emotion recognition systems?**
+A5: Emotion recognition systems gained traction and their performance has increased dramatically owing to cutting-edge DL-enabled face, voice, language, and psychological signal models.
+
+=======
+
+**Q6: What is the typical system paradigm used in emotion-sensing services?**
+A6: The majority of emotion-sensing services use a system paradigm in which raw data collected via IoT sensors is transferred to a distant server for processing and decision-making.
+
+=======
+
+Let me know if you'd like me to add more questions or if you have any specific requests!
+Answer: 
+
+Question: Here's a Q&A pair based on the text:
+
+**Q1:** What is the primary goal of an emotion-sensing system that transmits raw speech signals over a communication network for emotion analysis?
+**A1:** The primary goal is to create a system with an acceptable level of end-to-end latency, from data acquisition to emotion classification, in order to detect and classify emotions in real-time.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What happens when there is a latency issue in emotion-sensing applications?
+**A1:** When there is a latency issue, it can result in a fatality, and the latency issue becomes even more concerning.
+
+=======
+
+**Q2:** How do state-of-the-art emotion-sensing applications typically process raw speech?
+**A2:** State-of-the-art emotion-sensing applications follow the system model in which raw speech is transmitted to the remote server for processing and decision-making.
+
+=======
+
+**Q3:** What are the concerns with state-of-the-art emotion-sensing applications in terms of privacy?
+**A3:** Such systems are successful in real-life, however, they involve complete sharing of speech over the communication network, which may lead to adverse consequences to people’s privacy.
+
+=======
+
+**Q4:** How does edge computing address the concerns of latency and privacy in emotion-sensing applications?
+**A4:** Edge computing addresses the latency concerns and privacy related concerns by processing data at the edge server in a federated environment.
+
+=======
+
+**Q5:** What is the typical approach of most emotion-sensing services in terms of processing raw speech?
+**A5:** Most of the emotion-sensing services follow the system model in which raw speech is transmitted to the remote server for processing and decision-making.
+
+=======
+
+**Q6:** What is the potential consequence of sharing speech over the communication network in emotion-sensing applications?
+**A6:** Such systems involve complete sharing of speech over the communication network, which may lead to adverse consequences to people’s privacy.
+
+=======
+
+**Q7:** What sensitive information is contained in the speech signal?
+**A7:** Speech signal contains sensitive information.
+Answer: 
+
+Question: Here are the first question-answer pair, followed by a separator:
+
+Q: What is the main concern about the message, speaker, gender, language, etc. in the context of IoT-based edge computing?
+A: The main concern is that this information may be misused by an eavesdropping adversary without the users' consent.
+
+=======
+
+Please let me know if this meets your requirements, and I'll be happy to generate more question-answer pairs for you!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the objective of the ONS of Scream Recognition section?**
+**A1:** The objective of this section is to provide a non-exhaustive list of works based on non-speech emotion recognition-based systems.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the types of sensors used to detect non-speech-based human emotions and capabilities?**
+**A1:** The sensors used are placed on and within the human body, which assistive technologies combine with cutting-edge IoT technology and broad-ranging learning algorithms to discern non-speech-based human emotions and other human capabilities.
+
+=======
+
+**Q2: What is an example of a portable hand band designed for scream detection?**
+**A2:** Alam et al. [16] designed a portable hand band called HealthBand, which is inexpensive and convivial for monitoring the activities of dementia patients and the vigilance of people in trouble.
+
+=======
+
+**Q3: What is another application of non-verbal speech detection, and how does it relate to healthcare?**
+**A3:** Another application of non-verbal speech detection is in rescue services, which is partly related to healthcare. Scream detection techniques play a vital role in locating the victim (human or animal) in catastrophes such as earthquakes, wildﬁres, etc.
+
+=======
+
+**Q4: How can AI/ML techniques aid in rescue operations?**
+**A4:** AI/ML techniques for scream detection can aid in the rescue of trapped victims under debris and in burning sites by providing timely and accurate location information, which is crucial in rescue-related operations that require vigilance.
+
+=======
+
+**Q5: Who designed an AI/ML-enabled scream detection system?**
+**A5:** Saeed et al. [17] designed an AI/ML-enabled scream detection system, which is an example of the application of AI/ML techniques in scream detection.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the application of scream detection in emergency response?**
+The scream detection model is mounted on a small autonomous vehicle that can help rescue victims from a burning site. The system uses support vector machines (SVM) and long short-term memory (LSTM) to detect screams, which can aid in the rescue of personnel in the event of an emergency.
+
+=======
+
+**Q2: What is the relationship between scream detection and crime control?**
+Scream detection has a direct relation with violent crimes, and using AI/ML techniques aided by data gathered from multiple sensors deployed across urban spaces is an interesting application. This can help in the detection of crimes such as shouting, screaming, and other audio events.
+
+=======
+
+**Q3: What are some examples of ML-based scream detection mechanisms?**
+Lafﬁtte et al. proposed an ML-based screaming/shouting detection mechanism, while Marteau et al. proposed deep learning-based methods to identify audio events such as screams, glass breaks, gunshots, and sprays.
+
+=======
+
+**Q4: What are some challenges in scream detection?**
+Unfortunately, the crimes of robbery, theft, and other violent crimes are still a major concern, and scream detection is just one aspect of the larger problem of crime control.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the current state of society in terms of safety for women, transgenders, and other genders?
+**A1:** Acism, harassment, and rape are on the rise in society, making urban spaces increasingly unsafe for women, transgenders, and other genders.
+
+=======
+
+**Q2:** How can scream detection technology help protect people from crimes?
+**A2:** The application of scream detection with other surveillance technologies can help protect people from crimes such as acism, harassment, and rape.
+
+=======
+
+**Q3:** Can you give an example of a successful implementation of scream detection technology?
+**A3:** Yes, in 2018, Seoul Metro, Korea installed scream detectors in women's bathrooms in metro stations to ensure women's safety.
+
+=======
+
+**Q4:** Are there any plans to implement scream detection technology in other cities?
+**A4:** Yes, the Paris metro company is also considering AI-enabled scream detection technologies in the subways to prevent abnormal situations.
+
+=======
+
+**Q5:** What are the potential applications of scream detection technology beyond public spaces?
+**A5:** Scream detection is becoming an essential tool accompanying visual monitoring in homes, security applications, nursing homes, etc.
+
+=======
+
+**Q6:** Can you give an example of a specific approach used in at-home audio recordings for scream detection?
+**A6:** Huang et al. [26] proposed an energy continuity-based approach for feature extraction from at-home audio recordings and then used the support vector machine (SVM) for identifying the screams in the recordings.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the ML-based method proposed by O'Donovan et al. for scream detection?**
+The ML-based method proposed by O'Donovan et al. is a pre-trained CNN that learns scream detection from an audio dataset.
+
+**=======**
+
+**Q2: What dataset was used for validation in the study by O'Donovan et al.?**
+The dataset used for validation in the study by O'Donovan et al. was from the famous TV show "Supernanny" due to its similarity with clinical data.
+
+**=======**
+
+**Q3: What is the advantage of using public datasets for learning behavioral disorders?**
+The advantage of using public datasets for learning behavioral disorders is that it is more appropriate than collecting a corpus of expensive private sensitive clinical data for training the behavioral disorder detector models.
+
+**=======**
+
+**Q4: What has increased dramatically in recent years, according to the text?**
+According to the text, domestic violence and violent relationships have increased dramatically in recent years.
+
+**=======**
+
+**Q5: What is the potential application of scream detection techniques?**
+The potential application of scream detection techniques, along with IoT-enabled devices, is not specified in the text, but it can be inferred that it may be used to detect and respond to domestic violence and violent relationships.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What can assistive technology, such as voice detection, potentially do to help individuals?
+**A1:** Identify heinous crimes and save many individuals from harm.
+
+=======
+
+**Q2:** How did Fleury et al. use recordings to determine elements of human speech?
+**A2:** They used recordings from eight microphones placed in a flat and speech recognition algorithms.
+
+=======
+
+**Q3:** What is the potential application of autonomous voice detection in identifying screaming and assisting individuals?
+**A3:** It may be expanded to identify screaming and assist a large number of individuals suffering from domestic violence and abusive relationships.
+
+=======
+
+**Q4:** What are some of the ethical and privacy issues that remain in creating security and surveillance applications?
+**A4:** Significant ethical and privacy issues remain.
+
+=======
+
+**Q5:** Why are screams a significant component of speech in gaming applications?
+**A5:** Because comprehending the emotions associated with these screams is vital for speech detection and translation systems.
+
+=======
+
+**Q6:** Why are conventional speech dialogue datasets insufficient for learning and investigating screams?
+**A6:** Because they do not contain enough screams for proper learning and investigation.
+
+=======
+
+**Q7:** How did Mori et al. record a dialogue corpus with more samples of screams?
+**A7:** They used combat games to record a dialogue corpus with more samples of screams.
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model on the nature of social screams:
+
+**Q1: What is the primary goal of the proposed edge-based non-speech emotion recognition system?**
+**A1:** The primary goal of the proposed system is to provide data collection and analytics support within the 5G network architecture, specifically for non-speech emotion recognition.
+
+=======
+
+**Q2: What is the expected role of the scream detection system in virtual and augmented reality-based games?**
+**A2:** The scream detection system is expected to play a vital role in the gamified preparation for dealing with emergencies in virtual and augmented reality-based games.
+
+=======
+
+**Q3: What is the significance of the proposed framework in the context of emergency response training?**
+**A3:** The proposed framework is significant because it offers data collection and analytics support within the 5G network architecture, which can be used to train rescue workers, first responders, ordinary people, and kids for dealing with emergencies.
+
+=======
+
+**Q4: What are the two core functionalities provided by the proposed framework?**
+**A4:** The two core functionalities provided by the proposed framework are data collection from network functions (NFs) and data analytics and non-speech emotion recognition.
+
+=======
+
+**Q5: What is the NWDA (Network Data Analytics) framework, and how is it related to the proposed system?**
+**A5:** The NWDA framework is a 3GPP standard that refers to the network data analytics framework, which is commonly used in the 5G network architecture. The proposed framework can invoke NWDA functions to provide data collection and analytics support.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the non-speech signal sensing layer in the proposed system?**
+**A1:** The non-speech signal sensing layer is a specialized layer that enables end-user devices to collect non-speech data from the cyber-physical space. This layer collects non-speech data from various devices such as mobile phones, personal assistants, or smartwatches.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are edge devices, and what do they do?**
+**A1:** Edge devices, such as Google Assistant, Siri, etc., are personal voice assistants that take speech input and perform certain actions, like turning on lights, shutting down appliances, or playing demanded music.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the role of the edge server in the proposed architecture?**
+**A1:** The edge server is an important component of our proposed architecture. It not only performs traffic aggregation gateway and network service control, but it also acts as an intelligent edge server that is responsible for processing edge signals and performing analytics on non-speech emotion data.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is knowledge distillation?**
+**A1:** Knowledge distillation is the process of transferring knowledge from a larger, computationally expensive model to a relatively smaller model. The larger and smaller models are called the teacher and student models, respectively.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model on knowledge distillation:
+
+**Q1: What is the hypothesis behind the response-based algorithm in knowledge distillation?**
+**A1:** The hypothesis is that the student model will learn to mimic the predictions of the teacher model.
+
+=======
+
+**Q2: What is the loss function used in knowledge distillation?**
+**A2:** The loss function used is the distillation loss, which captures the difference between the logits of the student and the teacher model respectively.
+
+=======
+
+**Q3: How does the distillation loss minimize overtraining?**
+**A3:** The distillation loss minimizes overtraining by encouraging the student model to improve at making the same predictions as the teacher model.
+
+=======
+
+**Q4: What is the off-line training scheme in knowledge distillation?**
+**A4:** In the off-line training scheme, the teacher model is first trained and the weights are then frozen. Next, the student model is trained using the distillation loss and the logits from the teacher model as targets.
+
+=======
+
+**Q5: What is the equation for the distillation loss?**
+**A5:** The equation for the distillation loss is Ld = T2 * KL(softmax(T1 * f(T;x)); softmax(T1 * g(T;x))) , where Ld is the loss function for knowledge distillation.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the requested format:
+
+**Q1:** What is the hyperparameter that controls the trade-off between the classification loss and the distillation loss?
+**A1:** The hyperparameter that controls the trade-off between the classification loss and the distillation loss is [insert hyperparameter name].
+
+=======
+
+**Q2:** What is the temperature hyperparameter used for in the distillation process?
+**A2:** The temperature hyperparameter is used to soften the logits (outputs of the last layer before softmax) of the teacher and student models.
+
+=======
+
+**Q3:** What is KL used for in the distillation process?
+**A3:** KL (Kullback-Leibler divergence) is used as a measure of how different two probability distributions are.
+
+=======
+
+**Q4:** What is the purpose of the softmax function in the distillation process?
+**A4:** The softmax function is used to convert the logits to probabilities.
+
+=======
+
+**Q5:** What are f(T;x) and g(T;x) used for in the distillation process?
+**A5:** f(T;x) and g(T;x) represent the logits of the teacher and student models, respectively, for input x.
+
+=======
+
+**Q6:** What is the typical choice for the teacher model, and why?
+**A6:** Generally, a larger and deeper network is chosen as the teacher model, as it performs well on the task at hand. We chose ResNet18 as our teacher model, which contains 18 residual blocks stacked together, alleviating the degradation and vanishing gradient problem.
+
+=======
+
+**Q7:** What is the purpose of using ResNet18 as the teacher model?
+**A7:** We chose ResNet18 as our teacher model to ensure consistent and accurate performance on the task at hand.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What happens to the input size before addition in a residual layer?
+**A1:** The input may undergo an operation that aligns it with the output dimensions, which is typically a convolution.
+
+=======
+
+**Q2:** What is the typical operation that aligns the input with the output dimensions in a residual layer?
+**A2:** The typical operation is a convolution.
+
+=======
+
+**Q3:** What is the main difference between the teacher model and the student model?
+**A3:** The main difference is that the student model is smaller and shallower, making it more computationally efficient.
+
+=======
+
+**Q4:** What is the architecture of the student model?
+**A4:** The student model consists of 3 convolutional layers followed by 3 fully connected layers.
+
+=======
+
+**Q5:** What is the kernel size of the first convolution layer in the student model?
+**A5:** The kernel size of the first convolution layer is not specified in the text.
+
+Note: I've designed the questions to be specific and focused on the key points in the text, and the answers are written in a style that is similar to the original text.
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model based on the given architecture:
+
+**Q1: What is the architecture of the student model?**
+**A1:** The student model consists of three convolutional layers with 6, 16, and 32 filters each, followed by a maxpool layer with a window size of 2x2. The fully connected layers have outputs in the order of 128, 64, and 2. Additionally, dropout layers with a probability of 10% are applied after each convolution and fully connected layer.
+
+=======
+
+**Q2: What is the non-linear activation function used in the model?**
+**A2:** The non-linear activation function used in the model is the Rectified Linear Unit (ReLU).
+
+=======
+
+**Q3: How do the edge devices and cloud server communicate?**
+**A3:** The edge devices communicate with the cloud server via cellular infrastructure and share the model outcome. The cloud server is responsible for scream analytics, decision-making, and storage services.
+
+=======
+
+**Q4: What is the purpose of deploying the proposed classifier to edge devices?**
+**A4:** The proposed classifier is deployed to edge devices to perform the identification of screams.
+
+=======
+
+**Q5: What is the role of the cloud server in the scream detection system?**
+**A5:** The cloud server is responsible for scream analytics, decision-making, and storage services in the scream detection system.
+
+=======
+
+**Q6: What is the dropout probability used in the model?**
+**A6:** The dropout probability used in the model is 10%.
+
+=======
+
+**Q7: What is the output of the fully connected layers in the order?**
+**A7:** The outputs of the fully connected layers are in the order of 128, 64, and 2.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the purpose of the decision-making layer in the cloud system?
+**A1:** The output from the model is sent to the decision-making layer that can take necessary action based on the situation. For instance, if scream emotions are classified as negative emotions i.e., the person is in pain or sorrow, the cloud system will send an alert to the healthcare centre or to the police because the person can be injured or hurt by someone. If the scream emotions are classified as positive emotions such as joyous screams, the cloud system would not be sending any alerts. =======
+
+**Q2:** What is the ASVP-ESD dataset used for in the experiments?
+**A2:** The ASVP-ESD dataset is used in our experiments. It is a dataset that contains speech and non-speech utterances. There are a total of 12625 audio samples, that are collected from various sources. The samples include both male and female speakers and the emotions are boredom (sigh, yawn), neutral, happiness (laugh), sadness (cry), anger (shout), and fear (scream). =======
+
+**Q3:** What are the different emotions present in the ASVP-ESD dataset?
+**A3:** The ASVP-ESD dataset contains six different emotions, which are boredom (sigh, yawn), neutral, happiness (laugh), sadness (cry), anger (shout), and fear (scream). These emotions are represented through various audio samples, including speech and non-speech utterances. =======
+
+**Q4:** What is the purpose of the training protocol in the experimental setup?
+**A4:** The training protocol is used to train the model on the dataset. The protocol defines the process of training the model, including the selection of input features, the choice of algorithms, and the evaluation metrics. The goal of the training protocol is to fine-tune the model to achieve the best possible performance on the dataset. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the different emotions represented in the VIVAE dataset?
+**A1:** Ah, great question! The VIVAE dataset consists of human non-speech emotion utterances, which are categorized into 7 emotions: sadness, anger, fear, surprise, disgust, excitement, and pleasure. These emotions are further divided into three positive (achievement, sexual pleasure, and surprise) and three negative (anger, fear, and physical pain) emotional states.
+
+=======
+
+**Q2:** What is the sampling rate of the audio in the VIVAE dataset?
+**A2:** Easy one! The audio in the VIVAE dataset has a sampling rate of 44.1kHz.
+
+=======
+
+**Q3:** What is the purpose of using the DEMAND dataset?
+**A3:** Good question! We use the DEMAND dataset to evaluate the performance of our proposed framework in noisy conditions. The DEMAND dataset provides realistic noises captured in various real-world settings, which allows us to test our algorithm's robustness in different environments.
+
+=======
+
+**Q4:** How many categories does the DEMAND dataset span?
+**A4:** Simple one! The DEMAND dataset spans over 6 categories, with 4 of them being inside environments and the remaining 2 being outside environments.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the setting for collecting the maining category samples?**
+**A1:** The maining category samples are collected in an outdoor setting.
+
+=======
+
+**Q2: What are the sample rates of the dataset recordings?**
+**A2:** The dataset recordings are available in 48kHz and 16kHz sample rates.
+
+=======
+
+**Q3: How were the audio recordings trimmed?**
+**A3:** The audio was initially recorded for a long duration and afterwards trimmed to a total of 300 seconds each.
+
+=======
+
+**Q4: What method was used to represent the input signal?**
+**A4:** In speech and audio research, melspectrograms are a popular method to represent input signal. Similarly, we chose to represent our audio samples as melspectrograms.
+
+=======
+
+**Q5: What parameters were used for the short-time Fourier Transform?**
+**A5:** We used a short-time Fourier Transform of size 1024, a hop size of 256, and a window size of 1024.
+
+=======
+
+**Q6: What is the frequency range and number of bands computed?**
+**A6:** The frequency range was chosen between 0-8kHz and a total of 128 bands were computed.
+
+=======
+
+**Q7: How were the melspectrograms normalized?**
+**A7:** Each melspectrogram was normalized in the range of [1;1].
+
+=======
+
+**Q8: How were the sample utterances of varying lengths handled?**
+**A8:** Since the sample utterances were not consistent in length, we decided on a cutoff of 3 seconds for larger audios and padded the smaller ones with zeros, giving us consistent 3-second audios.
+
+=======
+
+**Q9: Why was the sampling rate resampled to 16kHz?**
+**A9:** Before converting the audios to melspectrograms of higher sampling rates we resample them to 16kHz. This sampling rate is kept consistent throughout.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What was the hardware used for training the classification tasks?**
+**A1:** We used an Nvidia GeForce RTX 3090 24-GB GPU for training the classification tasks.
+
+=======
+
+**Q2: What was the framework used for training the model?**
+**A2:** We used PyTorch as the framework of choice for training the model.
+
+=======
+
+**Q3: What was the batch size used for training the model?**
+**A3:** We used a batch size of 64 for training the model.
+
+=======
+
+**Q4: What was the loss function used for training the model?**
+**A4:** We used the binary cross entropy loss as the criterion for training the model.
+
+=======
+
+**Q5: How were the weights of each layer initialized?**
+**A5:** We randomly initialized the weights of each layer using Adam as the optimizer.
+
+=======
+
+**Q6: What were the parameters used for the Adam optimizer?**
+**A6:** We used the following parameters for the Adam optimizer: 1= 0.09,2= 0.09999 ,= 1e-8.
+
+=======
+
+**Q7: What was the learning rate used for training the model?**
+**A7:** We experimented with multiple learning rates and found that a learning rate of 1e-5 gave better results with less training time.
+
+=======
+
+**Q8: How were the experiments conducted?**
+**A8:** All experiments were conducted on 80% and 20% random splits for training and testing respectively.
+
+=======
+
+**Q9: How was the ASVP-ESD dataset balanced for the scream detection task?**
+**A9:** We had to balance the scream and non-scream utterances as scream utterances totalled 1170 samples. To balance the dataset, we randomly selected 1170 non-scream utterances, giving us effectively 2340 samples to train the scream detector.
+
+=======
+
+**Q10: What was noticed during experimentation?**
+**A10:** During experimentation, we noticed that...
+Answer: 
+
+Question: Here's a question-answer pair based on the text:
+
+**Q: Why did the model overfit and what was done to mitigate it?**
+**A:** The model would overfit, resulting in a high train and low test accuracy. This high bias could be attributed to small dataset sizes. To mitigate this problem of high bias, we added augmentations to our training data. These augmentations were composed of stretching and contracting audio samples, adding a low-amplitude Gaussian noise, and randomly masking the time and frequency axes of the computed melspectrograms. This augmentation scheme proved helpful in terms of model generalisability and training.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main focus of the research?**
+**A1:** The main focus of our research is on scream detection and emotion detection, specifically separating scream utterances from non-scream ones and classifying whether a person's scream is in a situation of danger or duress.
+
+=======
+
+**Q2: Why is it important to cluster screams in positive and negative categories?**
+**A2:** It is important to cluster screams in positive and negative categories so that the user can be notified of the type of scream detected by the system. This way, the user can take appropriate action, such as investigating a scream that indicates danger or duress.
+
+=======
+
+**Q3: What model is used for comparison in the experiments?**
+**A3:** We compare our results with a MobileNetV3-small model, which is a popular choice for edge computing. For brevity, we refer to it as MobileNetV3s in the proceeding sections.
+
+=======
+
+**Q4: What are the two tasks presented in this section?**
+**A4:** In this section, we present the results of our scream detection and scream type classification tasks.
+Answer: 
+
+Question: Here's a Q&A pair based on the text:
+
+**Q:** Why does the model struggle to cluster utterances into positive and negative categories?
+**A:** The model struggles to cluster utterances into positive and negative categories because there is little to no clustering within the raw melspectrograms.
+
+=======
+
+Please let me know if you'd like me to generate more Q&A pairs!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What was done to simulate a real-world scenario in the experiment?**
+**A1:** To simulate a real-world scenario, we added noise from the DEMAND dataset to our audio samples and tested our evaluations in a simulated noisy real-world environment.
+
+=======
+
+**Q2: What types of noise samples were randomly selected from the DEMAND dataset?**
+**A2:** The noisesamples were randomly selected from the following environments: bus, metro, cafe, kitchen, and office.
+
+=======
+
+**Q3: How were the noise samples used in the experiment?**
+**A3:** Within each noise sample, we randomly select a chunk equal to the input audio sample.
+
+=======
+
+**Q4: What was the purpose of adding noise only in the test split?**
+**A4:** To test the robustness of the model performance, we added noise only in the test split.
+
+=======
+
+**Q5: How did the model perform in the noisy setting?**
+**A5:** The results show that the model generalises well when the noise is added for evaluation only.
+
+=======
+
+**Q6: What were the classification results for the experiments in a noisy setting?**
+**A6:** Table II summarises the results of this experiment, showing the classification results for TeacherScream Detection, Scream Type Classification, MobileNetV3sScream Detection, and Scream Type Classification.
+
+Let me know if you'd like me to add more questions or modify the existing ones!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the performance of the student model in noisy situations?**
+**A1:** The student model's performance in noisy situations is quite robust, as evident from the evaluation results. We compared the results for each noise category used previously, and the accuracy did not decrease drastically.
+
+=======
+
+**Q2: What are the individual noise categories used to test the student model?**
+**A2:** We used the following individual noise categories to test the student model: Scream, DetectionCafe, Kitchen, Ofﬁce, and Metro.
+
+=======
+
+**Q3: What is the computational complexity of the benchmarks?**
+**A3:** The benchmarks were conducted on an UpBoard with an Intel(R) Atom E3940 CPU operating at 1.60GHz, with an onboard memory of 4GBs. We used the standard Ubuntu 20.04 LTS operating system and PyTorch version 1.13, without utilizing any post-processing features offered by PyTorch.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the primary concerns when deploying models in production?
+**A1:** The primary concerns are the total time to load the model and the time it takes for a single forward pass of an utterance.
+
+=======
+
+**Q2:** How do the teacher, student, and MobileNetV3s models compare in terms of latency?
+**A2:** The student model is almost twice as fast as the teacher model and is about 20ms faster than the MobileNetV3s model.
+
+=======
+
+**Q3:** What is the significant difference between the models in terms of load times?
+**A3:** The student model takes the least time to load into memory.
+
+=======
+
+**Q4:** How can the differences in metrics be explained?
+**A4:** The differences can be better explained by the total parameters and the size of each model, as presented in Table IV.8.
+
+=======
+
+**Q5:** What do the t-SNE plots in Fig. 7 show?
+**A5:** The t-SNE plots show the raw melspectrograms and the penultimate activations (embeddings) of the teacher and student model.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** Why is there no clustering on raw Mel-spectrograms?
+**A1:** That's correct, we didn't observe any clustering on raw Mel-spectrograms. However, the t-SNE plots after using the trained models show samples getting clustered, which is an interesting observation.
+
+=======
+
+**Q2:** How does the number of parameters in a model affect its performance?
+**A2:** A larger number of parameters in a model increases the computational cost, and similarly, a large memory footprint contributes to higher model loading times. This is an important consideration when deploying our system on devices with limited resources.
+
+=======
+
+**Q3:** What are some potential applications of the proposed system?
+**A3:** Our system is well-suited for deployment on memory and computation constraint devices such as personal assistants like Alexa Home, Google Assistant, and Siri. These devices require efficient models that can operate with limited resources, and our system is designed to meet these requirements.
+
+=======
+
+**Q4:** How do the proposed model and other models compare in terms of latency and loading times?
+**A4:** As shown in Fig. 9, our proposed model has significantly lower latency and loading times compared to the teacher and MobileNetV3s models. This is an important advantage for real-world applications where speed and efficiency are critical.
+
+=======
+
+**Q5:** What are the key differences between the proposed model and other models in terms of size and total parameters?
+**A5:** As shown in TABLE IV, our proposed model has a significantly smaller size and fewer total parameters compared to the teacher and MobileNetV3s models. This makes it more suitable for deployment on devices with limited resources.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model:
+
+**Q1: What is the primary focus of the paper?**
+A1: The primary focus of the paper is on presenting a knowledge distillation-based non-speech emotion identification system for edge computing.
+
+=======
+
+**Q2: What are the applications of non-speech emotion identification?**
+A2: The paper covers various applications of non-speech emotion identification, including sending alerts to the Police or medical centre to help the person in case of an emergency.
+
+=======
+
+**Q3: What is the case study based on?**
+A3: The case study is based on real-life scenarios, where the system is designed to distinguish scream sounds from other utterances and classify non-speech utterances based on their emotional states.
+
+=======
+
+**Q4: How was the system performance evaluated?**
+A4: The system performance was evaluated based on two publicly available datasets, with the goal of distinguishing scream sounds from other utterances and classifying non-speech utterances based on their emotional states.
+
+=======
+
+**Q5: What was done to test the robustness of the proposed system?**
+A5: To test the robustness of the proposed system, typical real-world background noises were added to the inputs to mimic real-world scenarios.
+
+=======
+
+**Q6: How does the proposed framework compare to MobileNetV3?**
+A6: The proposed framework provides better computational efficiency compared to the well-known MobileNetV3 and achieves improved performance.
+
+=======
+
+**Q7: What do the results of the paper show?**
+A7: The results of the paper show the feasibility and effectiveness of the proposed framework, demonstrating its potential for real-world applications.
+Answer: 
+
+Question: Here's a question-answer pair to help fine-tune a model:
+
+**Q:** What is the primary focus of the proposed system in your research?
+**A:** The primary focus of the proposed system is to develop a non-speech emotion identification system in communication networks.
+
+=======
+Answer: 
+

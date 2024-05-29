@@ -1,0 +1,1461 @@
+Question: Here are the question-answer pairs based on the provided text, with the author's style maintained:
+
+**Q1:** What are the key factors driving the popularity of Machine Learning as a Service (MLaaS) cloud platforms?
+**A1:** With the advances in machine learning (ML) and deep learning (DL) techniques, and the potency of cloud computing in offering services efficiently and cost-effectively, MLaaS cloud platforms have become popular.
+
+=======
+
+**Q2:** What is the primary reason for the increasing adoption of third-party cloud services for outsourcing training of DL models?
+**A2:** The primary reason is that it requires substantial costly computational resources (e.g., high-performance computing resources).
+
+=======
+
+**Q3:** What are the benefits of using cloud computing for machine learning tasks?
+**A3:** Cloud computing offers services efficiently and cost-effectively, making it a popular choice for machine learning tasks.
+
+=======
+
+**Q4:** What are the key drivers of the growth of MLaaS cloud platforms?
+**A4:** The key drivers are the advances in machine learning (ML) and deep learning (DL) techniques, and the potency of cloud computing.
+
+=======
+
+**Q5:** What are the primary advantages of using MLaaS cloud platforms?
+**A5:** The primary advantages are the efficiency and cost-effectiveness of cloud computing, which enables the use of machine learning and deep learning techniques.
+
+=======
+
+These question-answer pairs can be used to fine-tune a model and assess the author's understanding of the topic.
+Answer: 
+
+Question: Here are the question-answer pairs based on the article:
+
+**Q1: What is the main concern regarding the widespread usage of cloud-hosted ML/DL services?**
+A1: The main concern is that it opens a wide range of attack surfaces for adversaries to exploit the ML/DL system to achieve malicious goals.
+
+=======
+
+**Q2: What is the scope of the systematic review conducted in the article?**
+A2: The systematic review evaluates the literature on cloud-hosted ML/DL models along both the important dimensions of attacks and defenses related to their security.
+
+=======
+
+**Q3: How many related articles were identified in the systematic review?**
+A3: A total of 31 related articles were identified, out of which 19 focused on attacks, six focused on defense, and six focused on both attack and defense.
+
+=======
+
+**Q4: What is the increasing interest in the research community regarding cloud-hosted ML/DL models?**
+A4: The research community is showing increasing interest in attacking and defending different attacks on Machine Learning as a Service platforms.
+
+=======
+
+**Q5: What are the limitations and pitfalls of the analyzed articles?**
+A5: The analyzed articles have limitations and pitfalls that require further investigation, which are highlighted in the article.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the recent applications of machine learning (ML) techniques?**
+**A1:** Machine learning (ML) techniques have been successfully applied to a wide range of applications, significantly outperforming previous state-of-the-art methods in various domains, for example, image classification, face recognition, and object detection.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is LaaS?**
+LaaS refers to different ML services that are offered as a component of a cloud computing service. For instance, predictive analytics, face recognition, natural language services, and data processing are some examples of LaaS.
+
+=======
+
+**Q2: What are some examples of LaaS?**
+Some examples of LaaS include predictive analytics, face recognition, natural language services, and data processing. These services are offered as a component of a cloud computing service, allowing users to access and utilize them without having to build and maintain them themselves.
+
+=======
+
+**Q3: What is the significance of LaaS in cloud computing?**
+LaaS is significant in cloud computing as it allows users to access and utilize advanced ML services without having to build and maintain them themselves. This can save time, resources, and costs, and enable users to focus on their core business activities.
+
+=======
+
+**Q4: What are some benefits of using LaaS?**
+Some benefits of using LaaS include increased efficiency, reduced costs, and improved accuracy. By leveraging LaaS, users can access advanced ML services without having to build and maintain them themselves, which can lead to improved decision-making and better business outcomes.
+
+=======
+
+**Q5: What are some challenges associated with LaaS?**
+Some challenges associated with LaaS include data security, data privacy, and scalability. As LaaS services are hosted in the cloud, there is a risk of data breaches and unauthorized access. Additionally, LaaS services may not be scalable to meet the needs of large-scale applications.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is MLaaS?**
+MLaaS stands for Model Learning as a Service, which allows users to upload their data and model for training at the cloud.
+
+=======
+
+**Q2: What are the benefits of MLaaS?**
+MLaaS can help reduce the entry barrier to the use of ML and DL through access to managed services of wide hardware heterogeneity and incredible horizontal scale.
+
+=======
+
+**Q3: Who provides MLaaS?**
+MLaaS is currently provided by several major organizations such as Google, Microsoft, and Amazon.
+
+=======
+
+**Q4: What is an example of Google's MLaaS offering?**
+Google offers Cloud ML Engine, which allows developers and data scientists to upload training data and model which is trained on the cloud in the TensorFlow environment.
+
+=======
+
+**Q5: What is an example of Microsoft's MLaaS offering?**
+Microsoft offers Azure Batch AI, a cloud-based service for training DL models using different frameworks supported by both Linux and Windows operating systems.
+
+=======
+
+**Q6: What is an example of Amazon's MLaaS offering?**
+Amazon offers a cloud service that allows users to train and deploy machine learning models at scale.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is Deep Learning AMI?**
+**A1:** Deep Learning AMI is a service that provides several pre-built deep learning frameworks, such as MXNet, Caffe, Theano, and TensorFlow, available in Amazon's EC2 cloud computing infrastructure.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the benefits of using pre-trained models in other domains?**
+A1: In other domains, state-of-the-art results can be obtained with a minimal amount of training even on a single GPU.
+
+=======
+
+**Q2: What are some popular pre-trained models available for download and fine-tuning?**
+A2: Various popular pre-trained models such as AlexNet (Krizhevsky et al., 2012), VGG (Simonyan and Zisserman, 2015), and Inception (Szegedy et al., 2016) are available for download and fine-tuning online.
+
+=======
+
+**Q3: What are the security concerns associated with outsourcing strategies?**
+A3: Both of the aforementioned outsourcing strategies come with new security concerns.
+
+=======
+
+**Q4: What types of attacks can be realized on different components of the communication network?**
+A4: The literature suggests that different types of attacks can be realized on different components of the communication network, for example, intrusion detection (Han et al., 2020; Usama et al., 2020b), network traffic classification (Usama et al., 2019), and malware detection systems (Chen et al., 2018).
+
+=======
+
+**Q5: What are some examples of adversarial ML attacks?**
+A5: Adversarial ML attacks have also been devised for client-side ML classifiers, that is, Google's phishing filter (Liang et al., 2016).
+
+=======
+
+**Q6: What is the focus of this article?**
+A6: In this article, we analyze the security concerns associated with outsourcing strategies in machine learning.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the main contribution of this article?**
+**A1:** The main contributions of this article are four-fold. Firstly, we conducted a systematic evaluation of 31 articles related to MLaaS attacks and defenses. Secondly, we investigated five themes of approaches aiming to attack MLaaS and cloud-hosted ML services. Thirdly, we examined five themes of defense methods for securing MLaaS and cloud-hosted ML services. Lastly, we identified the pitfalls and limitations of the examined articles and highlighted open research issues that require further investigation.
+
+=======
+Answer: 
+
+Question: Here are the first two question-answer pairs, separated by =======:
+
+**Q1: What are the main sections of the article?**
+**A1:** The article is divided into nine sections. Section 4 presents various security challenges associated with cloud-hosted ML models, Section 5 discusses potential solutions for securing cloud-hosted ML models, Section 6 discusses the pitfalls and limitations of the reviewed approaches, and so on.
+
+=======
+
+**Q2: What are the research objectives of the article?**
+**A2:** The main research objectives of this article are to identify and systematically review the state-of-the-art research related to the security of cloud-based ML/DL techniques. Specifically, the article aims to build upon the existing work around the security of cloud-based ML/DL techniques, and to identify the key challenges and potential solutions in this area.
+
+=======
+Answer: 
+
+Question: Here's the answer to the first question, followed by a separator:
+
+What are the well-known attacks on cloud-hosted ML/DL models?
+
+Cloud-hosted ML/DL models are vulnerable to various types of attacks, including data poisoning, model inversion, model stealing, and backdoor attacks. Data poisoning attacks involve injecting malicious data into the training dataset to manipulate the model's behavior. Model inversion attacks involve reconstructing the training data from the model's predictions. Model stealing attacks involve stealing the trained model and retraining it on a new dataset. Backdoor attacks involve inserting a backdoor into the model, allowing an attacker to manipulate its behavior.
+
+=======
+
+Please let me know if this meets your requirements. I'll be happy to help with the next question!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are the potential risks and threats associated with using ud-hosted/third-party ML/DL models?**
+
+The use of ud-hosted/third-party ML/DL models can pose several risks and threats, including data breaches, model poisoning, and intellectual property theft. These models may also be vulnerable to attacks such as backdoors, Trojan horses, and data manipulation. Furthermore, the lack of transparency and explainability in these models can make it difficult to identify and mitigate these risks.
+
+=======
+
+**Q2: What are the countermeasures and defenses against such attacks?**
+
+To counter these attacks, several countermeasures and defenses can be employed. These include using secure communication protocols, implementing access controls and authentication mechanisms, and regularly updating and patching the models. Additionally, techniques such as model monitoring, anomaly detection, and explainability methods can be used to detect and prevent attacks. Furthermore, using open-source models and transparent model development practices can help to build trust and reduce the risk of attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What was the iterative process used to evolve different search terms?**
+**A1:** The iterative process was used to maximize the number of relevant articles.
+
+=======
+
+**Q2: What combination of words was used to achieve optimal sensitivity?**
+**A2:** A combination of words such as "attack", "poisoning", "Trojan attack", "contamination", "model inversion", "evasion", "backdoor", "model stealing", "black box", "ML", "neural networks", "MLaaS", "cloud computing", "outsource", "third party", "secure", "robust", and "defense" was used.
+
+=======
+
+**Q3: How were search strategies created?**
+**A3:** Search strategies were created with controlled or index terms given in .
+
+=======
+
+**Q4: Was there a lower limit for the publication date?**
+**A4:** No, there was no lower limit for the publication date. The last search date was June 2020.
+
+=======
+
+**Q5: How were additional articles searched?**
+**A5:** Researchers searched additional articles through citations and by snowballing on Google Scholar.
+
+=======
+
+**Q6: How were disagreements adjudicated?**
+**A6:** Any disagreement was adjudicated by the third reviewer (AQ).
+
+=======
+
+**Q7: What type of articles were retrieved?**
+**A7:** Articles focusing on the attack/defense for cloud-based ML models were retrieved.
+
+=======
+
+**Q8: What were the inclusion and exclusion criteria for the systematic review?**
+**A8:** The inclusion and exclusion criteria followed for this systematic review are not specified in this section.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are the key points considered for screening retrieved articles as relevant for conducting a systematic review?
+**A1:** We included all articles relevant to the research questions and published in the English language that discusses the attacks on cloud-based ML services, for example, offered by cloud computing service providers.
+
+=======
+
+**Q2:** What was the next step in assessing the eligibility of the relevant articles?
+**A2:** We then assessed the eligibility of the relevant articles by identifying whether they discussed either attack or defense for cloud-based ML/DL models.
+
+=======
+
+**Q3:** What types of studies were included in the review?
+**A3:** Comparative studies that compare the attacks and robustness against different well-known attacks on cloud-hosted ML services (poisoning attacks, black box attacks, Trojan attacks, backdoor attacks, contamination attacks, inversion, stealing, and invasion attacks).
+
+=======
+
+**Q4:** How were the selected articles categorized?
+**A4:** Finally, we categorized the selected articles into three categories, that is, articles on attacks, articles on defenses, and articles on attacks and defenses.
+
+Let me know if you'd like me to add more questions or if you have any specific requests!
+Answer: 
+
+Question: Here are the question-answer pairs in the style of the author:
+
+**Q1: What are the criteria for selecting articles for the systematic review?**
+**A1:** Our systematic review focuses on articles that discuss attacks and defenses for cloud-based/third-party ML services. We only consider articles that propose an attack or defense for a cloud-hosted ML or MLaaS service. Articles that do not meet this criteria are excluded.
+
+=======
+
+**Q2: How do you screen articles for the systematic review?**
+**A2:** We employ a two-phase screening process. The first phase involves title and abstract screening, and the second phase involves reviewing the full text of the publication. This approach helps to avoid bias and ensures that only relevant articles are included in the review.
+
+=======
+
+**Q3: What types of articles are excluded from the systematic review?**
+**A3:** We exclude articles that are not available in full text, as well as secondary studies such as systematic literature reviews, surveys, editorials, and abstracts or short papers. Additionally, we exclude articles that are written in a language other than English.
+
+=======
+
+**Q4: What is the focus of the systematic review?**
+**A4:** The systematic review focuses on the taxonomy of different defenses proposed for defending attacks on third-party cloud-hosted machine learning (ML) or deep learning (DL) models.
+
+=======
+
+**Q5: What is the purpose of the systematic review?**
+**A5:** The purpose of the systematic review is to provide a comprehensive overview of the current state of the art in defending attacks on third-party cloud-hosted ML or DL models, and to identify gaps and areas for future research.
+
+=======
+Answer: 
+
+Question: Here is the Q&A pair:
+
+**Q:** How does the judgment about the relevancy of articles work?
+**A:** The judgment is entirely based on the content of the publications, without considering authors, publication type, or publisher. We also ignore titles and abstracts, as they might not accurately reflect the article's contents. Our review protocol is designed to avoid provenance-based bias.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: How many articles were identified through the search strategy?**
+**A1:** A total of 4,384 articles were identified through the search strategy.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs, formatted as requested:
+
+**Q1:** What was the total number of articles identified in the systematic review?
+**A1:** The systematics review identified a total of 31 articles related to cloud-based ML/DL models and MLaaS.
+
+=======
+
+**Q2:** What percentage of the selected articles were published in conferences?
+**A2:** A significant portion of the selected articles, 41.94%, were published in conferences.
+
+=======
+
+**Q3:** What is the percentage of gray literature (non-peer-reviewed articles) among the selected publications?
+**A3:** The percentage of gray literature is 25.81%.
+
+=======
+
+**Q4:** What is the percentage of publications that were published in symposia or workshop papers?
+**A4:** A very small proportion of publications, 6.45%, were published in symposia, and this percentage is the same for workshop papers.
+
+=======
+
+**Q5:** What is the distribution of selected publications in terms of publication type?
+**A5:** The selected articles were categorized into three classes: conferences (41.94%), journals or transactions (19.35%), and gray literature (25.81%), with a very small proportion published in symposia or workshop papers (6.45%).
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What does the figure show about the interest in cloud-hosted ML/DL model security over the years?
+**A1:** The figure depicts that the interest in the security of cloud-hosted ML/DL models increased in the year 2017 and was at a peak in the year 2018 and was slightly lower in the year 2019 as compared to 2018.
+
+=======
+
+**Q2:** What is the trend in the number of articles published in the years 2017, 2018, and 2019?
+**A2:** There is a similar trend in the number of articles in the year 2017, 2018, and 2019 as discussed previously.
+
+=======
+
+**Q3:** What is the distribution of selected publications by their publishers over the years?
+**A3:** The figure shows that the majority of the publications have been published at IEEE, ACM, and arXiv.
+
+=======
+
+**Q4:** Why did some seemingly relevant articles fail to meet the inclusion criteria?
+**A4:** We have described our inclusion and exclusion criteria that help us to identify relevant articles. We note, however, that some seemingly relevant articles failed to meet the inclusion criteria.
+Answer: 
+
+Question: Here are a few article descriptions with a rationale for why they were not included:
+
+=======
+
+**Question:** Why was Liang et al. (2016) not included in the analysis?
+
+**Answer:** Liang et al. (2016) investigated the security challenges for client-side classifiers via a case study on Google's phishing pages filter. While their work is relevant to the field of machine learning-based web application firewalls (WAFs), their attack is not relevant to cloud-based services, which is the focus of our analysis.
+
+=======
+
+**Question:** Why was Demetrio et al. (2020) not included in the analysis?
+
+**Answer:** Demetrio et al. (2020) presented WAF-A-MoLE, a tool that models the presence of an adversary. Their work demonstrated that ML-based WAFs are exposed to a concrete risk of being bypassed. However, their attack is not associated with any cloud-based services, which is the primary focus of our analysis.
+
+=======
+
+**Question:** Why was Apruzzese et al. (2019) not included in the analysis?
+
+**Answer:** Apruzzese et al. (2019) discussed adversarial attacks where the machine learning model is compromised to induce an output favorable to the attacker. While their work is relevant to the field of machine learning security, their attacks are not specifically targeted at cloud-based services, which is the primary focus of our analysis.
+
+These descriptions provide a brief summary of each article and explain why they were not included in the analysis. They are designed to be concise and easy to understand, making it easy to fine-tune a model using this information.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the search queries used to identify publications for the systematic review?
+**A1:** We used the search queries shown in Figure 4 to identify publications to include in the systematic review.
+
+=======
+
+**Q2:** How did the authors categorize the selected publications?
+**A2:** We followed a systematic review and categorization process, as depicted in Figure 5, to categorize the selected publications.
+
+=======
+
+**Q3:** How did the authors distribute the selected publications over the years?
+**A3:** The distribution of selected publications by type over the years is shown in Figure 7.
+
+=======
+
+**Q4:** What is the scope of the systematic review?
+**A4:** Our systematic review focuses on cloud ML security, specifically on attacks and defenses when the cloud is outsourcing its services as MLaaS.
+
+=======
+
+**Q5:** Are there any studies that are out of the inclusion criteria of this work?
+**A5:** Yes, studies like Han et al. (2020) that focus on practical traffic space evasion attacks on learning-based network intrusion detection systems are out of the inclusion criteria of our work.
+
+=======
+
+**Q6:** What types of attackers were designed and evaluated by Chen et al. (2018)?
+**A6:** Chen et al. (2018) designed and evaluated three types of attackers targeting the training phases to poison the detection.
+
+=======
+
+**Q7:** How did Chen et al. (2018) address the threat of attackers?
+**A7:** To address this threat, Chen et al. (2018) proposed a detection system.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some notable studies on attacks on cloud-hosted machine learning models?
+
+**A1:** KuafuDet, and showed itsigniﬁcantly reduces false negatives and boosts the detection accuracy. Song et al. (2020) presented a federated defense approach for mitigating the effect of adversarial perturbations in a federated learning environment. This article can be potentially relevant for our study as they address the problem of defending cloud-hosted ML models; however, instead of using a third-party service, the authors conducted the experiments on a single computer system in a simulated environment; therefore, this study is not included in the analysis of this article.
+
+=======
+
+Let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the common practice in ML/DL model training?**
+**A1:** In ML practice, it is very common to outsource the training of ML/DL models to third-party services that provide high-computational resources on the cloud.
+
+=======
+
+**Q2: What are the benefits of outsourcing ML/DL model training to cloud services?**
+**A2:** Such services enable ML practitioners to upload their models along with training data which is then trained on the cloud. Although such services have clear benefits for reducing the training and inference time...
+
+=======
+
+**Q3: What are the potential risks associated with outsourcing ML/DL model training to cloud services?**
+**A3:** ...however, these services can easily be compromised and to this end, different types of attacks against these services have been proposed in the literature.
+
+=======
+
+**Q4: What is the focus of the thematic analysis presented in the section?**
+**A4:** In this section, we present the thematic analysis of 19 articles that are focused on attacking cloud-hosted ML/DL models.
+
+=======
+
+**Q5: How are the articles classified in the thematic analysis?**
+**A5:** These articles are classified into five major themes: 1) attack type, 2) threat model, 3) attack method, 4) target model(s), and 5) dataset.
+
+=======
+
+**Q6: What types of attacks have been proposed in the literature?**
+**A6:** A wide variety of attacks have been proposed in the literature. These are listed as...
+
+(Note: Please let me know if you want me to continue with the rest of the questions or if you need any modifications!)
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q: What are some types of adversarial attacks?**
+**A:** Adversarial attacks are a type of threat to machine learning models, and there are several types of them. For instance, there are adversarial attacks like those proposed by Brendel et al. (2017), which aim to mislead the model by adding noise to the input data. Another type is backdoor attacks, which were introduced by Chen et al. (2017) and Gu et al. (2019), where an attacker injects a backdoor into the model to manipulate its predictions.
+
+=======
+
+**Q: What is a cyber kill chain-based attack?**
+**A:** A cyber kill chain-based attack is a type of attack that follows a specific sequence of steps, as proposed by Nguyen (2017). This attack involves reconnaissance, weaponization, delivery, exploitation, command and control, and actions on objectives. The goal is to compromise the machine learning model and use it for malicious purposes.
+
+=======
+
+**Q: What are data manipulation attacks?**
+**A:** Data manipulation attacks are a type of threat where an attacker manipulates the training data to deceive the machine learning model. This can be done by adding noise, modifying labels, or injecting biases into the data, as proposed by Liao et al. (2018).
+
+=======
+
+**Q: What are evasion attacks?**
+**A:** Evasion attacks are a type of attack where an attacker tries to evade the machine learning model's detection by modifying the input data. This can be done by adding noise, perturbing the input, or using adversarial examples, as proposed by Hitaj et al. (2019).
+
+=======
+
+**Q: What are exploration attacks?**
+**A:** Exploration attacks are a type of attack where an attacker tries to explore the machine learning model's behavior by querying it with carefully crafted inputs. This can be done to understand the model's decision-making process, as proposed by Sethi and Kantardzic (2018).
+
+=======
+
+**Q: What are model extraction attacks?**
+**A:** Model extraction attacks are a type of attack where an attacker tries to extract the machine learning model's knowledge by querying it with carefully crafted inputs. This can be done to steal the model's intellectual property, as proposed by Correia-Silva et al. (2018), Kesarwani et al. (2018), Joshi and Tammana (2019), and Reith et al. (2019).
+
+=======
+
+**Q: What are model inversion attacks?**
+**A:** Model inversion attacks are a type of attack where an attacker tries to invert the machine learning model's predictions to obtain the input data. This can be done to steal sensitive information, as proposed by Yang et al. (2019).
+
+=======
+
+**Q: What are model-reuse attacks?**
+**A:** Model-reuse attacks are a type of attack where an attacker tries to reuse a machine learning model for malicious purposes. This can be done by modifying the model's architecture or training data, as proposed by Ji et al. (2018).
+
+=======
+
+**Q: What are Trojan attacks?**
+**A:** Trojan attacks are a type of attack where an attacker injects a backdoor into a machine learning model to manipulate its predictions. This can be done to steal sensitive information or disrupt the model's functionality, as proposed by Liu et al. (2018).
+
+=======
+
+**Q: What are the different threat models for cloud ML attacks?**
+**A:** Cloud ML attacks can be based on different threat models, with the salient types being black box attacks and white box attacks. Black box attacks assume no knowledge of the machine learning model's internal workings, while white box attacks assume full knowledge of the model's architecture and training data. Examples of black box attacks include those proposed by Brendel et al. (2017), Chen et al. (2017), Hosseini et al. (2017), Correia-Silva et al. (2018), Sethi and Kantardzic (2018), and Hitaj et al. (2019). Examples of white box attacks include those proposed by Liao et al. (2018), Liu et al. (2018), and Gu et al. (2019).
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What types of attacks are proposed in the considered studies?**
+A1: The considered studies propose different types of attacks, including gray box attacks (partial knowledge) and black box attacks (no knowledge).
+
+=======
+
+**Q2: What are the different MLaaS services used in the considered studies?**
+A2: The considered studies use different MLaaS services, including Google Cloud ML Services, ML models of BigML Platform, IBM's visual recognition, and Amazon Prediction APIs.
+
+=======
+
+**Q3: What types of datasets are used in the considered studies?**
+A3: The considered studies use different datasets, ranging from small size datasets such as MNIST and Fashion-MNIST to large size datasets such as YouTube Aligned Face Dataset, Project Wolf Eye, and Iris dataset.
+
+=======
+
+Let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are some examples of datasets used to study attacks on cloud-hosted machine learning models?
+**A1:** The datasets used include California Housing, Boston House Prices, UJIIndoorLoc, IPIN 2016Tutorial, FaceScrub, CelebA, and CIFAR-10.
+
+=======
+
+**Q2:** What is the purpose of the taxonomy of attacks on cloud-hosted machine learning models?
+**A2:** The taxonomy is presented to categorize and describe different attacks on cloud-hosted ML/DL models, as described in the thematic analysis.
+
+=======
+
+**Q3:** How can backdoor attacks on cloud-hosted models be categorized?
+**A3:** Backdoor attacks can be categorized into three categories: complete model-based attacks, partial model-based attacks, and model-free attacks.
+
+Let me know if you'd like me to add more question-answer pairs or if you have any specific requests!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the type of attack presented by Brendel et al. (2017)?
+**A1:** We presented a decision-based attack, specifically the boundary attack.
+
+=======
+
+**Q2:** What are the two ML classifiers used by Brendel et al. (2017) for their attack?
+**A2:** We used two ML classifiers from Clarifai.com, namely brand and celebrity recognition.
+
+=======
+
+**Q3:** What is the target model of the attack by Saadatpanah et al. (2019)?
+**A3:** Our attack targeted the copyright detection system, specifically YouTube content ID and AudioTag.
+
+=======
+
+**Q4:** What is the type of attack proposed by Hosseini et al. (2017)?
+**A4:** We proposed two targeted attacks for video labeling and shot detection.
+
+=======
+
+**Q5:** What is the target model of the attack by Hosseini et al. (2017)?
+**A5:** Our attacks targeted the Google cloud video intelligence API.
+
+=======
+
+**Q6:** What type of attack is used by Kesarwani et al. (2018) to extract information from a decision tree?
+**A6:** We used an extraction attack, specifically using information gain to measure model learning rate.
+
+=======
+
+**Q7:** What is the target model of the attack by Kesarwani et al. (2018)?
+**A7:** Our attack targeted a decision tree deployed on the BigML platform.
+
+=======
+
+**Q8:** What are the four datasets used by Kesarwani et al. (2018) for their attack?
+**A8:** We used four BigML datasets, namely IRS tax pattern, GSS survey, email importance, and steak survey.
+
+=======
+
+**Q9:** What is the method used by Correia-Silva et al. (2018) to extract knowledge from a model?
+**A9:** We used knowledge extraction by querying the model with unlabeled data samples and then used responses to create a fake dataset and model.
+
+=======
+
+These question-answer pairs are designed to help fine-tune a model on the topic of adversarial attacks on ML/DL models.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are the three local CNN models used for visual recognition?
+**A1:** We used three local CNN models for facial expression recognition, object classification, and crosswalk classification.
+
+=======
+
+**Q2:** What datasets were used for facial expression recognition, object classification, and satellite crosswalk classification?
+**A2:** We used three datasets for facial expression recognition, object classification, and satellite crosswalk classification, as mentioned in (Reith et al., 2019).
+
+=======
+
+**Q3:** What is the protocol used for preserving SVR-based indoor localization, and what type of attacks were performed on it?
+**A3:** We performed model extraction attacks on the homomorphic encryption-based protocol for preserving SVR-based indoor localization, as described in (Joshi and Tammana, 2019).
+
+=======
+
+**Q4:** What is the proposed variant of gradient-driven adaptive learning rate (GDALR) used for stealing MLaaS models, and what datasets were used to test it?
+**A4:** We proposed a variant of gradient-driven adaptive learning rate (GDALR) for stealing MLaaS models and tested it on three different models using Iris, liver disease, and land satellite datasets, as mentioned in (Sethi and Kantardzic, 2018).
+
+=======
+
+**Q5:** What is the seed-explore-exploit framework used for generating adversarial samples, and what platform was used to test it?
+**A5:** We presented a seed-explore-exploit framework for generating adversarial samples and tested it on Google Cloud Prediction Platform using 10 real-world datasets, as described in (Gu et al., 2019).
+
+=======
+
+**Q6:** What type of attack is the real-world attack by poisoning training samples, and what datasets were used to test it?
+**A6:** We realized a backdoor attack by poisoning training samples, and tested it on various real-world datasets, as mentioned in (Gu et al., 2019).
+
+These question-answer pairs are designed to help fine-tune a model on the topic of model extraction attacks, and the author's style is intended to be similar to the original text.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some examples of backdoor poisoning attacks on machine learning models?
+**A1:** Ah, great question! Chen et al. (2017) proposed two types of backdoor poisoning attacks on Faster-RCNN with outsourced training and transfer learning, using the MNIST and U.S. street sign classification datasets. They demonstrated how to realize a targeted attack on these models.
+
+=======
+
+**Q2:** Can you give an example of a Trojan attack on a neural network?
+**A2:** Absolutely! Liu et al. (2018) proposed a Trojan attack on two face recognition models, DeepID and VGG-Face, using the YouTube aligned face dataset. They demonstrated a stealthy infection on these neural networks.
+
+=======
+
+**Q3:** How can we craft adversarial examples in real-time?
+**A3:** Gong et al. (2019) proposed a real-time adversarial example crafting procedure for cloud-based intelligent supply chain, using the Fashion-MNIST dataset. They showed how to generate adversarial examples on voice/speech-enabled devices and Google Speech.
+
+=======
+
+**Q4:** What is an example of a model reuse attack?
+**A4:** Ji et al. (2018) presented an empirical evaluation of model-reuse attacks on primitive models, including speech recognition and autonomous steering. They demonstrated how to generate semantically similar neighbors and identify salient features to realize an attack.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some examples of datasets used to study data manipulation attacks on machine learning (ML) and deep learning (DL) models?
+**A1:** Gray box Speech commands, Udacity self-driving car challenge, VGG Face2, and International Skin Imaging Collaboration (ISIC) datasets (Liao et al., 2018).
+
+=======
+
+**Q2:** What type of attacks were studied on ML and DL models using transfer learning and gradient descent?
+**A2:** Data manipulation attacks for stealthily manipulating ML and DL models.
+
+=======
+
+**Q3:** Which cloud-hosted ML and DL models were targeted by crafted out-of-distribution exploratory adversarial examples?
+**A3:** Clarifai's content moderation system in the cloud.
+
+=======
+
+**Q4:** What are some examples of datasets used to study adversarial attacks on ML and DL models?
+**A4:** MINIST, CIFAR, and ImageNet.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the focus of the paper?**
+The paper proposes a decision-based adversarial attack, specifically the boundary attack, against two black box ML models trained for brand and celebrity recognition hosted at Clarifai.com.
+
+**=======**
+
+**Q2: What are the two ML models used in the paper?**
+The first model identifies brand names from natural images for 500 distinct brands, while the second model recognizes over 10,000 celebrities.
+
+**=======**
+
+**Q3: What is the purpose of exploratory attacks?**
+Exploratory attacks are inference time attacks that aim to evade the underlying ML/DL model, for example, by forcing the classifier to misclassify a positive sample as a negative one.
+
+**=======**
+
+**Q4: Do exploratory attacks harm the training data?**
+No, exploratory attacks do not harm the training data and only affect the model at test time.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the topic of the research presented in Sethi and Kantardzic (2018)?
+**A1:** The topic is an ata-driven exploratory attack using the Seed –Explore –Exploit strategy for evading Google's cloud prediction API considering black box settings.
+
+=======
+
+**Q2:** What is the purpose of the performance evaluation in Sethi and Kantardzic (2018)?
+**A2:** The purpose is to evaluate the performance of the proposed framework using 10 real-world datasets.
+
+=======
+
+**Q3:** What is the goal of model extraction attacks?
+**A3:** The goal is to query the deployed ML model, use query-response pairs to compromise future predictions, and potentially realize privacy breaches of the training data and steal the model by learning extraction queries.
+
+=======
+
+**Q4:** What is the method presented by Kesarwani et al. (2018) for quantifying the extraction status of models?
+**A4:** The method is a novel approach that measures model learning rate using information gain observed by query and response streams of users, aiming to design a cloud-based system for monitoring model extraction status and warnings.
+
+Let me know if you'd like me to add more questions or modify the style to better fit your needs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What was the evaluation method used for the proposed method?**
+The proposed method was evaluated using a decision tree model deployed on the BigML MLaaS platform for different adversarial attack scenarios.
+
+=======
+
+**Q2: What is the model extraction/stealing strategy presented by Correia-Silva et al. (2018)?**
+The authors queried the cloud-hosted DL model with random unlabeled samples and used their predictions for creating a fake dataset. Then they used the fake dataset for building a fake model by training an oracle (copycat) model in an attempt to achieve similar performance as the target model.
+
+=======
+
+**Q3: What is a backdooring attack?**
+In backdooring attacks, an adversary maliciously creates a trained model which performs as good as expected on the users' training and validation data, but it performs badly on attacker-specific data.
+
+=======
+
+**Q4: What is the summary of the state-of-the-art attack types for cloud-based/third-party ML/DL models?**
+The summary is presented in Table 1, which lists the author(s), attack type, method, target model(s), and threat model for each attack type.
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the concept of a kill chain in the context of ML cyber?
+**A1:** A kill chain is a conceptual framework that represents the stages an attacker goes through to compromise a machine learning (ML) model. It's a way to visualize the attack process, from reconnaissance to data exfiltration. Think of it like a kill chain in a military context, but instead of targeting humans, it's targeting ML models.
+
+=======
+
+**Q2:** Can you provide an example of a proof of concept for IBM visual recognition MLaaS?
+**A2:** Yes, I can! IBM's visual recognition MLaaS is a cloud-based service that uses cognitive classification to identify objects in images. A proof of concept for this service is the "Project Wolf Eye" study by Hilprecht et al. (2019), which demonstrated the effectiveness of the service in classifying cats and female lions.
+
+=======
+
+**Q3:** What is a membership inference attack, and how is it performed?
+**A3:** A membership inference attack is a type of attack where an attacker tries to determine whether a specific data sample is part of a training dataset or not. This can be done using Monte Carlo-based attacks, as demonstrated in the study by Hitaj et al. (2019) on Amazon Web Services' p2 instance. They used black-box attacks on MNIST, fashion-MNIST, and CIFAR-10 datasets.
+
+=======
+
+**Q4:** How are evasion attacks performed on ML models?
+**A4:** Evasion attacks are a type of attack where an attacker tries to manipulate the input data to evade detection by the ML model. This can be done using ensemble neural networks, as demonstrated in the study by Yang et al. (2019) on black-box MNIST. They used two ensemble neural networks to realize evasion attacks.
+
+=======
+
+**Q5:** What is an inversion attack, and how is it performed?
+**A5:** An inversion attack is a type of attack where an attacker tries to reconstruct the input data from the output of the ML model. This can be done using an auxiliary set for training the inversion model, as demonstrated in the study by Yang et al. (2019) on gray-box FaceScrub, CelebA, and CIFAR-10 datasets. They constructed an auxiliary set for training the inversion model using a CNN.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is a backdoor model, and how was it used to demonstrate the power of backdoors in DNNs?
+**A1:** A backdoor model is a type of neural network that has been intentionally compromised by an attacker to perform malicious tasks. In our study, we created a backdoor model for a handwritten digit classifier and a United States street sign classifier to demonstrate the power of backdoors in DNNs. We showed that an attacker can create a backdoor model by adding a trigger to the training data, which can then be used to manipulate the model's predictions.
+
+=======
+
+**Q2:** Can you explain the two scenarios considered in the study for creating a backdoor model?
+**A2:** Yes, in our study, we considered two scenarios for creating a backdoor model. The first scenario was outsourced training of the model, where an attacker can acquire a backdoor-pretrained model online. The second scenario was transfer learning, where an attacker can use a pre-trained model as a starting point and fine-tune it to add a backdoor.
+
+=======
+
+**Q3:** What is a targeted backdoor attack, and how was it used in a study on face recognition models?
+**A3:** A targeted backdoor attack is a type of attack where an attacker adds a backdoor to a model with the goal of manipulating the model's predictions on a specific target class. In a study by Chen et al. (2017), a targeted backdoor attack was used to compromise two state-of-the-art face recognition models, DeepID and VGG-Face. The authors proposed two categories of backdooring poisoning attacks and used two different data poisoning strategies to demonstrate the effectiveness of the attack.
+
+=======
+
+**Q4:** What is a Trojan attack, and how does it differ from a backdoor attack?
+**A4:** A Trojan attack is a type of attack where an attacker inserts malicious content into a system that looks legitimate but can take over the control of the system. Unlike a backdoor attack, which is focused on manipulating the model's predictions, a Trojan attack is focused on taking control of the system itself. In a Trojan attack, the attacker's goal is to inject malicious code into the system, whereas in a backdoor attack, the attacker's goal is to manipulate the model's predictions.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the purpose of Trojan insertion?**
+**A1:** The purpose of Trojan insertion can be varied, for example, stealing, disruption, misbehaving, or getting intended behavior.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1:** What is the topic of the research paper by Ji et al. (2018)?
+**A1:** The research paper by Ji et al. (2018) evaluates the performance of four pretrained primitive DL models, specifically speech recognition, autonomous steering, face verification, and skin cancer screening.
+
+=======
+
+**Q2:** What type of attacks are studied by Liao et al. (2018)?
+**A2:** Liao et al. (2018) study data manipulation attacks, which involve manipulating training data to get intended behavior from ML/DL models.
+
+=======
+
+**Q3:** How do the authors of Liao et al. (2018) implement the attack strategy?
+**A3:** The authors add a new constraint on fully connected layers of the models and use gradient descent for retraining them, while freezing other layers to make them non-trainable.
+
+=======
+
+**Q4:** What is the concept of "kill chain" in the context of cyber attacks?
+**A4:** The "kill chain" is a term used to define the steps for attacking a target, typically used in the military. In the context of cyber attacks, it refers to the process of attacking cloud-hosted ML/DL models.
+
+Let me know if you'd like me to add more questions or modify the style to better fit your needs!
+Answer: 
+
+Question: Here are the questions and answers based on the text:
+
+**Q1:** What is the threat model targeting ML cyber kill chain presented by Nguyen (2017)?
+**A1:** A level threat model targeting ML cyber kill chain is presented by Nguyen (2017).
+
+=======
+
+**Q2:** What is a membership inference attack, and how is it carried out?
+**A2:** A membership inference attack is an attempt to figure out if a given input sample was part of the training set or not, by training a classification model to distinguish between the predictions of the target model against inputs on which it was trained and those on which it was not trained.
+
+=======
+
+**Q3:** What is the purpose of the case study provided by the authors using IBM visual recognition MLaaS?
+**A3:** The authors provided a case study using IBM visual recognition MLaaS (i.e., cognitive classifier for classification of cats and female lions) to demonstrate a proof of concept and provide recommendations for ensuring secure and robust ML.
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are evasion attacks in the context of machine learning and deep learning?
+**A1:** Evasion attacks are a type of inference-time attack where an adversary tries to modify the test data to get the intended outcome from the ML/DL model. In other words, they attempt to manipulate the input data to deceive the model into producing a specific output.
+
+=======
+
+**Q2:** Can you give an example of evasion attacks against watermarking techniques for deep learning models hosted on MLaaS?
+**A2:** Yes, Hitaj et al. (2019) presented two evasion attacks against watermarking techniques for DL models hosted on MLaaS. They used five publicly available models and trained them to distinguish between watermarked and clean (non-watermarked) images, which is a binary image classification task.
+
+=======
+
+**Q3:** What is a model inversion attack, and how does it work?
+**A3:** In a model inversion attack, an attacker tries to learn about the training data using the model's outcomes. The attacker trains an inversion model using an auxiliary set, which is composed of data that utilizes their background knowledge. The goal is to align the inversion model with the original training data.
+
+=======
+
+**Q4:** Can you give an example of a model inversion attack being used against a commercial MLaaS?
+**A4:** Yes, Yang et al. (2019) proposed two model inversion techniques and evaluated them on a commercial prediction MLaaS named Amazon Rekognition.
+Answer: 
+
+Question: Here's the rewritten text in the style of a Q&A format, with the author's style maintained:
+
+**Q1:** What are the insights from the systematically selected articles on defenses against specific attacks on cloud-hosted machine learning models?
+
+**A1:** The insights reveal that leveraging cloud-based ML services for computational offloading and minimizing communication overhead is a promising trend. However, sharing the model and training data raises many privacy and security challenges.
+
+**=======**
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the considered attacks for developing defenses?**
+**A1:** The defenses proposed in the reviewed articles are developed against the following specific attacks: Extraction attacks (Tramèr et al., 2016; Liu et al., 2017); Inversion attacks (Liu et al., 2017; Sharma and Chen, 2018); Adversarial attacks (Hosseini et al., 2017; Wang et al., ... **=======**
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q: What types of attacks are mentioned in the text?**
+**A:** The text mentions evasion attacks (Lei et al., 2020), GAN attacks (Sharma and Chen, 2018), privacy threat attacks (Hesamifard et al., 2017), side channel and cache-timing attacks (Jiang et al., 2018), and membership inference attacks (Shokri et al., 2017; Salem et al., 2018).
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs, formatted as requested:
+
+**Q1: What are some common types of attacks on cloud-based machine learning (ML) and deep learning (DL) models?**
+**A1:** There are several types of attacks that can be launched on cloud-based ML and DL models, including rounding, conﬁdence, differential, and ensemble methods (Tramèr et al., 2016); adversarial attacks such as ReDCrypt (Rouhani et al., 2018) and Arden (Wang et al., 2018b); inversion attacks like MiniONN (Liu et al., 2017) and image disguising techniques (Sharma and Chen, 2018); privacy attacks; side channel and cache-timing attacks; and membership inference attacks.
+
+=======
+
+**Q2: What is an example of a defense against information leakage in DNNs?**
+**A2:** MiniONN (Liu et al., 2017) is an example of a defense against information leakage in DNNs, which transforms the model into an oblivious one to prevent extraction attacks.
+
+=======
+
+Let me know if you'd like me to generate more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some examples of neural network models hosted on the cloud for prediction services?
+**A1:** There are several examples of neural network models hosted on the cloud for prediction services. For instance, Rouhani et al. (2018) demonstrated the use of MNIST and CIFAR-10 datasets with neural networks for cloud-based prediction services, focusing on response latency and message sizes.
+
+=======
+
+**Q2:** How can we protect cloud-hosted DL models from adversarial attacks?
+**A2:** One approach is to use ReDCrypt, a reconﬁgurable hardware-accelerated framework for privacy-preserving cloud-hosted DL models, as demonstrated by Wang et al. (2018b). This framework can help protect models like MNIST and MovieLens from adversarial attacks.
+
+=======
+
+**Q3:** How can we distribute DNN model computation among edge devices and cloud data centers?
+**A3:** To distribute DNN model computation, we can use partial cloud-hosted DNN models, as shown by Hosseini et al. (2017). This approach was tested on datasets like MNIST, SVHN, and CIFAR-10, and evaluated in terms of latency, accuracy, and privacy budget.
+
+=======
+
+**Q4:** How can we detect shot changes in videos using histogram peaks?
+**A4:** Sharma and Chen (2018) proposed using histogram peaks to detect shot changes in videos, even when the videos contain adversarial examples. This approach can be used with the Google Cloud Video Intelligence API to analyze videos.
+
+=======
+
+**Q5:** How can we protect against model-based adversarial attacks using image disguising techniques?
+**A5:** Hesamifard et al. (2017) demonstrated the use of image disguising techniques, such as inversion attacks and GAN attacks, to ensure the protection of cloud-hosted DL models like MNIST and CIFAR-10 against model-based adversarial attacks. The evaluation metrics used included accuracy, average visual privacy, and Fano factor.
+
+=======
+
+**Q6:** What are some privacy threats associated with raw data in cloud-hosted DL models?
+**A6:** Raw data in cloud-hosted DL models can pose several privacy threats, as demonstrated by various studies. For instance, Hosseini et al. (2017) highlighted the importance of considering privacy threats when distributing DNN model computation among edge devices and cloud data centers.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main goal of using homomorphic encryption in cloud-based DNNs?
+**A1:** The primary objective is to preserve the privacy and integrity of data in DNNs, ensuring that sensitive information remains confidential and tamper-proof. (Jiang et al., 2018)
+
+=======
+
+**Q2:** What are some potential security threats to cloud-hosted LR models?
+**A2:** Side-channel and cache-timing attacks are significant concerns, which is why we need to implement secure logistic encryption and hardware-based security enhancements, such as software guard extensions. (Lei et al., 2020)
+
+=======
+
+**Q3:** How can we detect unknown phishing websites using machine learning models?
+**A3:** By leveraging Pelican similarity-based analysis, we can identify unknown websites with known phishing sites. This approach is particularly effective when hosted on cloud-based platforms like BitDefender's partical processing. (Tramèr et al., 2016)
+
+=======
+
+**Q4:** What techniques can be used to protect training data elements from extraction attacks?
+**A4:** Rounding confidences to some precision and differential privacy are effective methods to safeguard training data. Additionally, ensemble methods can be employed to further strengthen model security. (S)
+
+Let me know if you'd like me to add more question-answer pairs or modify the style to better suit your needs!
+Answer: 
+
+Question: Here are the question-answer pairs in the style of the author:
+
+**Q1: What is the main goal of the membership inference attack?**
+Membership inference attack is designed to determine whether a given data sample is a member of a target dataset or not. The goal is to infer whether a sample is part of the training data or not.
+
+=======
+
+**Q2: How do the authors of hokri et al., 2017, increase the entropy of the prediction vector?**
+The authors increase the entropy of the prediction vector by using top-k class model predictions, which reduces the confidence in the predicted class and increases the uncertainty.
+
+=======
+
+**Q3: What are some common techniques used to prevent overfitting in cloud-based ML models?**
+Dropout and model stacking are two common techniques used to prevent overfitting in cloud-based ML models. These techniques help to regularize the model and reduce the risk of overfitting.
+
+=======
+
+**Q4: What are some examples of datasets used to evaluate the effectiveness of cloud ML security defenses?**
+The authors of Wang et al., 2018a, used eight different datasets to evaluate the effectiveness of their defense, including 102-Class VGG flower, face dataset, iris dataset, and traffic signs dataset.
+
+=======
+
+**Q5: What is the target of the membership inference attack?**
+The target of the membership inference attack is the cloud-hosted ML/DL models, which are used to evaluate the proposed defense.
+
+=======
+
+These question-answer pairs are designed to help fine-tune a model on the topic of cloud ML security and membership inference attacks.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What datasets were used to evaluate the robustness of the defenses?**
+The robustness of these defenses have been evaluated using various datasets ranging from small size datasets(e.g., MNIST (Liu et al., 2017; Wang et al., 2018b; Rouhani et al., 2018; Sharma and Chen, 2018)) and CIFAR-10 (Liu et al., 2017; Wang et al., 2018b; Sharma and Chen, 2018)), to large size datasets (e.g., Iris dataset (Tramèr et al., 2016), fertility and climate dataset (Hesamifard et al., 2017), and breast cancer (Jiang et al., 2018)). Other datasets include Crab dataset (Hesamifard et al., 2017), Face dataset, Traffic signs dataset, Traffic signs dataset (Tramèr et al., 2016), SVHN (Wang et al., 2018b), Edinburgh MI, Edinburgh MI, WI-Breast Cancerband MONKs Prob (Jiang et al., 2018), crab dataset, fertility dataset, and climate dataset (Hesamifard et al., 2017).
+
+**=======**
+
+**Q2: What are the measured outcomes of the defense techniques?**
+The measured outcomes of the defense techniques are not explicitly mentioned in the text. However, it can be inferred that the robustness of the defenses was evaluated using various datasets, and the results are presented in Table 2.
+
+**=======**
+
+Please let me know if you'd like me to add more question-answer pairs or modify the existing ones.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q:** What are the defenses evaluated based on?
+**A:** The defenses are evaluated based on response latency and message sizes (Liu et al., 2017; Wang et al., 2018b), throughput comparison (Rouhani et al., 2018), average on the cache miss rates per second (Sharma and Chen, 2018), AUC, space complexity to demonstrate approximated storage costs (Jiang et al., 2018), classification accuracy of the model as well as running time (Hesamifard et al., 2017; Sharma and Chen, 2018), similarity index (Lei et al., 2020), and training time (Hesamifard et al., 2017; Jiang et al., 2018).
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: Can the training phase of a model be changed to an oblivious neural network?**
+A1: Yes, it is possible to change the model into an oblivious neural network during the training phase. By making the nonlinear functions such as tanh and sigmoid more flexible, and training the models on several datasets, significant results with minimal loss in accuracy can be achieved.
+
+=======
+
+**Q2: What is the purpose of the of line precomputation phase in ReDCrypt?**
+A2: The of line precomputation phase in ReDCrypt is used to perform encryption incremental operations along with the SIMD batch processing technique.
+
+=======
+
+**Q3: What is the proposed framework by Rouhani et al. (2018) for protecting the privacy of deep neural models in cloud networks?**
+A3: The proposed framework by Rouhani et al. (2018) is a configurable hardware-accelerated framework that implements Yao's Garbled Circuit (GC) protocol on FPGAs for preserving privacy.
+
+=======
+
+**Q4: How is the proposed framework evaluated in ReDCrypt?**
+A4: The proposed framework is evaluated for different scenarios and use cases, as shown in Figure 9.
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main goal of Arden, a privacy-preserving mechanism proposed by Wang et al. in 2018?
+**A1:** The main goal of Arden is to protect user privacy while uploading data to the cloud by including noisy samples and making the data secure.
+
+=======
+
+**Q2:** What is the purpose of including noisy samples in the data when uploading it to the cloud using Arden?
+**A2:** The purpose of including noisy samples is to make the data secure and prevent unauthorized access to the user's data.
+
+=======
+
+**Q3:** How does Arden verify the robustness of its defense mechanism?
+**A3:** Arden verifies the robustness of its defense mechanism by performing rigorous analysis based on three image datasets.
+
+=======
+
+**Q4:** What is the outcome of the analysis performed by Wang et al. to verify the robustness of Arden?
+**A4:** The outcome of the analysis is that Arden is capable of preserving user privacy while maintaining inference performance.
+
+=======
+
+**Q5:** What is the motivation behind introducing malicious training data and performing model inversion attacks on cloud GPU servers?
+**A5:** The motivation behind these attacks is to realize desirable incentives and outcomes by exploiting the cloud GPU server.
+
+=======
+
+**Q6:** What is the purpose of protecting against these types of attacks?
+**A6:** The purpose of protecting against these attacks is to preserve the data and prevent unauthorized access to the user's data.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the image disguising mechanism proposed by Sharma and Chen (2018)?
+**A1:** Sharma and Chen (2018) proposed an image disguising mechanism that uses block-wise permutation and transformations to create disguised images that are resilient to GAN-based attacks and model inversion attacks.
+
+=======
+
+**Q2:** What is the main contribution of Hesamifard et al. (2017) in terms of privacy-preserving MLaaS?
+**A2:** Hesamifard et al. (2017) proposed a privacy-preserving framework using homomorphic encryption, which enables training of neural networks on encrypted data and performing encrypted predictions, achieving desired accuracy while preserving privacy.
+
+=======
+
+**Q3:** What is the goal of Jiang et al. (2018) in their study on homomorphically encrypted models?
+**A3:** Jiang et al. (2018) aimed to build a homomorphically encrypted model to preserve the privacy of outsourced biomedical data and computation on public cloud servers, ensuring secure processing and analysis of sensitive data.
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What reinforces hardware security through Software GuardExtensions?**
+**A1:** Software GuardExtensions, in combination with homomorphic encryption, are used to devise a hybrid model for securing the most commonly used model for biomedical applications, which is LR.
+
+=======
+
+**Q2: What did Lei et al. (2020) propose to deal with evasion attacks?**
+**A2:** Lei et al. (2020) proposed a defense method called Pelican to deal with evasion attacks and increase the robustness of classifiers.
+
+=======
+
+**Q3: What is the success rate of the attacks proposed by Lei et al. (2020) on Google's phishing page filter classifier?**
+**A3:** The attacks proposed by Lei et al. (2020) achieved a 100% success rate on Google's phishing page filter classifier.
+
+=======
+
+**Q4: What is the success rate of the attacks proposed by Lei et al. (2020) on Bitdefender TraficLight?**
+**A4:** The attacks proposed by Lei et al. (2020) achieved a success rate of up to 81% on Bitdefender TraficLight.
+
+=======
+
+**Q5: What is the topic of Tramèr et al's research?**
+**A5:** Tramèr et al's research focuses on rounding confidences and differential privacy.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q: Who presented the model extraction attacks against the online services of BigML and Amazon ML in 2016?**
+**A:** In 2016, researchers presented model extraction attacks against the online services of BigML and Amazon ML. These attacks are capable of model evasion, monetization, and can compromise the privacy of training data.
+
+=======
+
+**Q: What are the proposed countermeasures against model extraction attacks?**
+**A:** The authors proposed and evaluated countermeasures such as rounding conﬁdences against equation-solving and decision tree pathﬁnding attacks. However, this defense has no impact on the regression tree model attack.
+
+=======
+
+**Q: How can we preserve the training data from model extraction attacks?**
+**A:** To preserve the training data, differential privacy is proposed as a defense. This defense reduces the ability of an attacker to learn insights about the training dataset.
+
+=======
+
+**Q: Who studied the training of attacks using shadow training techniques against black box models in the cloud-based Google Prediction API and Amazon ML models?**
+**A:** Shokr studied the training of attacks using shadow training techniques against black box models in the cloud-based Google Prediction API and Amazon ML models.
+
+=======
+
+**Q: What is the impact of the proposed defenses on the attacks for different models?**
+**A:** The impact of both defenses is evaluated on the attacks for different models. The authors also proposed ensemble models to mitigate the impact of attacks; however, their resilience is not evaluated.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the key feature of the attack technique described in i et al. (2017)?
+**A1:** The attack technique does not require prior knowledge of the training data distribution.
+
+=======
+
+**Q2:** Why is it important to design countermeasures to protect the privacy of medical-related datasets or other public-related data?
+**A2:** To protect the privacy of the data, countermeasures should be designed to prevent the leakage of important information.
+
+=======
+
+**Q3:** What is one way to restrict the prediction vector to prevent the leakage of important information?
+**A3:** Restriction of the prediction vector to top k classes can prevent the leakage of important information.
+
+=======
+
+**Q4:** How can regularization be used to cope with overfitting and increase the randomness of the prediction vector?
+**A4:** Regularization can be effective to cope with overfitting and increase the randomness of the prediction vector.
+
+=======
+
+**Q5:** What is the threat model considered in the study by Salem et al. (2018)?
+**A5:** The threat model considered is black box access to the target model, which is a supervised ML classifier with binary output.
+
+=======
+
+These question-answer pairs are designed to help fine-tune a model based on the text, and are written in a style that mimics the original author's writing.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What are some common defense strategies against membership inference attacks?
+**A1:** To mitigate the privacy threats, we proposed two defense strategies. The first one is a dropout-based method, which reduces the impact of an attack by randomly deleting a proportion of edges in each training iteration in a fully connected neural network. The second strategy is model stacking, which hierarchically organizes multiple ML models to avoid overfitting. These defense techniques showed the potential to mitigate the performance of the membership inference attack.
+
+=======
+
+**Q2:** What are the two attacks designed by Hosseini et al. to analyze the robustness of video classification and shot detection?
+**A2:** Hosseini et al. designed two attacks specifically to analyze the robustness of video classification and shot detection. The attacks can subtly manipulate the content of the video in such a way that it is undetected by humans, while the output from the automatic video analysis method is altered.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the frequency of successful API attacks in the given scenario?
+**A1:** Every second, the attack can successfully deceive API.
+
+=======
+
+**Q2:** What is the proposed solution to enhance the robustness of algorithms against shot removal and generation attacks?
+**A2:** The authors proposed the inclusion of randomness for enhancing the robustness of algorithms.
+
+=======
+
+**Q3:** What is the limitation of the defense mechanism proposed in the article?
+**A3:** The purposed defense is not rigorously evaluated in different video settings.
+
+=======
+
+**Q4:** What is the technique used to quickly build DL student models?
+**A4:** Transfer learning is an effective technique for quickly building DL student models.
+
+=======
+
+**Q5:** What is the vulnerability of black box Student models against misclassification attacks?
+**A5:** The vulnerability against misclassification attacks for image recognition on black box Student models increases due to the centralization of model training.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What are some common defense methods against model stealing attacks?**
+**A1:** Ah, great question! Defense methods against model stealing attacks include changing the internal representation of the Student model from the Teacher model, increasing dropout randomization, modifying input data before classification, adding redundancy, and using orthogonal models against transfer learning attacks.
+
+=======
+
+**Q2: What is the most effective method in obfuscating the identity of the Teacher model?**
+**A2:** According to our analysis, the neuron distance threshold is the most effective method in obfuscating the identity of the Teacher model.
+
+=======
+
+**Q3: What is a limitation of the attacks presented in the selected articles?**
+**A3:** One limitation of the attacks presented in the selected articles is the lack of attack diversity. The attacks have limited scope and lack diversity, which is an important consideration for developing robust attacks from the perspective of adversaries.
+
+=======
+
+**Q4: Why is attack diversity important in developing robust attacks?**
+**A4:** Attack diversity is important because it ensures the detection and prevention of attacks to be difficult. The diversity of attacks ultimately helps adversaries to develop more sophisticated and effective attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** How can we develop robust defense strategies in cybersecurity?
+**A1:** To develop robust defense strategies, it is essential to consider the empirical evaluation of attack variabilities, which can identify potential vulnerabilities in cybersecurity systems. This requires testing the model's robustness under a diverse set of attacks. =======
+
+**Q2:** What is the limitation of most defense strategies in the field of cybersecurity?
+**A2:** Most defenses in the field of cybersecurity are proposed for a specific attack and do not consider adaptable adversaries. This is a significant limitation, as in practice, the adversarial attacks are an arms race between attackers and defenders, where attackers continuously evolve and enhance their knowledge and attacking strategies to evade the underlying defensive system. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Question 1:** What is the limited progress in developing defenses in the field of attacks?
+
+**Answer:** The limited progress in developing defenses is quite evident, with only 12 articles presenting defense methods for the proposed attacks, compared to 19 articles focused on attacks. This indicates a lack of activity from the research community in developing defense strategies for already proposed attacks in the literature.
+
+=======
+
+**Question 2:** What is the limitation of the proposed defenses?
+
+**Answer:** The proposed defenses only mitigate or detect those attacks for which they have been developed, and therefore, they are not generalizable. This means that they are not effective against other types of attacks.
+
+=======
+
+**Question 3:** Why is it important to develop defenses?
+
+**Answer:** The increasing interest in developing different attacks and the popularity of cloud-hosted/third-party services demand a proportionate amount of interest in developing defense systems as well. It's essential to have robust defenses to counter the growing threat of attacks.
+
+=======
+
+**Question 4:** What is an open research issue in the field of attacks?
+
+**Answer:** One open research issue is the development of adversarially robust machine learning models. These models need to be able to withstand attacks and maintain their accuracy and performance.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the significance of adversarial ML attacks in the context of ML/DL models?**
+
+Adversarial ML attacks have emerged as a major concern for ML/DL models, particularly for cloud-hosted models. The threat of these attacks has been systematically highlighted in various articles, which underscores the need for robust defense strategies to ensure the security of these models.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the current state of ML model security against adversarial attacks?
+**A1:** According to Kumar et al. (2020), ML model responders are unequipped with the required tools for securing industry-grade ML systems against adversarial ML attacks, indicating the increasing need for defense strategies.
+
+=======
+
+**Q2:** Why is preserving user privacy important in cloud-hosted ML services?
+**A2:** Preserving user privacy is fundamentally important in cloud-hosted ML services, as it is a matter of high concern. It is also desirable that ML models built using users' data should not learn information that can compromise the privacy of individuals.
+
+=======
+
+**Q3:** What is a privacy-preserving technique used for building a defense system for cloud-hosted ML/DL models?
+**A3:** One of the privacy-preserving techniques used for privacy protection is the homomorphic encryption-based protocol, which has been shown to be effective in building a defense system for cloud-hosted ML/DL models (Jiang et al., 2018).
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the main concern regarding cloud ML security?
+**A1:** Cloud ML security is vulnerable to model extraction attacks (Reith et al., 2019).
+
+=======
+
+**Q2:** What is another open research problem in cloud computing platforms?
+**A2:** The development of privacy-preserving ML models is another open research problem.
+
+=======
+
+**Q3:** What is the current state of research on security-centric proxy metrics for evaluating security threats and model robustness of cloud-hosted models?
+**A3:** The interest from the research community in developing novel security-centric proxy metrics is very limited.
+
+=======
+
+**Q4:** Why is the development of effective and scalable metrics for evaluating ML/DL model robustness important?
+**A4:** The development of effective and scalable metrics is required due to the increasing proliferation of cloud-hosted ML services (i.e., MLaaS) and the development of different attacks (e.g., adversarial ML attacks).
+
+=======
+
+**Q5:** What is the focus of the methodology section in the text?
+**A5:** The methodology section will briefly review the methodology used in the study.
+
+Let me know if you'd like me to add more question-answer pairs or modify the existing ones!
+Answer: 
+
+Question: Here's the rewritten text in the style of a question-answer pair, with a separator (=======) between each pair:
+
+Q: How do you ensure the validity of your findings?
+A: To identify any threats to the validity of our findings, we first maintain internal validity by posing research questions that capture the objectives of the study.
+
+=======
+
+Q: What is the basis for construct validity in your study?
+A: Construct validity relies on a sound understanding of the literature and how it represents the state of the field. We ensured the quality of this understanding through a detailed study of the reviewed articles and deep discussions between the members of the research team.
+
+=======
+
+Q: How does the diversity of the research team contribute to the validity of your study?
+A: The research team is diverse in skills and expertise, including ML, DL, cloud computing, ML/DL security, and analytics. This diversity helps ensure the quality of our understanding and minimizes the risk of bias.
+
+=======
+
+Q: How do you address the potential for human error in data extraction?
+A: We mitigated the risk of human error by having different members of the research team review each reviewed article. However, we did not attempt to evaluate the quality of the reviewed studies or validate their content due to time constraints.
+
+=======
+
+Q: How do you minimize selection bias in your study?
+A: To minimize selection bias, we cast a wide net and included a diverse range of studies in our review.
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model on the topic of MLaaS security:
+
+**Q1: What is the focus of the systematic review presented in the article?**
+A1: The focus of the systematic review is on the security of cloud-hosted ML/DL models, also known as MLaaS.
+
+=======
+
+**Q2: Which bibliographical databases were used to collect relevant articles?**
+A2: The articles were collected from eight major publishers, including ACM Digital Library, IEEE Xplore, ScienceDirect, international conference on machine learning, international conference on learning representations, Journal of Machine Learning Research, USENIX, Neural Information Processing Systems, and arXiv.
+
+=======
+
+**Q3: What is the review protocol used for selecting articles?**
+A3: The review protocol includes inclusion and exclusion formulas, which were used to select articles that fulfill certain criteria.
+
+=======
+
+**Q4: How are the selected articles analyzed in the review?**
+A4: The selected articles are analyzed across two dimensions: attacks and defenses, on MLaaS, and provide a thematic analysis of these articles across five attack and five defense themes.
+
+=======
+
+**Q5: What are the five attack themes and five defense themes analyzed in the review?**
+A5: Unfortunately, the article does not specify the exact five attack and five defense themes analyzed in the review.
+Answer: 
+
+Question: Here are the Q&A pairs with the author's style:
+
+**Q1: What were the main objectives of the study?**
+The main objectives of our study were to identify the limitations and pitfalls from the reviewed literature, and to highlight various open research issues that require further investigation.
+
+=======
+
+**Q2: What were the original contributions presented in the study?**
+The original contributions presented in the study are included in the article/supplementary material. Further inquiries can be directed to the corresponding author.
+
+=======
+
+**Q3: Who led the work in writing the manuscript and performing the annotation of the data and analysis?**
+I, AQ, led the work in writing the manuscript and performed the annotation of the data and analysis.
+
+=======
+
+**Q4: Who performed data acquisition, annotation, and analysis from four venues, and contributed to the paper write-up?**
+AI performed data acquisition, annotation, and analysis from four venues, and contributed to the paper write-up.
+
+=======
+
+**Q5: Who contributed to writing a few sections, did annotations of papers, and helped in analysis?**
+MU contributed to writing a few sections, did annotations of papers, and helped in analysis.
+
+=======
+
+**Q6: Who performed data scrapping, annotation, and analysis from four venues, and helped in developing graphics?**
+WI performed data scrapping, annotation, and analysis from four venues, and helped in developing graphics.
+
+=======
+
+**Q7: Who validated the data, analysis, and contributed to the interpretation of the results?**
+All the first four authors (AQ, AI, MU, and WI) validated the data, analysis, and contributed to the interpretation of the results.
+
+=======
+
+**Q8: Who helped in developing and refining the methodology?**
+AQ and AI helped in developing and refining the methodology.
+Answer: 
+
+Question: Here are the question-answer pairs for the systematic review:
+
+**Q1: Who conceived the idea for the systematic review?**
+A1: JQ
+
+=======
+
+**Q2: Who supervised the overall work of the systematic review?**
+A2: JQ
+
+=======
+
+**Q3: Who provided critical feedback and helped shape the research, analysis, and manuscript?**
+A3: JQ, YEK, and AF
+
+=======
+
+**Q4: Who contributed to the final version of the manuscript?**
+A4: All authors
+
+=======
+
+Let me know if you'd like me to add more questions or if you have any specific requests!
+Answer: 
+

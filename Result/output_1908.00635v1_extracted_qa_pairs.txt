@@ -1,0 +1,265 @@
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the focus of your research?**
+We have evaluated the robustness of two famous modulation classifiers based on deep neural networks against adversarial machine learning attacks in black-box settings.
+
+=======
+
+**Q2: What are the two modulation classifiers you evaluated?**
+We have evaluated the robustness of modulation classifiers based on convolutional neural networks and long short-term memory techniques.
+
+=======
+
+**Q3: What type of attack did you use to test the robustness of the modulation classifiers?**
+We have used the Carlini & Wagner (C-W) attack to perform the adversarial attack.
+
+=======
+
+**Q4: Why is it important to evaluate the robustness of modulation classifiers against adversarial attacks?**
+Our results clearly indicate that state-of-art deep machine learning based modulation classifiers are not robust against adversarial attacks, which is a critical concern in many applications.
+
+=======
+
+**Q5: What are the implications of your research?**
+Our research highlights the need for developing more robust modulation classifiers that can withstand adversarial attacks, which is essential for ensuring the reliability and security of wireless communication systems.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the main focus of the paper "Black-box Adversarial ML Attack on Modulation Classification"?**
+
+**A1:** The main focus of the paper is to demonstrate a black-box adversarial attack on modulation classification using machine learning (ML) schemes.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the fundamental assumptions of ML schemes that can be exploited by adversaries to craft adversarial examples?**
+
+**A1:** The fundamental assumptions of ML schemes that can be exploited by adversaries to craft adversarial examples are the reliance on linear or smooth decision boundaries, the assumption of Gaussian noise, and the lack of robustness to input perturbations. These assumptions can be exploited by adding small, imperceptible perturbations to the input samples, which can significantly affect the performance of the ML model.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the deployed trained classifier f(.)? 
+**A1:** The deployed trained classifier f(.) is the one that has been trained and deployed in the real world.
+
+=======
+
+**Q2:** How is the perturbation δ computed? 
+**A2:** The perturbation δ is computed by approximating the nonlinear optimization problem provided in equation 1, where t is the targeted class in case of a targeted attack or any other wrong class in the case of an untargeted attack.
+
+=======
+
+**Q3:** What are the two major faulty assumptions in ML schemes that make adversarial examples possible? 
+**A3:** The two major faulty assumptions in ML schemes are that the underlying data distribution experienced during the training phase of the ML model will also be encountered in the testing phase, and that the data is stationary. However, this data stationarity is not valid for most real-world cases, and the void created by following this assumption is exploited by the adversary for crafting adversarial examples.
+
+=======
+
+**Q4:** What is the first faulty assumption in ML schemes? 
+**A4:** The first faulty assumption in ML schemes is that the underlying data distribution experienced during the training phase of the ML model will also be encountered in the testing phase.
+
+=======
+
+**Q5:** What is the second faulty assumption in ML schemes? 
+**A5:** The second faulty assumption in ML schemes is that the data is stationary, meaning that the data distribution remains the same over time. However, this is not valid for most real-world cases, and the adversary exploits this assumption to craft adversarial examples.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the basis of most machine learning schemes?
+**A1:** The ML schemes are based on the empirical risk minimization (ERM), which is an approximation of the actual unknown probability distribution.
+
+=======
+
+**Q2:** What is the associated error with ERM?
+**A2:** The ERM has an associated error with it which can be exploited by the adversary to make an adversarial example.
+
+=======
+
+**Q3:** How can adversarial attacks be classified?
+**A3:** Adversarial attacks can be classified broadly into white-box and black-box attacks based on the knowledge of the adversary about the deployed ML model.
+
+=======
+
+**Q4:** What is assumed in a white-box attack?
+**A4:** In a white-box attack, it is assumed that the adversary has complete knowledge (hyperparameters, test data, etc.) of the deployed model.
+
+=======
+
+**Q5:** What is assumed in a black-box attack?
+**A5:** In a black-box attack, no such knowledge is assumed and it is assumed that the adversary can only act as a standard user and query the system for a response.
+
+=======
+
+**Q6:** What is the focus of this paper?
+**A6:** In this paper, we have taken modulation classification (which is an important component of modern communication and data networks) as a proxy of functional areas of cognitive self-driving networks.
+
+=======
+
+**Q7:** What type of attack has been performed in this paper?
+**A7:** We have performed a black-box adversarial attack on DNN-based modulation classification to highlight...
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model on the topic of adversarial attacks on modulation classification in cognitive self-driving networks:
+
+**Q1: What is the brittleness of ML schemes utilized in cognitive self-driving networks?**
+A1: The brittleness of ML schemes utilized in cognitive self-driving networks refers to their vulnerability to adversarial attacks, which can significantly impact their performance and reliability.
+
+=======
+
+**Q2: What is the current state of research on adversarial attacks on modulation classification?**
+A2: Currently, there is limited literature on adversarial attacks on modulation classification, with most research focusing on the fast gradient sign method (FGSM) attack.
+
+=======
+
+**Q3: Who has used the FGSM attack on modulation classification?**
+A3: Sadeghi et al. [7] and Kokalj et al. [4] have used the FGSM attack on modulation classification to highlight the threat of adversarial examples.
+
+=======
+
+**Q4: What is the limitation of the FGSM attack?**
+A4: The FGSM attack lacks optimality in adversarial perturbation generation, as it was designed to quickly craft adversarial examples rather than finding the most effective perturbations.
+
+=======
+
+**Q5: What is the significance of studying adversarial attacks on modulation classification in cognitive self-driving networks?**
+A5: Studying adversarial attacks on modulation classification is crucial in cognitive self-driving networks, as it can help identify vulnerabilities and develop robust defense mechanisms to ensure the reliability and security of these networks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs, formatted as requested:
+
+**Q1:** What is the main challenge in crafting adversarial examples for modulation classification?
+**A1:** The main challenge is the lack of optimality, as the perturbation in the test example is not optimized to craft an optimal adversarial example.
+
+=======
+
+**Q2:** What optimization process is used to craft adversarial examples in the Carlini & Wagner (C-W) attack?
+**A2:** The optimization process is to minimize the perturbation η while satisfying the constraint that the perturbed input x* is within the range [0,1]n.
+
+=======
+
+**Q3:** What is the step-by-step procedure for crafting a black-box adversarial attack against DL-based modulation classification?
+**A3:** The procedure involves querying the deployed modulation classifier with test examples, and then obtaining a labeled response from the classifier.
+
+=======
+
+**Q4:** What is the goal of the black-box adversarial attack procedure?
+**A4:** The goal is to craft an optimal adversarial example for modulation classification by querying the deployed modulation classifier and optimizing the perturbation in the test example.
+
+=======
+
+**Q5:** What is the main contribution of the paper in terms of adversarial attacks on modulation classification?
+**A5:** The main contribution is the use of the Carlini & Wagner (C-W) attack to craft optimal adversarial examples for modulation classification, which highlights the potential vulnerability of DL-based modulation classification systems.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the adversary's goal in the attack?**
+The adversary's goal is to compromise the performance of the black-box DL-based modulation classifier by crafting adversarial examples that are transferable from the surrogate DNN model.
+
+**=======**
+
+**Q2: What is the first step taken by the adversary?**
+The first step taken by the adversary is to consider the adversary as a normal user and interact with the system to collect query-response pairs.
+
+**=======**
+
+**Q3: What does the adversary do with the query-response pairs?**
+The adversary stores the query-response pairs in a database, which is later used as a substitute dataset for training a surrogate DNN.
+
+**=======**
+
+**Q4: What does the adversary do once sufficient data is collected?**
+Once sufficient data is collected in the adversarial database, the adversary constructs a fully connected DNN model and trains it for suitable classification performance.
+
+**=======**
+
+**Q5: What does the adversary do once the surrogate DNN is trained?**
+Once the surrogate DNN is trained, the adversary launches a C-W attack on the surrogate DNN for crafting adversarial examples that compromise the performance of the surrogate DNN model.
+
+**=======**
+
+**Q6: What happens to the adversarial examples?**
+Adversarial examples that compromise the performance of the surrogate DNN model are then transferred to the black-box DL-based modulation classifier, which according to the transferability property of adversarial examples will compromise the performance of the DL-based modulation classifier.
+
+**=======**
+
+**Q7: Why did you opt for training two modulation classifiers?**
+We opted for training two modulation classifiers based on CNN and LSTM and then considered the performance of both classifiers to evaluate the effectiveness of the attack.
+
+Let me know if you'd like me to add more questions or modify the existing ones!
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What type of dataset was used for the experiment?**
+**A1:** We used the highly-cited GNU radio ML RML2016.10a dataset, which provides 11 digital and analog modulation schemes on the SNR ranging from -20 dB to 18 dB.
+
+=======
+
+**Q2: What percentage of the test examples were used to construct the surrogate classifier?**
+**A2:** We used only 10% of the test examples to construct the surrogate classifier.
+
+=======
+
+**Q3: What type of attack was performed on the surrogate DNN model?**
+**A3:** We performed a C-W attack on the surrogate DNN model.
+
+=======
+
+**Q4: What is the transferability property of adversarial ML used for?**
+**A4:** We leveraged the transferability property of adversarial ML to transfer the adversarial examples that evaded the surrogate DNN to the black-box modulation classifier.
+
+=======
+
+**Q5: What is the impact of the adversarial attack on the modulation classifier?**
+**A5:** The performance impact of the adversarial attack is provided in Figures 1 and 2, which shows a clear drop in the accuracy of the modulation classifier after the adversarial attack.
+
+=======
+
+**Q6: What does the successful performance of the black-box adversarial attack indicate?**
+**A6:** The successful performance of the black-box adversarial attack highlights that our method of performing black-box adversarial attack has successfully compromised the performance of the crafted adversarial examples.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main focus of this paper?**
+A1: The main focus of this paper is to highlight the lack of robustness in deep learning-based modulation classification by performing a black-box adversarial attack on CNN and LSTM-based modulation classifiers.
+
+=======
+
+**Q2: What is the approach used to craft adversarial examples?**
+A2: We used a surrogate deep neural network to craft adversarial examples for modulation classification.
+
+=======
+
+**Q3: What is the result of the black-box adversarial attack on modulation classification?**
+A3: We achieved a 60% performance drop in both CNN and LSTM-based modulation classification, demonstrating the effectiveness of the black-box adversarial attack.
+
+=======
+
+**Q4: Are the adversarial examples transferable to other deep learning-based models?**
+A4: Yes, we showed that adversarial examples crafted for modulation classification are transferable to other deep learning-based models.
+
+=======
+
+**Q5: What is the significance of this research?**
+A5: This research highlights the vulnerability of deep learning-based modulation classification to black-box adversarial attacks, which is crucial for ensuring the reliability and security of wireless communication systems.
+
+=======
+Answer: 
+

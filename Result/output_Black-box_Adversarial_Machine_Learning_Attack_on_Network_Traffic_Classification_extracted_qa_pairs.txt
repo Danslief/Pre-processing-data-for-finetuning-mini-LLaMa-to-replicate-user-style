@@ -1,0 +1,638 @@
+Question: Here are the question-answer pairs in the style of the authors:
+
+**Q1: What is the main concern with deep machine learning techniques in network traffic classification?**
+**A1:** The robustness of these techniques under adversarial threats is still in question. Deep machine learning models are found vulnerable to small carefully crafted adversarial perturbations, posing a major question on the performance of deep machine learning techniques.
+
+=======
+
+**Q2: What is the proposed attack in this paper?**
+**A2:** We propose a black-box adversarial attack on network traffic classification. The proposed attack successfully evades deep machine learning-based classifiers, highlighting the potential security threat of using deep machine learning techniques to realize autonomous networks.
+
+=======
+
+**Q3: What is the significance of the proposed attack?**
+**A3:** The proposed attack demonstrates the vulnerability of deep machine learning-based classifiers in network traffic classification, which is a critical concern for the security of autonomous networks.
+
+=======
+
+**Q4: What are the implications of the proposed attack?**
+**A4:** The proposed attack highlights the need for robust and secure deep machine learning techniques that can withstand adversarial attacks in network traffic classification.
+
+=======
+
+**Q5: What are the potential consequences of using deep machine learning techniques in autonomous networks without proper security measures?**
+**A5:** The potential security threat of using deep machine learning techniques to realize autonomous networks without proper security measures is the evasion of deep machine learning-based classifiers by adversarial attacks, which can compromise the security of the network.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the importance of network traffic classification?**
+**A1:** Network traffic classification is an important task in network engineering as it provides a method for monitoring, understanding, and quantifying network traffic. With the exponential growth in network traffic volume and the inception of many data-hungry communication applications, network traffic classification becomes a very challenging problem for users and service providers.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the exceptional results of Deep Learning (DL) in various application domains?**
+**A1:** DL has produced exceptional results in many application domains including computer vision, natural language processing, speech recognition, and system control.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are adversarial ML examples?**
+**A1:** Adversarial ML examples are inputs that are specifically designed to force a machine learning or deep learning algorithm to malfunction and produce incorrect results.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main focus of your research?**
+A1: Our research focuses on the integrity of network traffic classification to shed light on the risks involved in utilizing ML/DL techniques in support of networking applications.
+
+=======
+
+**Q2: What are the current limitations of ML/DL-based network traffic classification algorithms?**
+A2: Our results indicate that the current state of the art ML/DL-based network traffic classification algorithms do not provide substantial deterrence against adversarial ML attacks.
+
+=======
+
+**Q3: What dataset did you use for your experiments?**
+A3: Our experiments utilize the highly cited Tor-nonTor dataset provided by Habibi et al. [18] to perform the proposed black-box adversarial ML attack on Tor-nonTor traffic classifier.
+
+=======
+
+**Q4: What are the contributions of your work?**
+A4: The contributions of this work are twofold: we propose and validate a black-box adversarial ML attack on network traffic classification (Tor-nonTor classification), and to the best of our knowledge, this is the first black-box adversarial ML attack on network traffic classification to highlight that network traffic classifiers utilizing ML/DL techniques are very vulnerable.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is Tor and how does it work?**
+**A1:** Tor is a low-latency anonymity-preserving system that is based on an overlay network that anonymizes the traffic of TCP-based applications. It is a popular tool for maintaining privacy and anonymity online.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is Tor, and how does it provide security and privacy?**
+Tor is also known as Onion Routing technique for traffic anonymization. In Tor, messages are encrypted and transmitted through distributed Onion routers, where each router uses a symmetric key to decrypt the messages and learn the routing details (i.e., Next Onion Router), the same process goes on in each router and this process obscures the actual transmitter. From the users' perspective, Tor provides security and privacy.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What was the goal of the classification method used in the Tor network?
+**A1:** The goal was to improve the Quality of Service (QoS) of the Tor network.
+
+=======
+
+**Q2:** What was the accuracy achieved in the two-way classification experiments?
+**A2:** The accuracy achieved was 95%.
+
+=======
+
+**Q3:** What was the improvement in Tor responsiveness achieved in the experiments?
+**A3:** The improvement in Tor responsiveness was 75%.
+
+=======
+
+**Q4:** What is TorWard, and what does it do?
+**A4:** TorWard is a malware detection and classification technique for Tor traffic, which improves the Tor performance.
+
+=======
+
+**Q5:** What type of model did He et al. [13] propose for Tor traffic classification?
+**A5:** They proposed a hidden Markov model based on Tor traffic classification schemes.
+
+=======
+
+**Q6:** How many categories did the model proposed by He et al. [13] classify Tor traffic into?
+**A6:** The model classified Tor traffic into four categories: P2P, FTP, IM, and web.
+
+=======
+
+**Q7:** What was the accuracy achieved by the model proposed by He et al. [13]?
+**A7:** The accuracy achieved was 92%.
+
+=======
+
+**Q8:** What type of unsupervised ML learning schemes were used for Tor traffic classification in [25]?
+**A8:** Gravitational clustering was used, and the results were compared with classic clustering schemes.
+
+=======
+
+**Q9:** What was the accuracy achieved by Hodo et al. [15] in their binary classification experiment?
+**A9:** The accuracy achieved was 99%.
+
+=======
+
+**Q10:** What machine learning techniques were used by Habibi et al. [18] for binary classification of the Tor-nonTor dataset?
+**A10:** Decision trees, KNN, and random forest techniques were used.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the focus of Pescape et al.'s research in the field of traffic classification?
+**A1:** Pescape et al. proposed a traffic classification technique using multinomial naive Bayes and random forest techniques.
+
+=======
+
+**Q2:** What is the primary concern regarding deep ML techniques, especially DNNs, in the networking domain?
+**A2:** Deep ML techniques, especially DNNs, were demonstrated to produce the best classification results in many application domains, but they also learn counter-intuitive and uninterpretable properties due to discontinuity in the learning process and generalization error.
+
+=======
+
+**Q3:** What is the purpose of the fast-gradient sign method (FGSM) proposed by Goodfellow et al.?
+**A3:** Goodfellow et al. proposed an adversarial perturbation generation method to fool DNN-based classifiers called fast-gradient sign method (FGSM). In FGSM, an adversarial perturbation is calculated by computing the gradient of the cost function with respect to the input.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What is an extension of FGSM?**
+**A1:** An extension of FGSM is the basic iterative method, where FGSM is iteratively applied with a smaller step size to fool the DNN.
+
+=======
+
+**Q2: What is another approach for crafting adversarial perturbations?**
+**A2:** Another approach is the Jacobian saliency map based attack (JSMA), which uses a forward derivative based method to craft adversarial perturbations.
+
+=======
+
+**Q3: Who proposed three adversarial perturbation crafting methods?**
+**A3:** Carlini et al. proposed three adversarial perturbation crafting methods for evading robust ML classifiers by exploiting three different distance matrices (L1, L2, and L1).
+
+=======
+
+**Q4: What is Deepfool, and how does it generate adversarial perturbations?**
+**A4:** Deepfool is a method proposed by Moosavi et al. that generates adversarial perturbations through the iterative linearization of the classifier.
+
+=======
+
+**Q5: Has the transferability of adversarial ML examples been studied?**
+**A5:** Yes, the transferability of adversarial ML examples has been studied, and it has been highlighted that SVM is less prone to adversarial perturbations due to its training specificity and decision boundary learning process.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the focus of the current research on adversarial attacks on network traffic classification?
+**A1:** Adversarial attacks on network traffic classification have not yet been covered duly in literature, so we will cover some general networking applications where basic adversarial ML research has been conducted.
+
+=======
+
+**Q2:** What types of attacks have been used in the authors' previous work on cognitive self-organizing networks?
+**A2:** We have used FGSM, BIM, and JSMA based attacks to highlight the vulnerability of using ML in cognitive self-organizing networks under white-box settings.
+
+=======
+
+**Q3:** What are some examples of previous research on adversarial attacks in network intrusion detection and malware classification?
+**A3:** Corona et al. [6] highlighted challenges and research opportunities of adversarial attacks for network intrusion detection, while Grosse et al. [12] used the JSMA attack to evade malware classification.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the assumption made about the adversary in the black-box setting?**
+**A1:** The adversary is assumed to have no knowledge about DNN training or architecture, and can only query the deployed model for labels.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the current state of traffic classification methods?**
+**A1:** Currently, no traffic classification method using reinforcement learning has been proposed yet. However, as mentioned in Section II, neural networks have outperformed other ML/DL techniques for Tor traffic classification, and we utilize both DNNs and SVM for Tor-traffic classification.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What is the query-response manner in which an ML model is vulnerable to adversarial attacks?**
+A1: The ML model is vulnerable to adversarial attacks in a query-response manner, where the adversary can send an input to the model and collect the label as a response, which are later used for crafting an adversarial attack.
+
+=======
+
+**Q2: What is the assumption made about the adversary's capabilities in this study?**
+A2: The assumption made is that the adversary can only perform an adversarial attack during the test time, and not during the training time, and other attacks such as poisoning attacks are not within the scope of this study.
+
+=======
+
+**Q3: What is the goal of the adversary in compromising the integrity and availability of the Tor traffic classifier?**
+A3: The goal of the adversary is to compromise the integrity and availability of the Tor traffic classifier by minimally altering the test examples.
+
+=======
+
+**Q4: How does the adversarial goal differ from those in computer vision and natural language processing applications?**
+A4: The adversarial goal differs in that, in computer vision and natural language processing applications, the fundamental restriction is to preserve the visual representation or semantic meaning of the image or text, respectively. In contrast, in the context of networking, the adversary has to ensure that the applied adversarial perturbation does not affect the functional behavior of the system.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1:** What machine learning techniques are used for Tor traffic classification in this work?
+**A1:** We use DNN and SVM for Tor traffic classification. SVM is a well-known ML technique used for classification and regression, whereas DNNs are well-known for being capable of solving complex classification tasks by extracting hierarchical representation from their input.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the ratio of the data used in the experiment?**
+A1: The data ratio used in our experiment is 7030.
+
+=======
+
+**Q2: What are the steps involved in designing a black-box adversarial attack on network traffic classification processes?**
+A2: The steps involved in designing a black-box adversarial attack on network traffic classification processes are synthetic data generation, substitute model generation, and adversarial sample crafting.
+
+=======
+
+**Q3: What are the accuracy rates achieved for binary class classification using DNN and SVM?**
+A3: We achieved 96% accuracy for binary class classification using DNN and 93.54% accuracy using SVM.
+
+=======
+
+**Q4: What are the accuracy rates achieved for multi-class classification using DNN and SVM?**
+A4: For multi-class classification, we achieved 90.60% accuracy using DNN and 80.60% accuracy using SVM.
+
+=======
+
+**Q5: How can the classification accuracy of both models be improved?**
+A5: The classification accuracy of both models can be improved by carefully choosing hyperparameters for DNN training.
+
+=======
+
+**Q6: What is the procedure used to perform a black-box adversarial ML attack on Tor traffic classification models?**
+A6: The proposed adversarial attack is performed in two steps: substitute model training and adversarial sample crafting.
+
+=======
+
+**Q7: Can you provide more details about the process used to perform a black-box adversarial attack on Tor traffic classification?**
+A7: Yes, the process is described in detail in the paper, which provides a comprehensive overview of the black-box adversarial attack procedure.
+
+=======
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What is the assumption made about the adversary in the model training process?**
+**A1:** The adversary can only query the deployed ML/DL model F with synthetic input data Q to get a label as a response Y.
+
+=======
+
+**Q2: What is the goal of training the substitute model architecture S?**
+**A2:** The goal is to mimic the decision boundary of the deployed classifier F.
+
+=======
+
+**Q3: What are the two components of the process of training a substitute model architecture S?**
+**A3:** The two components are substitute model architecture design & synthetic dataset collection and substitute DNN training on synthetic dataset.
+
+=======
+
+**Q4: How does the adversary select the architecture for the substitute model S and training procedures?**
+**A4:** Since the adversary has no information about F's architecture and training process, selection of appropriate architecture for S and training procedures are performed heuristically.
+
+=======
+
+**Q5: What type of architecture was selected for the substitute model S in the experiments?**
+**A5:** In our experiments, we selected DNN as our substitute architecture.
+
+=======
+
+**Q6: Is the proposed adversarial attack applicable to other ML/DL architectures?**
+**A6:** Yes, the adversarial attack proposed in this paper is also applicable to other ML/DL architectures with some modifications to the approach.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the adversary's approach to train a substitute model?
+**A1:** The adversary can train multiple ML/DL models to find the best-trained substitute model Sapprox.
+
+=======
+
+**Q2:** How does the adversary prepare synthetic data for training the substitute model?
+**A2:** The adversary uses synthetic data samples Qprepared by querying Ffor labelsY, which are obtained by sending queries to Ffrom a set “Q” of synthetic traffic samples obtained by using Tor and a regular browser to get labels Y.
+
+=======
+
+**Q3:** How is the synthetic data stored?
+**A3:** Each query along with its response label is stored as a synthetic data pair in synthetic dataset dictionary D.
+
+=======
+
+**Q4:** How much synthetic data is required to train the substitute model?
+**A4:** A moderate amount of synthetic data is required, which in our case is 2644 query-response pairs.
+
+=======
+
+**Q5:** What loss functions are used to train the substitute model?
+**A5:** Binary cross entropy and categorical cross entropy loss functions are used in binary and multi-class classification.
+
+=======
+
+**Q6:** What optimization algorithm is used to train the substitute model?
+**A6:** We utilized the stochastic gradient descent algorithm to train the substitute model.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the algorithm for training the substitute model S?**
+**A1:** The algorithm for training the substitute model S is described in Algorithm 1.
+
+**=======**
+
+**Q2: What is the purpose of Algorithm 1?**
+**A2:** Algorithm 1 is used to train the substitute DNN model S.
+
+**=======**
+
+**Q3: What is the input to Algorithm 1?**
+**A3:** The input to Algorithm 1 is F, S, and Q.
+
+**=======**
+
+**Q4: What is the output of Algorithm 1?**
+**A4:** The output of Algorithm 1 is Sapprox and D.
+
+**=======**
+
+**Q5: How does Algorithm 1 initialize the variables?**
+**A5:** Algorithm 1 initializes Y as fg, and then iterates over all x in Q, setting y as F(x) and Y as y.
+
+**=======**
+
+**Q6: What is the purpose of the loop in Algorithm 1?**
+**A6:** The loop in Algorithm 1 is used to compute the output of the function F for all inputs x in Q.
+
+**=======**
+
+**Q7: What is the purpose of the line D = fQ;Yg in Algorithm 1?**
+**A7:** The line D = fQ;Yg in Algorithm 1 is used to compute the difference between the output of the function F and the ground truth label Y.
+
+**=======**
+
+**Q8: What is the purpose of the line Sapprox = min SL(D;S) in Algorithm 1?**
+**A8:** The line Sapprox = min SL(D;S) in Algorithm 1 is used to train the substitute model S to minimize the loss function SL.
+
+**=======**
+
+**Q9: What is the purpose of the D. Adversarial Sample Crafting section?**
+**A9:** The D. Adversarial Sample Crafting section is used to describe how to generate an adversarial attack using the trained substitute model S.
+
+**=======**
+
+**Q10: What is an adversarial perturbation?**
+**A10:** An adversarial perturbation is an input that when added to the actual input does not lose its functional behavior but gets classified in a different class.
+
+**=======**
+
+Let me know if you'd like me to add more questions and answers!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the mathematical notation used for most discriminative feature detection for adversarial sample crafting?**
+**A1:** The mathematical notation used is I(X;Y), which is the mutual information between two random variables X and Y.
+
+=======
+
+**Q2: What is the definition of the mutual information I(X;Y)?**
+**A2:** The mutual information I(X;Y) is defined as a measure of statistical dependence between two random variables. It is given by the formula: I(X;Y) = ∑X;Y p(x;y) log(p(x;y) / p(x)p(y)).
+
+=======
+
+**Q3: How do you select the most discriminative features from synthetic data "D"?**
+**A3:** We calculate the mutual information between each feature and label pair, and select the top "n" features with the highest values of MI as the most discriminative features.
+
+=======
+
+**Q4: What is the purpose of calculating the MI value of each feature?**
+**A4:** The MI value of each feature also depicts its influence on the classification procedure.
+
+=======
+
+**Q5: How are the most discriminative features perturbed to craft adversarial samples?**
+**A5:** The most discriminative features are perturbed sparsely using L1 norm minimization, with the perturbation always kept less than 10^(-2).
+
+=======
+
+**Q6: What is the algorithm used to craft adversarial examples?**
+**A6:** The algorithm used is provided in Algorithm 2.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1:** What is the significance of the adversarial examples evading the integrity of Sapprox?
+**A1:** According to the adversarial ML transferability property, the adversarial examples evading the integrity of Sapprox are highly likely to compromise the integrity of F.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the purpose of the Adversarial Sample Crafting Algorithm?**
+The Adversarial Sample Crafting Algorithm is designed to craft adversarial examples that can successfully fool a machine learning-based Tor traffic classifier. The goal is to evaluate the effectiveness of the proposed black-box attack in reducing the accuracy of the classifier.
+
+=======
+
+**Q2: What are the inputs and outputs of the Algorithm?**
+The inputs of the Algorithm are Sapprox, DfQ, and Yg, which represent the approximate solution, feature distribution, and ground truth labels, respectively. The output is x, which is the crafted adversarial example.
+
+=======
+
+**Q3: How does the Algorithm work?**
+The Algorithm iteratively selects the most informative features for the target class and the other class, computes the minimum information gain, and updates the adversarial example by adding noise to the selected features. The process is repeated until the classifier misclassifies the example.
+
+=======
+
+**Q4: What is the performance evaluation metric used in the experiments?**
+The performance evaluation metric used in the experiments is the drop in accuracy of the Tor traffic classifier. The goal is to demonstrate the effectiveness of the proposed black-box adversarial attack in reducing the accuracy of the classifier.
+
+=======
+
+**Q5: What types of classifiers were used in the experiments?**
+The experiments used both DNN and SVM based binary and multi-class Tor traffic classifiers.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What dataset was used to validate the proposed black-box adversarial ML attack?**
+**A1:** We used the UNB-CIC Tor network traffic dataset to validate the proposed black-box adversarial ML attack.
+
+=======
+
+**Q2: What are the two classification categories in the UNB-CIC Tor network traffic dataset?**
+**A2:** The dataset consists of two classification categories: a binary Tor-nonTor classification and a multi-class Tor traffic classification.
+
+=======
+
+**Q3: What are the two types of traffic data samples provided for the binary Tor-nonTor classification?**
+**A3:** For the binary Tor-nonTor classification, Tor and Non-Tor traffic data samples are provided.
+
+=======
+
+**Q4: How many different applications are included in the multi-class Tor traffic classification?**
+**A4:** The multi-class classification includes Tor traffic of 8 different applications.
+
+=======
+
+**Q5: What are the two types of classifiers used to evaluate the performance of the proposed attack?**
+**A5:** We used DNN-based and SVM-based classifiers to evaluate the performance of the proposed attack.
+
+=======
+Answer: 
+
+Question: Here are the questions and answers based on the text:
+
+**Q1: What type of traffic samples were used to evaluate the performance of the adversarial attack?**
+**A1:** The traffic samples used were curated using Wireshark and Tcpdump, and were specifically focused on Tor traffic.
+
+=======
+
+**Q2: What tool was used to extract necessary information from the traffic data?**
+**A2:** The tool used to extract necessary information from the traffic data was ISCXFlowMeter.
+
+=======
+
+**Q3: What type of classification was performed in the experiments?**
+**A3:** The experiments performed binary (Tor-nonTor) and multi-class (8 different Tor applications) classification on network traffic.
+
+=======
+
+**Q4: How were the features perturbed in the experiments?**
+**A4:** Only the top two most discriminant features were perturbed using L1norm minimization, and the perturbation was limited to being less than 10^2.
+
+=======
+
+**Q5: What was the classification accuracy achieved in the binary classification case (Tor vs. non-Tor)?**
+**A5:** The classification accuracy achieved in the binary classification case (Tor vs. non-Tor) was 96% and 93.54%.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What was the impact of the proposed black-box adversarial attack on the classification performance of DNN and SVM classifiers?
+**A1:** We observed a significant drop in classification performance when the proposed black-box adversarial attack was applied.
+
+=======
+
+**Q2:** How many adversarial samples of Tor traffic were created and subjected to the binary classifiers?
+**A2:** We created 2644 adversarial samples of Tor traffic and subjected them to the binary classifiers.
+
+=======
+
+**Q3:** What was the drop in classification accuracy of the DNN-based classifier after the adversarial attack?
+**A3:** The classification accuracy of the DNN-based classifier dropped from 96% to 77%.
+
+=======
+
+**Q4:** What was the drop in classification accuracy of the SVM-based classifier after the adversarial attack?
+**A4:** The classification accuracy of the SVM-based classifier dropped from 93.54% to 77.41%.
+
+=======
+
+**Q5:** What does Table II present in the context of the binary classification task?
+**A5:** Table II presents the performance of the proposed black-box adversarial sample crafting algorithm in the binary classification task, highlighting the number of successful "Tor" class adversarial samples.
+
+=======
+
+**Q6:** What do Figures 2(a) and 2(b) depict in terms of the performance of the binary classifiers?
+**A6:** Figures 2(a) and 2(b) depict the F1-score, recall, and precision performance of the binary classifiers before and after the adversarial attack.
+
+=======
+
+**Q7:** What was the target of the proposed black-box attack in the multi-class classification case?
+**A7:** In the multi-class classification case, we employed the proposed black-box attack to target the integrity of a single class, specifically the "Chat" class.
+Answer: 
+
+Question: Here's a sample question-answer pair based on the text:
+
+**Q:** What was the classification accuracy of legitimate "Chat" samples by the DNN-based multi-class classifier before and after the adversarial attack?
+**A:** Before the attack, the classification accuracy was 963%, and after the attack, it dropped to 2%, which is a drop of nearly 94% in performance.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main focus of the research presented in the paper?
+**A1:** Our research focuses on developing a black-box adversarial sample crafting algorithm to evaluate the potential threats of adversarial attacks on machine learning (ML) models in traffic classification.
+
+=======
+
+**Q2:** What are the two traffic features perturbed in the experiment?
+**A2:** We perturb only two traffic features in our experiment to craft adversarial samples.
+
+=======
+
+**Q3:** What is the purpose of Tables II and III in the paper?
+**A3:** Tables II and III provide the performance of our proposed black-box adversarial sample crafting algorithm in both binary and multi-class traffic classification, highlighting the number of successfully crafted adversarial samples.
+
+=======
+
+**Q4:** What are the implications of the research findings?
+**A4:** Our results highlight the potential threats of adversarial attacks on ML models used to realize network functions, emphasizing the need for robustness and security measures in these applications.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the main topic of the paper?**
+**A1:** The main topic of the paper is a method for performing a black-box adversarial ML attack on network traffic classification.
+
+=======
+
+**Q2: What is the proxy used for network traffic classification in the paper?**
+**A2:** The proxy used for network traffic classification in the paper is Tor traffic classification.
+
+=======
+
+**Q3: What type of attacks are designed in the paper?**
+**A3:** The paper designs black-box adversarial attacks on network traffic classification using advanced statistical schemes.
+
+=======
+
+**Q4: What is the vulnerability of deep neural network based network traffic classification schemes according to the paper?**
+**A4:** According to the paper, deep neural network based network traffic classification schemes are very vulnerable to small, carefully crafted perturbations in the test inputs.
+
+=======
+
+**Q5: What is left for future work according to the paper?**
+**A5:** According to the paper, the design of more sophisticated black-box adversarial attacks on network traffic classification using advanced statistical schemes, as well as the design of defense mechanisms against adversarial ML attacks to ensure robust ML-based network traffic classification, are left for future work.
+
+Let me know if you'd like me to add more questions or modify the existing ones!
+Answer: 
+
+Question: Here's a question-answer pair on the topic:
+
+**Q:** What are some of the limitations of machine learning techniques, particularly deep neural networks, in the context of security?
+**A:** Machine learning techniques, especially deep neural networks, do not provide any deterrence against adversarial perturbations and utilizing such techniques in networked applications can introduce new security risks to networking applications and infrastructure.
+
+=======
+Answer: 
+

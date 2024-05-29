@@ -1,0 +1,592 @@
+Question: Here are the question-answer pairs based on the article, with a separator (=======) after each pair:
+
+Q: What is the current excitement in the mobile networks domain?
+A: There is currently tremendous excitement in the mobile networks domain around the transformative potential of data-driven artificial intelligence/machine learning (AI/ML) based network automation, control and analytics for 5G and beyond.
+
+=======
+
+Q: What are the recent advances in deep learning being used for?
+A: To harness rich information hidden in large volumes of data and to tackle problems that are hard to model/solve (e.g., resource allocation problems).
+
+=======
+
+Q: What is the focus of the article?
+A: The article presents a cautionary perspective on the use of AI/ML in the 5G context by highlighting the adversarial dimension spanning multiple types of ML (supervised/unsupervised/reinforcement learning) and support this through three case studies.
+
+=======
+
+Q: What types of machine learning are mentioned in the article?
+A: The article mentions supervised, unsupervised, and reinforcement learning as the multiple types of ML.
+
+=======
+
+Q: What is the purpose of using AI/ML in 5G and beyond?
+A: The purpose is to enable network automation, control, and analytics.
+
+=======
+
+Q: What are the authors of the article affiliated with?
+A: The authors are affiliated with Information Technology University, Lahore, Pakistan, and The University of Edinburgh, Edinburgh, U.K.
+
+Let me know if you'd like me to add more question-answer pairs or modify the existing ones!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the key innovations and technologies driving the design of 5G networks?**
+**A1:** 5G networks are being designed with several innovations and technologies, including artificial intelligence (AI), software-defined networking, network function virtualization (NFV), multi-access edge computing (MEC), and cloud-native architecture. These technologies are new to the domain of mobile telecommunications and are expected to enable complex network functions at scale and support diverse use-cases in a flexible and cost-effective manner.
+
+=======
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the current trend in mobile networks?**
+**A1:** The current trend in mobile networks is to quickly embrace a variety of deep learning (DL) algorithms to help tackle the growing complexities of network problems.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the main concern regarding the adoption of DL algorithms in 5G and beyond mobile networks?**
+**A1:** The rapid unvetted adoption of DL algorithms across the wide spectrum of network operations, control, and automation poses significant security risks.
+
+=======
+
+**Q2: What is the author's recommendation for stakeholders in the 5G and beyond mobile networks?**
+**A2:** The author urges stakeholders to make robustness of the ML models a criterion before they are integrated into deployed systems.
+
+=======
+
+**Q3: What is the impact of the wide-scale adoption of ML techniques on the security attack surface of 5G and beyond mobile networks?**
+**A3:** The author highlights that despite the well-known vulnerability of DL models to adversarial ML attacks, there is a dearth of critical scrutiny on the impact of the wide-scale adoption of ML techniques on the security attack surface of 5G and beyond mobile networks.
+
+=======
+
+**Q4: What are the author's contributions in this area?**
+**A4:** The author makes two contributions: highlighting the security risks and urging stakeholders to consider robustness of ML models before integration into deployed systems.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the focus of the research?**
+We bridge the aforementioned gap through a vulnerability study of the DL models in all its major incarnations [SL, UL, and Deep RL (DRL)] from an adversarial ML perspective in the context of 5G and B5G networks.
+
+=======
+
+**Q2: What is the architecture of a 5G network?**
+A schematic diagram of the 5G network architecture is depicted in [insert diagram]. Apart from the user equipment, the 5G system features a cloud-native core network, a flexible and disaggregated radio access network (RAN), and a provision for MEC cloud for reduced latency. The RAN comprises gNodeB (gNB) access nodes, split into DU and CU, to efficiently handle evolved network requirements. The gNB connects to the MEC to significantly reduce the network latency for selected applications by availing edge server computing at the MEC cloud, which is close to the radio service cells.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: Can EC be installed onsite?**
+**A1: Yes, EC can be installed onsite.**
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** How do 1DRL-based solutions address resource allocation problems?
+**A1:** 1DRL-based solutions are proposed to efficiently address resource allocation problems.
+
+=======
+
+**Q2:** What is a hard-to-model problem that DNN-based SL solution can effectively tackle?
+**A2:** Network channel estimation for efficient beamforming is a hard-to-model problem for which DNN-based SL solution offers an effective way to tackle it.
+
+=======
+
+**Q3:** In what scenarios do conventional expert systems become inappropriate, and how can AI perform effectively?
+**A3:** In certain use-cases, conventional expert systems become inappropriate due to real-world constraints, such as limited availability of power, where AI can perform effectively.
+
+=======
+
+**Q4:** How can deep autoencoder-based systems replace power-hungry RF chain hardware?
+**A4:** Deep autoencoder-based systems can replace the power-hungry RF chain hardware with small embedded sensor systems enabling them to sustain longer on onboard power supplies.
+
+=======
+
+**Q5:** How do DL algorithms perform compared to conventional approaches in solving mobile network prediction problems?
+**A5:** DL algorithms generally outperform the conventional approaches in solving mobile network prediction problems such as physical layer channel prediction by SL, signal detection problems such as recovering transmitted signals from...
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are the key components of a 5G network architecture?
+**A1:** The key components of a 5G network architecture include distributed unit (DU) and centralized unit (CU) components, the MEC for improved latency, and the cloud-native core network and system orchestration components.
+
+=======
+
+**Q2:** What are some of the challenges faced by 5G networks?
+**A2:** Some of the challenges faced by 5G networks include noisy received signals by UL, and optimization problems like resource allocation by RL.
+
+=======
+
+**Q3:** What is the focus of the article on 5G and B5G networks?
+**A3:** The article focuses on the security of 5G and B5G networks in the face of adversarial ML threats.
+
+=======
+
+**Q4:** What is the vulnerability of ML algorithms to?
+**A4:** The vulnerability of ML algorithms, especially DL models, to adversarial attacks is now well-established.
+
+Let me know if you'd like me to add more question-answer pairs or modify the style to better fit your needs!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are adversarial inputs?**
+**A1:** Adversarial inputs are small, carefully crafted perturbations in the test data designed to fool the underlying ML model into making wrong decisions.
+
+=======
+
+Please let me know if this meets your requirements!
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the issue with the DNN's input-output mapping?**
+A1: The DNN is not resilient to small changes in the input, indicating a discontinuity.
+
+=======
+
+**Q2: What is the proposed method for crafting adversarial examples?**
+A2: Goodfellow et al. propose a gradient-based optimization method, known as the fast gradient sign method.
+
+=======
+
+**Q3: What is another approach to crafting adversarial perturbations?**
+A3: Papernot et al. use a saliency map-based approach on the forward derivatives of DNN, known as the Jacobian saliency map-based attack.
+
+=======
+
+**Q4: How many different adversarial attacks were crafted by Carlini and Wagner?**
+A4: Carlini and Wagner crafted three different adversarial attacks using three different distance matrices (L1, L2, and L1).
+
+=======
+
+**Q5: Do adversaries need access to training or test datasets to generate adversarial examples?**
+A5: No, adversaries do not need to have access to training or test datasets. Instead, they can use query-efficient gradient-based techniques, zeroth-order optimization techniques, and generative models to generate adversarial examples.
+
+=======
+Answer: 
+
+Question: Here are the response pairs to craft such adversarial examples:
+
+**Q1:** What are adversarial examples, and how do they relate to ML models in 5G networks?
+**A1:** Adversarial examples are carefully crafted inputs designed to mislead ML models, causing them to make incorrect predictions or take suboptimal actions. In the context of 5G networks, adversarial examples can be used to exploit vulnerabilities in ML-based security solutions, leading to new and sophisticated attack vectors.
+
+=======
+
+**Q2:** How do adversarial examples differ from traditional security risks in 5G networks?
+**A2:** Adversarial examples are not just a result of input data security issues, but rather a deliberate attempt to manipulate the ML model's behavior. Unlike traditional security risks, which focus on protecting the network from external threats, adversarial examples target the ML model itself, making them a unique and added threat to 5G and beyond.
+
+=======
+
+**Q3:** What are some potential network segments in 5G that are vulnerable to adversarial ML attacks?
+**A3:** Adversarial ML attacks can target various network segments in 5G, including user devices, RAN, MEC, core networks, and the network management and control layer. Each of these segments has recently attracted ML-based solutions, making them potential entry points for adversarial attacks.
+
+=======
+
+**Q4:** How can ML-based security solutions be exploited by adversarial examples in 5G networks?
+**A4:** Adversarial examples can be used to exploit vulnerabilities in ML-based security solutions, leading to new and sophisticated attack vectors. For instance, an attacker could craft an adversarial example that is designed to evade detection by an ML-based intrusion detection system, allowing them to launch a successful attack on the 5G network.
+
+=======
+
+**Q5:** What are the implications of adversarial ML attacks on the security and reliability of 5G networks?
+**A5:** Adversarial ML attacks have the potential to significantly compromise the security and reliability of 5G networks. By exploiting vulnerabilities in ML-based security solutions, attackers can launch targeted and sophisticated attacks that can evade detection and cause significant harm to the network and its users.
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the concern about DL-powered ML models in 5G and B5G networks?**
+**A1:** The concern is that these models are vulnerable to adversarial attacks, which further exacerbates the security risks of future mobile networks.
+
+=======
+
+**Q2: What are the three ML models chosen for the case studies?**
+**A2:** We chose one model from each of the three ML families of algorithms (UL, SL, and DRL) from wireless physical layer operations relevant to 5G and B5G context.
+
+=======
+
+**Q3: Why were the physical layer network operations chosen for the case studies?**
+**A3:** We chose the physical layer network operations because of the maturity of ML research in the context of AI-driven 5G networking and the availability of open-sourced ML models backed up with accessible datasets.
+
+=======
+
+**Q4: What is the purpose of the case studies?**
+**A4:** The purpose of the case studies is to show the feasibility of adversarial ML attacks on 5G systems and highlight the vulnerability that naive use of ML brings to future mobile networks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs for fine-tuning a model on 5G applications:
+
+**Q1: What is the critical task in intelligent radio receivers?**
+**A1:** Automatic modulation classification is a critical task for intelligent radio receivers where the signal amplitude, carrier frequency, phase offsets, and distribution of noise power are unknown variables to the receivers subjected to real-world frequency-selective time-varying channels perturbed by multipath fading and shadowing.
+
+=======
+
+**Q2: Why are conventional maximum-likelihood and feature-based solutions infeasible?**
+**A2:** The conventional maximum-likelihood and feature-based solutions are often infeasible due to the high computational overhead and domain expertise that is required.
+
+=======
+
+**Q3: Why are deep learning (DL) approaches used in modulation classification?**
+**A3:** To make modulation classifiers more common in modern 5G and B5G networked devices, current approaches deploy DL to build an end-to-end modulation classification system capable of automatic extraction of signal features in the wild.
+
+=======
+
+**Q4: What type of neural network is used in this case study?**
+**A4:** We pick a convolutional neural network (CNN) driven SL-based modulation classification model in this case study to illustrate the added dimension of vulnerability introduced in the networks by it.
+
+=======
+
+**Q5: What dataset is used in this case study?**
+**A5:** We use the well-known GNU radio dataset to illustrate the added dimension of vulnerability introduced in the networks by it.
+
+Let me know if you'd like me to add more question-answer pairs!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1:** What is the ML RML2016.10a dataset used for?
+**A1:** The ML RML2016.10a dataset is used to classify digital modulation schemes, specifically consisting of 220,000 input examples of 11 digital modulation schemes on the signal-to-noise ratio (SNR) ranging from -20 to 18 dB.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the measure of the success of the adversary?**
+**A1:** The measure of the success of the adversary is the decay in the classification accuracy.
+
+=======
+
+**Q2: What attack is used to craft adversarial examples to fool the CNN classifier?**
+**A2:** We use the Carlini and Wagner (C&W) attack to craft adversarial examples to fool the CNN classifier.
+
+=======
+
+**Q3: What is the goal of the C&W attack?**
+**A3:** The goal of the C&W attack is to minimize the L2 norm on the perturbation d, such that when the perturbation is added to the input x and sent to the CNN-based modulation classifier, it misclassifies the input x.
+
+=======
+
+**Q4: What does the drop in accuracy of the classifier indicate?**
+**A4:** The drop in accuracy of the classifier indicates the success of the adversary in compromising the integrity of the modulation classifier, which is seen as viable in 5G and B5G networks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the performance of the CNN-based modulation classifier before and during the adversarial attack?
+**A1:** The performance of the CNN-based modulation classifier before and during the adversarial attack is depicted in [insert reference]. A distinct drop in the accuracy of the modulation classification after the adversarial attacks indicates the brittleness of deep supervised ML in 5G and B5G applications.
+
+=======
+
+**Q2:** What is the significance of the results in terms of the adoption of unsafe DL models in 5G and B5G networks?
+**A2:** Our results show that the adoption of unsafe DL models in the physical layer operations of the 5G and B5G networks can make the air-interface of the future networks vulnerable to adversarial ML attacks.
+
+=======
+
+**Q3:** What is the concept of channel autoencoders and its significance in 5G and beyond networks?
+**A3:** In 2016, O'Shea et al. proposed the idea of channel autoencoders, which is an abstraction of how an end-to-end radio communication module functions in real-world wireless systems. Such a deep autoencoder-based communication model is seen as a viable alternative to the dedicated radio hardware in the future 5G and beyond networks.
+
+=======
+
+**Q4:** What is the design of the channel autoencoder used in this case?
+**A4:** (a) depicts the conceptual design of the channel autoencoder that we choose as a deep UL model for this case.
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What type of noise is assumed to affect the model?**
+**A1:** Additive white Gaussian noise (AWGN) channel.
+
+=======
+
+**Q2: What is the threat model assumed for the adversarial ML attack?**
+**A2:** A white-box setting, where the adversary has complete knowledge of the deployed ML model, and the autoencoder learns a broadcast channel.
+
+=======
+
+**Q3: What is the goal of the adversary in this scenario?**
+**A3:** To compromise the integrity of the channel autoencoder and elevate the bit error rate (BLER) with improving signal-to-noise ratio per bit (Eb/N0).
+
+=======
+
+**Q4: What approach is taken to craft adversarial examples for the channel autoencoder?**
+**A4:** A two-step data-independent approach.
+
+=======
+
+Let me know if you'd like me to add more question-answer pairs or if you have any specific requests!
+Answer: 
+
+Question: Here are the question-answer pairs:
+
+**Q1: What is the first step in creating an adversarial perturbation for a hannel autoencoder?**
+**A1:** Sample the Gaussian distribution randomly (because the channel is AWGN) and use it as an initial adversarial perturbation d.
+
+=======
+
+**Q2: What is the goal of maximizing the mean activations of the decoder model when the input of the decoder is the perturbation d?**
+**A2:** This produces maximal spurious activations at each decoder layer and results in the loss of the integrity of the channel autoencoder.
+
+=======
+
+**Q3: What is the outcome of the adversarial attack on the channel autoencoder?**
+**A3:** The performance of the model before and under the adversarial attack is shown in (b), which suggests that adversarial ML attacks often outperform traditional jamming attacks.
+
+=======
+
+**Q4: What is the implication of the adversarial ML attacks on channel autoencoder in 5G mobile networks?**
+**A4:** The application of unsupervised ML in the 5G mobile networks increases its vulnerability to adversarial examples, making it more susceptible to attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What is the impact of adversarial ML attack on the performance of a channel autoencoder?
+**A1:** The adversarial ML attack not only deteriorates the model's performance but also leads to similar or worse performance than with a known jamming attack, as indicated by the block error rate (BLER) versus Eb/N0 curves.
+
+=======
+
+**Q2:** What is the author's recommendation for deep UL-based 5G networked systems and applications?
+**A2:** The author argues that these systems and applications need to be revisited for their robustness before being integrated into the 5G, IoT, and related systems.
+
+=======
+
+**Q3:** What is the architecture of the end-to-end DRL autoencoder used in the final case study?
+**A3:** The architecture is the same as the one considered in the previous case study, with a noisy channel feedback system.
+
+Let me know if you'd like me to add more question-answer pairs or modify the style to better fit your needs!
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1:** What is the main objective of the paper "Attacking Unsupervised ML-based 5G Applications"?
+**A1:** The main objective of the paper is to design a robust and secure unsupervised ML-based 5G application that can withstand adversarial attacks.
+
+=======
+
+**Q2:** What is the proposed solution to ensure the intelligent transmitter learns from noisy feedback?
+**A2:** The proposed solution is to use a policy gradient theorem to train the RL-based transmitter, which ensures that it learns from the noisy feedback after a round of communication.
+
+=======
+
+**Q3:** What is the threat model considered in this case study?
+**A3:** The threat model considered is a realistic black-box setting where the adversary does not know the target model and can perform an adversarial ML attack for "n" time steps.
+
+=======
+
+**Q4:** What is the goal of the adversary in this case study?
+**A4:** The goal of the adversary is to compromise the performance of the DRL autoencoder with noisy feedback for a specific time interval.
+
+=======
+
+**Q5:** How is the success of the adversary measured in this case study?
+**A5:** The success of the adversary is measured by the degradation in the decoder's performance during the attack interval.
+
+=======
+
+These question-answer pairs are designed to help fine-tune a model on the topic of "Attacking Unsupervised ML-based 5G Applications" and are written in the author's style.
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the concept exploited in the experiment?**
+**A1:** We exploit the transferability property of adversarial examples, which states that adversarial examples compromising an ML model will compromise other ML models with high probability if the underlying data distribution is same between two victim models.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What do the results presented in this section confirm?
+**A1:** The results confirm the feasibility of adversarial ML attacks on DL-based applications from all three types of ML algorithms prevalent in 5G network systems.
+
+=======
+
+**Q2:** What is the additional threat landscape that emerges due to the integration of vulnerable DL models to 5G and B5G networks?
+**A2:** The additional threat landscape that emerges is the vulnerability of DL models to adversarial ML attacks, which highlights the need for robustness against such attacks.
+
+=======
+
+**Q3:** What is the challenge in achieving robustness against adversarial ML attacks?
+**A3:** Robustness against adversarial ML attacks is a very challenging problem, as there is a lack of work on recommendations and guidelines for evaluating the robustness of ML in 5G applications.
+
+=======
+
+**Q4:** Is there a defense that ensures complete protection against adversarial ML attacks?
+**A4:** To date, there does not exist a defense that ensures complete protection against adversarial ML attacks.
+
+=======
+
+**Q5:** What is the impact of an adversarial ML attack on the performance of a receiver in a 5G and B5G network?
+**A5:** A clear drop in the performance of the receiver is observed during an adversarial ML attack, as shown in Figure 5(b).
+
+Let me know if you'd like me to add more question-answer pairs or modify the style to better fit your needs!
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What is the significance of an attack in a DRL autoencoder-based end-to-end communication system in future mobile networks?**
+
+**A1:** An attack indicates the success of the adversary in compromising the DRL autoencoder-based end-to-end communication system in future mobile networks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: What is the main concern regarding ML-based 5G applications?**
+**A1:** The representative ML-based 5G applications from physical layers are vulnerable to adversarial ML attacks, which exploit the underlying vulnerability inherent to known DL models in general.
+
+=======
+
+**Q2: What is an example of an attack on a DRL autoencoder?**
+**A2:** We were able to attack the DRL autoencoder by exploiting the fact of transferability, which is the root-cause that enables a same perturbation to fool multiple models.
+
+=======
+
+**Q3: What is the significance of the security landscape of 5G and B5G?**
+**A3:** The security landscape of 5G and B5G is widening further from adoption of a plethora of DL-driven components, substantiated through results from three specific use cases related to 5G physical layer.
+
+=======
+
+**Q4: How challenging is designing a defense against adversarial examples?**
+**A4:** Designing a defense against adversarial examples is a very challenging task. Many approaches for defending against these attacks are available in the literature but these techniques are shown ineffective against sophisticated attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q1: Is it possible to design a generic defense that can defend against any type of adversarial attack?**
+A1: No, a generic defense that can defend against any type of adversarial attack is not possible. So the first logical step is to understand the threat model of the system for which the defensive intervention is needed.
+
+=======
+
+**Q2: How can we improve the odds of detecting many adversarial attacks?**
+A2: In many cases, the adversarial examples are generated/sampled from a distribution similar to the legitimate data. A preemptive data generation process (by using generative models) and aggressive labeling (labeling the preemptively generated examples as false positives) can improve the odds of detecting many adversarial attacks. In our previous work, we have shown that this procedure can help in making a better defense.
+
+=======
+
+**Q3: What are some procedures from the literature that we should deploy to defend against adversarial attacks?**
+A3: Deploy all known procedures from the literature that is in line with the threat model.
+
+=======
+
+**Q4: How should we design defenses against adversarial attacks?**
+A4: Always design defenses considering adaptive adversaries.
+
+=======
+
+**Q5: How do we evaluate the effectiveness of a defense against adversarial attacks?**
+A5: (Note: This question is not fully answered in the provided text. The text only mentions that the following will be provided, but does not provide the actual evaluation methods. To fine-tune a model, you may need to provide additional information or context.)
+Answer: 
+
+Question: Here's the first question-answer pair:
+
+**Q1: What are the important evaluation guidelines for evaluating ML-based 5G applications against adversarial ML attacks?**
+
+**A1:** The important evaluation guidelines for evaluating ML-based 5G applications against adversarial ML attacks are to clearly state the assumptions taken, type of the adversary, and the metrics used for evaluating the defense. Additionally, it is crucial to test the defense against the strongest known attack and use it as a baseline, and to evaluate the defense procedure for gradient-based, gradient-free, and random noise-based attacks.
+
+=======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1:** What are some key metrics used in evaluating/validating a defense mechanism against adversarial examples?
+**A1:** ROC, etc. are used in evaluating/validating the defense, and always look for a change in the false positive and false negative scores. =======
+
+**Q2:** Why is it important to evaluate a defense mechanism against out-of-distribution examples and transferability-based adversarial attacks?
+**A2:** Evaluation of the defense mechanism against out-of-distribution examples and transferability-based adversarial attacks is very important. =======
+
+**Q3:** Can the recommendations provided in the text help in designing a suitable defense against adversarial examples?
+**A3:** Although these recommendations and many others in [6, 18-20] can help in designing a suitable defense against adversarial examples, this is still an open research problem in adversarial ML and ripe for investigation for ML-based 5G applications. =======
+
+**Q4:** What are some drawbacks that call into question the possibility of ML-driven solutions getting integrated into the real-world 5G network?
+**A4:** Apart from the vulnerability of the ML models to the adversarial ML attacks, we underline the following drawbacks that call into question the possibility of ML-driven solutions getting integrated into the real-world 5G network. =======
+Answer: 
+
+Question: Here are the question-answer pairs with the author's style:
+
+**Q: What are the challenges in applying Machine Learning (ML) in the telecom domain?**
+**A:** One of the significant challenges is the lack of real-world datasets. Due to the scarcity of openly available real network data from telecom operators, a large amount of ML research in the telecom domain still relies heavily on simulated or experimental data, which often falls short of truly representing real-world randomness and variations. =======
+
+**Q: How does the lack of real-world datasets impact the development of ML models in telecom?**
+**A:** The lack of real-world datasets means that current state-of-the-art ML models in telecommunication applications are not yet ready to replace the domain-knowledge based expert systems currently in operation. This is because simulated or experimental data may not accurately capture the complexities and nuances of real-world network behavior. =======
+
+**Q: What is another challenge in applying ML in the telecom domain?**
+**A:** Another significant challenge is the lack of explainability in ML models. While DL models are highly accurate in providing output, they often lack an explanation of why a particular output is achieved. In the 5G and B5G network settings, where many critical services are expected to be realized, the lack of explainability can be a major concern. =======
+
+**Q: Why is explainability a critical requirement in the 5G and B5G network settings?**
+**A:** In the 5G and B5G network settings, many critical services such as transport signaling, connected vehicles, and URLLC are expected to be realized over the 5G infrastructure. In such scenarios, the lack of explainability can be a major concern, as it can be difficult to understand and trust the decisions taken by the ML models. Therefore, explanation of a decision taken often would be a critical requirement. =======
+
+**Q: What is the final challenge in applying ML in the telecom domain?**
+**A:** The final challenge is the lack of operational success. While ML models may be highly accurate in simulation, they may not always translate to operational success in real-world scenarios. This is because real-world networks are complex and dynamic, and ML models may not always be able to adapt to changing conditions and requirements. Therefore, operational success is a critical requirement for the widespread adoption of ML in the telecom domain. =======
+Answer: 
+
+Question: Here are the question-answer pairs based on the text:
+
+**Q1: What is the current state of using ML models in operational mobile networks?**
+A1: The use of ML models in operational mobile networks is still quite limited.
+
+=======
+
+**Q2: What happens when ML models are attacked in ideal environments?**
+A2: Even when attacked in ideal environments, the victim models cannot withstand the adversarial attacks, as demonstrated through our case studies.
+
+=======
+
+**Q3: What are the challenges faced by ML models in real-world mobile networks?**
+A3: In real-world mobile networks, the ML models need to be deployed and stay functional under unforeseen random environments, leaving them more vulnerable to adversarial attacks that are beyond what they are designed to be robust against.
+
+=======
+
+**Q4: Why is fortifying security and privacy important for modern and future global networks?**
+A4: Security and privacy are uncompromising necessities for modern and future global networks standards such as 5G and B5G, and accordingly fortifying it to thwart attacks and withstand the rapidly evolving landscape of future security threats is of vital importance.
+
+=======
+
+**Q5: What is the focus of this article?**
+A5: This article specifically highlights that the unvetted adoption of ML models in mobile networks is a concern and needs to be addressed.
+
+Let me know if you'd like me to adjust the style or tone of the answers to better match the author's style!
+Answer: 
+
+Question: Here are the question-answer pairs, formatted as requested:
+
+**Q1: What are the security concerns arising from the adoption of DL-driven solutions in 5G and B5G networking?**
+The security concerns arise from the fact that the 5G standardization bodies, such as the 3GPP, have not adequately addressed these issues. The integration of DL-driven solutions in 5G and B5G networks creates new vulnerabilities that need to be addressed.
+
+=======
+
+**Q2: Why is it essential to conduct cross-disciplinary research in ML and cybersecurity for 5G and B5G networks?**
+It is essential to conduct cross-disciplinary research in ML and cybersecurity because it will enable the development of secure and trusted future 5G and B5G mobile networks. This research will help to identify and mitigate the security risks associated with the adoption of DL-driven solutions in these networks.
+
+=======
+
+**Q3: What is the goal of the proposed research in "telecom-grade ML"?**
+The goal of the proposed research in "telecom-grade ML" is to develop ML solutions that are safe and trustworthy enough to be incorporated into 5G and B5G networks. The aim is to create intelligent and robust mobile networks that support diverse services, including mission-critical systems.
+
+=======
+
+**Q4: What are the potential benefits of developing "telecom-grade ML" solutions for 5G and B5G networks?**
+The potential benefits of developing "telecom-grade ML" solutions for 5G and B5G networks include the creation of intelligent and robust mobile networks that support diverse services, including mission-critical systems. These solutions will enable secure and trusted communication networks that are essential for various applications, including IoT, autonomous vehicles, and smart cities.
+
+=======
+Answer: 
+
